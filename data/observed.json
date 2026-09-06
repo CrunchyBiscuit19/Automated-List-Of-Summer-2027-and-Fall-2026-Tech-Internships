@@ -85,6 +85,18 @@
     }
    }
   },
+  "airwallex": {
+   "name": "Airwallex",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-05",
+     "role_ids": [
+      "ashby:airwallex:6cdb0f39-234a-4234-b1f1-cb48a1fa2795"
+     ],
+     "count": 1
+    }
+   }
+  },
   "akuna capital": {
    "name": "Akuna Capital",
    "cycles": {
@@ -247,6 +259,19 @@
       "greenhouse:appian:8041237",
       "greenhouse:appian:8088496"
      ]
+    }
+   }
+  },
+  "applovin": {
+   "name": "AppLovin",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "greenhouse:applovin:4708448006",
+      "greenhouse:applovin:4708449006"
+     ],
+     "count": 2
     }
    }
   },
@@ -447,6 +472,17 @@
       "smartrecruiters:BoschGroup:744000146547599"
      ],
      "count": 3
+    },
+    "Fall 2026": {
+     "first_posted": "2026-04-09",
+     "role_ids": [
+      "smartrecruiters:BoschGroup:744000119536647",
+      "smartrecruiters:BoschGroup:744000142038898",
+      "smartrecruiters:BoschGroup:744000142038969",
+      "smartrecruiters:BoschGroup:744000142038989",
+      "smartrecruiters:BoschGroup:744000143206979"
+     ],
+     "count": 5
     }
    }
   },
@@ -1387,9 +1423,10 @@
       "workday:mastercard:/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284868",
       "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284873",
-      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875"
+      "workday:mastercard:/job/OFallon-Missouri/Platform-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284875",
+      "workday:mastercard:/job/Singapore/Software-Engineer-Intern--Summer-2027---Singapore_R-287574"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1495,6 +1532,18 @@
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
      "count": 3
+    }
+   }
+  },
+  "mufgub": {
+   "name": "Mufgub",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:mufgub:/job/Singapore-Office-OCC/AI-Intern_10078998-WD"
+     ],
+     "count": 1
     }
    }
   },
@@ -1781,6 +1830,18 @@
     }
    }
   },
+  "procter gamble p g": {
+   "name": "Procter & Gamble (P&G)",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-16",
+     "role_ids": [
+      "workday:pg:/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419"
+     ],
+     "count": 1
+    }
+   }
+  },
   "qts": {
    "name": "QTS",
    "cycles": {
@@ -2026,6 +2087,20 @@
     }
    }
   },
+  "shopback 2": {
+   "name": "Shopback 2",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-06-22",
+     "role_ids": [
+      "lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf",
+      "lever:shopback-2:b216d68c-48b0-4fa5-8f1e-9e0375b993e1",
+      "lever:shopback-2:df5ed7cf-eb1f-4f17-ad11-35ad6011412c"
+     ],
+     "count": 3
+    }
+   }
+  },
   "skydio": {
    "name": "Skydio",
    "cycles": {
@@ -2073,6 +2148,18 @@
      "first_posted": "2026-07-29",
      "role_ids": [
       "workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "squarepoint capital": {
+   "name": "Squarepoint Capital",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2024-08-28",
+     "role_ids": [
+      "greenhouse:squarepointcapital:6201998"
      ],
      "count": 1
     }
@@ -2404,9 +2491,11 @@
    "name": "Virtu Financial",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2025-09-12",
-     "count": 3,
+     "first_posted": "2021-04-16",
+     "count": 5,
      "role_ids": [
+      "greenhouse:virtu:5208637002",
+      "greenhouse:virtu:5513756002",
       "greenhouse:virtu:8142539002",
       "greenhouse:virtu:8624408002",
       "greenhouse:virtu:8624410002"
@@ -2569,5 +2658,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T01:20:06Z"
+ "updated_at": "2026-09-06T08:57:42Z"
 }
