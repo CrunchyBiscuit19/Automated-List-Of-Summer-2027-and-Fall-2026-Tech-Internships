@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-06T15:40:46Z</updated>
+  <updated>2026-09-06T18:31:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bpinternational:/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2</id>
+    <title>BP: Summer Internship-Technology-Data &amp; AI- Malaysia</title>
+    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2"/>
+    <updated>2026-09-06T18:31:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Malaysia - Kuala Lumpur · Python, Java, C#, SQL, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:airwallex:6cdb0f39-234a-4234-b1f1-cb48a1fa2795</id>
     <title>Airwallex: Software Engineer Intern (Summer 2027)</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · King of Prussia, PA, US · Python, Java, C++, React, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466</id>
-    <title>CACI: DevOps/Software Engineering Intern - Summer 2027</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Sterling, VA, US · Python, Java, Linux, Git · status: closed</summary>
   </entry>
 </feed>
