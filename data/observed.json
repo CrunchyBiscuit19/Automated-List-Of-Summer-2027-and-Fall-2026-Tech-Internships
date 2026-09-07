@@ -536,6 +536,18 @@
     }
    }
   },
+  "cantina": {
+   "name": "Cantina",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-07",
+     "role_ids": [
+      "ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ccc intelligent solutions": {
    "name": "CCC Intelligent Solutions",
    "cycles": {
@@ -2658,5 +2670,5 @@
    }
   }
  },
- "updated_at": "2026-09-07T04:45:06Z"
+ "updated_at": "2026-09-07T14:31:03Z"
 }

@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-07T04:45:06Z</updated>
+  <updated>2026-09-07T14:31:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01</id>
+    <title>Cantina: Machine Learning Intern</title>
+    <link href="https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01"/>
+    <updated>2026-09-07T14:31:03Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Singapore · Python, Computer Vision, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935</id>
+    <title>Intel: Intern System Software Development Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935"/>
+    <updated>2026-09-07T14:31:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Malaysia, Kulim · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD</id>
+    <title>PricewaterhouseCoopers (PwC): Risk Services - AI Factory Data Scientist Off-Cycle Internship (Jan - Jun 27)</title>
+    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD"/>
+    <updated>2026-09-07T14:31:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore - Marina One · Python, Java, C++, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8130883</id>
+    <title>Stripe: Software Engineer, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8130883"/>
+    <updated>2026-09-07T14:31:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Java, JavaScript, Scala, Ruby · H-1B track record: ~441 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000147750000</id>
     <title>Bosch: [Bosch HcP - Internship] Industrial AI Engineer Intern</title>
@@ -437,7 +469,7 @@
     <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Raleigh NC · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:fspco-op012325:8769080002</id>
-    <title>Flagship Pioneering: Pioneering Intelligence: Agentic AI Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA USA · $25–$45/hr · Python · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8167886</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8167886"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mandan, ND · Python, Java, SQL, Scala, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8174096</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8174096"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mandan, ND · Java, TypeScript, JavaScript, Angular, HTML/CSS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2622615</id>
-    <title>Sherwin-Williams: Year-Round IT Co-op, Cybersecurity</title>
-    <link href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622615"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Cleveland, OH, United States · status: closed · H-1B track record: ~94 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
