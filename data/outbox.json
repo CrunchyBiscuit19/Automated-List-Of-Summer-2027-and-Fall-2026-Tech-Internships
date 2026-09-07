@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01",
-      "workday:intel:/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955",
-      "workday:intel:/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935",
-      "workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD",
-      "greenhouse:stripe:8130883"
-    ],
-    "telegram": [
-      "ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01",
-      "workday:intel:/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955",
-      "workday:intel:/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935",
-      "workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD",
-      "greenhouse:stripe:8130883"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
