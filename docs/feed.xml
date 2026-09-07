@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-06T22:23:03Z</updated>
+  <updated>2026-09-07T04:45:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000147750000</id>
+    <title>Bosch: [Bosch HcP - Internship] Industrial AI Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000147750000"/>
+    <updated>2026-09-07T04:45:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · An Phuoc Commune, Dong Nai, Vietnam · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916</id>
+    <title>Hitachi Energy: AI-Driven Full Stack Intern</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916"/>
+    <updated>2026-09-07T04:45:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam · Python, Java, C#, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821</id>
+    <title>Micron Technology: Intern - NAND Product Engineering - Probe AI/ML</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821"/>
+    <updated>2026-09-07T04:45:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:bpinternational:/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2</id>
     <title>BP: Summer Internship-Technology-Data &amp; AI- Malaysia</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Cleveland, OH, United States · status: closed · H-1B track record: ~94 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007497</id>
-    <title>Stantec: Roadway Design Co-op Student - Infrastructure (Fall 2026)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Raleigh, NC, United States · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014717</id>
-    <title>Winsupply: Software Developer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014717"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Moraine, OH, United States · Python, Java, Angular · status: closed · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:caci:/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472</id>
-    <title>CACI: Software Engineering Co-op - Fall 2026</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · King of Prussia, PA, US · Python, Java, C++, React, AWS · status: closed</summary>
   </entry>
 </feed>
