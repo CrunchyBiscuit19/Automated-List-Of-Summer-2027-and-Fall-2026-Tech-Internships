@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-07T14:31:03Z</updated>
+  <updated>2026-09-07T20:11:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01</id>
@@ -14,6 +14,14 @@
     <updated>2026-09-07T14:31:03Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Singapore · Python, Computer Vision, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8130883</id>
+    <title>Stripe: Software Engineer, Intern</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8130883"/>
+    <updated>2026-09-07T14:31:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Java, JavaScript, Scala, Ruby · H-1B track record: ~441 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/Intern-System-Software-Development-Engineer_JR0286935</id>
@@ -30,14 +38,6 @@
     <updated>2026-09-07T14:31:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore - Marina One · Python, Java, C++, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8130883</id>
-    <title>Stripe: Software Engineer, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8130883"/>
-    <updated>2026-09-07T14:31:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Java, JavaScript, Scala, Ruby · H-1B track record: ~441 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000147750000</id>
@@ -371,9 +371,9 @@
     <id>urn:intern-engine:smartrecruiters:Continental:744000142562964</id>
     <title>Continental: IT Internship - Process Automation &amp; Software Development</title>
     <link href="https://jobs.smartrecruiters.com/Continental/744000142562964"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-07T20:11:16Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, Git</summary>
+    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141227773</id>
