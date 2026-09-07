@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "smartrecruiters:BoschGroup:744000147750000",
-      "workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916",
-      "workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821"
-    ],
-    "telegram": [
-      "smartrecruiters:BoschGroup:744000147750000",
-      "workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916",
-      "workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
