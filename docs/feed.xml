@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-08T13:06:02Z</updated>
+  <updated>2026-09-08T19:42:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:franklintempleton:/job/SGP-SG234-Singapore/Intern--TGI---Equity-Research--AI-Automation-_869384</id>
-    <title>Franklin Templeton: Intern (TGI - Equity Research/ AI Automation)</title>
-    <link href="https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/SGP-SG234-Singapore/Intern--TGI---Equity-Research--AI-Automation-_869384"/>
-    <updated>2026-09-08T13:06:02Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Data &amp; ML/AI · SGP-SG2/34-Singapore · status: closed</summary>
+    <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934</id>
+    <title>Intel: DevOps and Software Engineering Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934"/>
+    <updated>2026-09-08T19:42:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Malaysia, Kulim · Python, Java, C#, JavaScript, AWS · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amat:/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447</id>
@@ -22,6 +22,14 @@
     <updated>2026-09-08T13:06:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore,SGP · Python · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:franklintempleton:/job/SGP-SG234-Singapore/Intern--TGI---Equity-Research--AI-Automation-_869384</id>
+    <title>Franklin Templeton: Intern (TGI - Equity Research/ AI Automation)</title>
+    <link href="https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/SGP-SG234-Singapore/Intern--TGI---Equity-Research--AI-Automation-_869384"/>
+    <updated>2026-09-08T13:06:02Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Data &amp; ML/AI · SGP-SG2/34-Singapore · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hpe:/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086</id>
-    <title>Allied Solutions: Software Delivery Management Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Carmel, IN · Azure · status: closed</summary>
   </entry>
 </feed>
