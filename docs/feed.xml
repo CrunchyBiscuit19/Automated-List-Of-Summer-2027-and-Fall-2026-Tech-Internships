@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-08T04:43:14Z</updated>
+  <updated>2026-09-08T13:06:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:franklintempleton:/job/SGP-SG234-Singapore/Intern--TGI---Equity-Research--AI-Automation-_869384</id>
+    <title>Franklin Templeton: Intern (TGI - Equity Research/ AI Automation)</title>
+    <link href="https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/SGP-SG234-Singapore/Intern--TGI---Equity-Research--AI-Automation-_869384"/>
+    <updated>2026-09-08T13:06:02Z</updated>
+    <category term="Winter 2026"/>
+    <summary>Winter 2026 · Data &amp; ML/AI · SGP-SG2/34-Singapore · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447</id>
+    <title>Applied Materials: Customer Engineer - Data Science / ML DevOps Internship</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447"/>
+    <updated>2026-09-08T13:06:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore,SGP · Python · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583</id>
+    <title>Hewlett Packard Enterprise: AI and Machine Learning Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583"/>
+    <updated>2026-09-08T13:06:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore, Central Singapore, Singapore · LLMs · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618</id>
+    <title>Hewlett Packard Enterprise: Embedded Software (Firmware) Internship</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618"/>
+    <updated>2026-09-08T13:06:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Singapore, Central Singapore, Singapore · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318</id>
+    <title>Micron Technology: Intern - STPG PE Firmware</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318"/>
+    <updated>2026-09-08T13:06:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · MSB, Singapore · Python, C++, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01</id>
     <title>Cantina: Machine Learning Intern</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Carmel, IN · Azure · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087</id>
-    <title>Allied Solutions: Software Engineering Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Carmel, IN · Python, Java, C#, JavaScript, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173</id>
-    <title>Copart: Software Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX - Headquarters · JavaScript, HTML/CSS · status: closed · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194</id>
-    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🛂</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, C++ · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hdsupply:/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952</id>
-    <title>HD Supply: Graduate Intern, Artificial Intelligence &amp; Data Science - Summer 2027</title>
-    <link href="https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta-GA-US · Python, SQL, LLMs, AWS, GCP · status: closed · H-1B track record: ~27 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410</id>
-    <title>IAT Insurance Group: Cyber Security Internship 🛂</title>
-    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Raleigh NC · sponsorship: no-sponsorship · status: closed</summary>
   </entry>
 </feed>
