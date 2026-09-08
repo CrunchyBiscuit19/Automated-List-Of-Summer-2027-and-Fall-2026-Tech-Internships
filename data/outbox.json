@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:amat:/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447",
-      "workday:hpe:/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583",
-      "workday:hpe:/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618",
-      "workday:micron:/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318"
-    ],
-    "telegram": [
-      "workday:amat:/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447",
-      "workday:hpe:/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583",
-      "workday:hpe:/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618",
-      "workday:micron:/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
