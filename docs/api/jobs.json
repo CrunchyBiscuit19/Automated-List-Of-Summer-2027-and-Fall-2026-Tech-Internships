@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-09T13:15:06Z",
- "data_as_of": "2026-09-09T13:15:06Z",
- "rendered_at": "2026-09-09T13:15:06Z",
+ "generated_at": "2026-09-09T19:29:47Z",
+ "data_as_of": "2026-09-09T19:29:47Z",
+ "rendered_at": "2026-09-09T19:29:48Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 93,
+ "count": 92,
  "jobs": [
   {
    "id": "workday:thales:/job/Singapore/Software-Engineer-Intern_R0339658",
@@ -1665,31 +1665,6 @@
     "Python"
    ],
    "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "recruitee:patsnap:2711703",
-   "company": "PatSnap",
-   "title": "Full Stack Intern (AI & Web Development)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Singapore, Central Singapore, Singapore",
-   "url": "https://careers.patsnap.com/o/full-stack-intern-ai-web-development",
-   "posted_at": "2026-08-15 21:47:24 UTC",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "React",
-    "Vue",
-    "Spring"
-   ],
-   "source": "recruitee",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
