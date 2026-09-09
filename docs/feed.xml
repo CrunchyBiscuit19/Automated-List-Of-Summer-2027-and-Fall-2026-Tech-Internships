@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-09T04:51:38Z</updated>
+  <updated>2026-09-09T13:15:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148366240</id>
-    <title>Bosch: [Internship Program Q4] Embedded Software Intern (C/C++/Linux)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148366240"/>
-    <updated>2026-09-09T04:51:38Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Engineer-Intern_R0339658</id>
+    <title>Thales: Software Engineer Intern</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern_R0339658"/>
+    <updated>2026-09-09T13:15:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Java, TypeScript, Angular, HTML/CSS, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trendmicro:/job/Manila/Cybersecurity-Intern_R0005760</id>
+    <title>Trend Micro: Cybersecurity Intern</title>
+    <link href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760"/>
+    <updated>2026-09-09T13:15:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Manila · Python · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trendmicro:/job/Manila/Global-Infrastructure-Services-Intern_R0009489</id>
+    <title>Trend Micro: Global Infrastructure Services Intern</title>
+    <link href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Global-Infrastructure-Services-Intern_R0009489"/>
+    <updated>2026-09-09T13:15:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Manila · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
@@ -381,7 +397,7 @@
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000143206979"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000143222859</id>
@@ -507,9 +523,9 @@
     <id>urn:intern-engine:workday:dentsuaegis:/job/Jakarta/Data-Analyst-Intern_R1129197</id>
     <title>Dentsu: Data Analyst Intern</title>
     <link href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Jakarta/Data-Analyst-Intern_R1129197"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-09T13:15:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Jakarta · Python, SQL</summary>
+    <summary>Not stated · Data &amp; ML/AI · Jakarta · Python, SQL · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/Embedded-Software-Engineer-Internship_R0142219</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b</id>
-    <title>Reflect Orbital: Embedded Firmware Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour · Python, C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015035697</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Protocol and Special Events Undergraduate AI and Digital Solutions Intern 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015035697"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Remote) · LLMs · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>
