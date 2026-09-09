@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-09T19:29:47Z</updated>
+  <updated>2026-09-09T22:47:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17</id>
+    <title>Sierra: Software Engineer Intern, Agent (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"/>
+    <updated>2026-09-09T22:47:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore · TypeScript, LLMs, React</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Engineer-Intern_R0339658</id>
     <title>Thales: Software Engineer Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2</id>
-    <title>Reflect Orbital: Flight Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour · status: closed</summary>
   </entry>
 </feed>

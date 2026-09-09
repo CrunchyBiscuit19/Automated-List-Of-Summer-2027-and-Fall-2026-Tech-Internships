@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-09T19:29:47Z",
- "data_as_of": "2026-09-09T19:29:47Z",
- "rendered_at": "2026-09-09T19:29:48Z",
+ "generated_at": "2026-09-09T22:47:51Z",
+ "data_as_of": "2026-09-09T22:47:51Z",
+ "rendered_at": "2026-09-09T22:47:51Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 92,
+ "count": 93,
  "jobs": [
   {
    "id": "workday:thales:/job/Singapore/Software-Engineer-Intern_R0339658",
@@ -321,6 +321,31 @@
    ],
    "source": "workday",
    "h1b_approvals": 489,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
+   "company": "Sierra",
+   "title": "Software Engineer Intern, Agent (Summer 2027)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Singapore",
+   "url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
+   "posted_at": "2026-09-07T01:56:26.806+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-09T22:47:51Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "TypeScript",
+    "LLMs",
+    "React"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

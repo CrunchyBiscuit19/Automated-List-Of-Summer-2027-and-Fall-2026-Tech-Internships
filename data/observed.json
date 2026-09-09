@@ -2115,6 +2115,18 @@
     }
    }
   },
+  "sierra": {
+   "name": "Sierra",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-07",
+     "role_ids": [
+      "ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"
+     ],
+     "count": 1
+    }
+   }
+  },
   "skydio": {
    "name": "Skydio",
    "cycles": {
@@ -2672,5 +2684,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T19:29:47Z"
+ "updated_at": "2026-09-09T22:47:51Z"
 }
