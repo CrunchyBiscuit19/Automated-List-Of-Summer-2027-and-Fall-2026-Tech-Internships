@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:thales:/job/Singapore/Software-Engineer-Intern_R0339658",
-      "workday:trendmicro:/job/Manila/Cybersecurity-Intern_R0005760",
-      "workday:trendmicro:/job/Manila/Global-Infrastructure-Services-Intern_R0009489"
-    ],
-    "telegram": [
-      "workday:thales:/job/Singapore/Software-Engineer-Intern_R0339658",
-      "workday:trendmicro:/job/Manila/Cybersecurity-Intern_R0005760",
-      "workday:trendmicro:/job/Manila/Global-Infrastructure-Services-Intern_R0009489"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
