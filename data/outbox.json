@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:BoschGroup:744000148366240",
+      "smartrecruiters:BoschGroup:744000148364924",
+      "smartrecruiters:grab:744000148399141",
+      "workday:hp:/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1",
+      "workday:intel:/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933"
+    ],
+    "telegram": [
+      "smartrecruiters:BoschGroup:744000148366240",
+      "smartrecruiters:BoschGroup:744000148364924",
+      "smartrecruiters:grab:744000148399141",
+      "workday:hp:/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1",
+      "workday:intel:/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933"
+    ]
   }
 }

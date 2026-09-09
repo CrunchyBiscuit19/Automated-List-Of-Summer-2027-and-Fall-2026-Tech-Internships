@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-08T22:52:15Z</updated>
+  <updated>2026-09-09T04:51:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148366240</id>
+    <title>Bosch: [Internship Program Q4] Embedded Software Intern (C/C++/Linux)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148366240"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
+    <title>Bosch: Internship in IT Solution Developer</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148364924"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Batu Kawan, Penang, Malaysia · Python, JavaScript, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:grab:744000148399141</id>
+    <title>Grab: Intern, Software Engineer Mobile</title>
+    <link href="https://jobs.smartrecruiters.com/grab/744000148399141"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Petaling Jaya, , Malaysia · Python, Java, C++, Swift, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1</id>
+    <title>Hewlett Packard (HP): College Intern - AI Transformation</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore, South West, Singapore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933</id>
+    <title>Intel: System Software Engineering Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Malaysia, Kulim · Python, C++ · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934</id>
     <title>Intel: DevOps and Software Engineering Intern</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Remote) · LLMs · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1</id>
-    <title>Hewlett Packard (HP): Software Product Security Engineer Intern 🛂</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript · sponsorship: no-sponsorship · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:generalmatter:5377131008</id>
-    <title>General Matter: Summer 2027 Internship - Embedded Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5377131008"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Los Angeles, CA · $32–$46/hr · Python, C++, Go, Rust · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115752</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Los Angeles, CA, United States · $40/hr · sponsorship: no-sponsorship · status: closed · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/AI-Solutions-Intern_R-011074</id>
-    <title>Allied Solutions: AI Solutions Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Data-Science-Intern_R-011077</id>
-    <title>Allied Solutions: Data Science Intern</title>
-    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · Python, SQL · status: closed</summary>
   </entry>
 </feed>
