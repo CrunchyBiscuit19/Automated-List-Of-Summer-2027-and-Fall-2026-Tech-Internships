@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD",
-      "workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD"
-    ],
-    "telegram": [
-      "workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD",
-      "workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
