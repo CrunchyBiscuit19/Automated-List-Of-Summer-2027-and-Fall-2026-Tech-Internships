@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-10T04:52:01Z</updated>
+  <updated>2026-09-10T13:09:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD</id>
+    <title>Mufgub: Cyber Security Architecture &amp; Engineering Intern</title>
+    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD"/>
+    <updated>2026-09-10T13:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Singapore Office OCC · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD</id>
+    <title>Mufgub: Cyber Security Threat Detection &amp; Incident Response Intern</title>
+    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD"/>
+    <updated>2026-09-10T13:09:11Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Singapore Office OCC · Python, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17</id>
     <title>Sierra: Software Engineer Intern, Agent (Summer 2027)</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-06T08:38:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · USA, TX, Irving · Python, Java, C# · status: closed · H-1B track record: ~147 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e</id>
-    <title>Hadrian: Software Engineer Intern 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Los Angeles, CA · Python, TypeScript · sponsorship: citizens-only · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:hadrian-automation:f718bcfe-3f5b-4682-a294-697499caf813</id>
-    <title>Hadrian: Data Science/ Data Engineer Intern 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: citizens-only · status: closed</summary>
   </entry>
 </feed>

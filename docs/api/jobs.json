@@ -1,11 +1,58 @@
 {
- "generated_at": "2026-09-10T04:52:01Z",
- "data_as_of": "2026-09-10T04:52:01Z",
- "rendered_at": "2026-09-10T04:52:02Z",
+ "generated_at": "2026-09-10T13:09:11Z",
+ "data_as_of": "2026-09-10T13:09:11Z",
+ "rendered_at": "2026-09-10T13:09:11Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 94,
+ "count": 96,
  "jobs": [
+  {
+   "id": "workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD",
+   "company": "Mufgub",
+   "title": "Cyber Security Architecture & Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security",
+   "location": "Singapore Office OCC",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD",
+   "posted_at": "2026-09-10T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-10T13:09:11Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "LLMs"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD",
+   "company": "Mufgub",
+   "title": "Cyber Security Threat Detection & Incident Response Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security",
+   "location": "Singapore Office OCC",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD",
+   "posted_at": "2026-09-10T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-10T13:09:11Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:BoschGroup:744000148655057",
    "company": "Bosch",
