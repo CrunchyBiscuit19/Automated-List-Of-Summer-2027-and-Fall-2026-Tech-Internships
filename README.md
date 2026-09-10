@@ -8,7 +8,7 @@
 
 ### 96 open roles (73 listed below) · 94 new this week
 
-4,401 employers tracked · data as of Sep 10, 2026 at 19:24 UTC
+4,401 employers tracked · data as of Sep 10, 2026 at 22:47 UTC
 
 _21 have a cycle the employer stated · 75 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -125,7 +125,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Grab | Intern, Software Engineer Mobile 🆕 | Software | Petaling Jaya, , Malaysia | Python, Java, C++, Swift | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/grab/744000148399141) |
 | Intel | System Software Engineering Intern 🆕 | Software | Malaysia, Kulim | Python, C++ | Sep 09, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) |
 | Hewlett Packard (HP) | College Intern - AI Transformation 🆕 | Data & ML/AI | Singapore, South West, Singapore | No skills listed | Sep 08, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1) |
-| Intel | DevOps and Software Engineering Intern 🆕 | Software | Malaysia, Kulim | Python, Java, C#, JavaScript | Sep 08, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) |
+| Intel | DevOps and Software Engineering Intern | Software | Malaysia, Kulim | Python, Java, C#, JavaScript | Sep 08, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934) |
 | Applied Materials | Customer Engineer - Data Science / ML DevOps Internship | Data & ML/AI | Singapore,SGP | Python | Sep 08, 2026 | [Apply](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447) |
 | Hewlett Packard Enterprise | AI and Machine Learning Intern | Data & ML/AI | Singapore, Central Singapore, Singapore | LLMs | Sep 08, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583) |
 | Hewlett Packard Enterprise | Embedded Software (Firmware) Internship | Hardware | Singapore, Central Singapore, Singapore | No skills listed | Sep 08, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618) |
@@ -235,7 +235,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,283 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1074.2s · 595 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,277 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1040.1s · 577 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
