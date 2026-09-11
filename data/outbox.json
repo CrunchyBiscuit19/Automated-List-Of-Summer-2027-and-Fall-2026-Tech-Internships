@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:razer:/job/Singapore/AI-Engineer-Intern_JR2026006947",
-      "workday:razer:/job/Singapore/Product-Developer-Intern_JR2026007822",
-      "workday:razer:/job/Singapore/Software-Engineer-Intern_JR2026007809"
-    ],
-    "telegram": [
-      "workday:razer:/job/Singapore/AI-Engineer-Intern_JR2026006947",
-      "workday:razer:/job/Singapore/Product-Developer-Intern_JR2026007822",
-      "workday:razer:/job/Singapore/Software-Engineer-Intern_JR2026007809"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
