@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-11T04:48:46Z</updated>
+  <updated>2026-09-11T13:07:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68790</id>
+    <title>Motorola: Software Engineer Intern</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68790"/>
+    <updated>2026-09-11T13:07:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Penang, Malaysia · Python, C++, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:razer:/job/Singapore/AI-Engineer-Intern_JR2026006947</id>
     <title>Razer: AI Engineer Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore · Java, Swift, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trendmicro:/job/Manila/GRID-DEVOPS-INTERN_R0010148</id>
-    <title>Trend Micro: GRID DEVOPS INTERN</title>
-    <link href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Manila · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

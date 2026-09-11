@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-11T04:48:46Z",
- "data_as_of": "2026-09-11T04:48:46Z",
- "rendered_at": "2026-09-11T04:48:46Z",
+ "generated_at": "2026-09-11T13:07:42Z",
+ "data_as_of": "2026-09-11T13:07:42Z",
+ "rendered_at": "2026-09-11T13:07:42Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 98,
+ "count": 99,
  "jobs": [
+  {
+   "id": "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68790",
+   "company": "Motorola",
+   "title": "Software Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Penang, Malaysia",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68790",
+   "posted_at": "2026-09-11T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-11T13:07:42Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:razer:/job/Singapore/AI-Engineer-Intern_JR2026006947",
    "company": "Razer",
