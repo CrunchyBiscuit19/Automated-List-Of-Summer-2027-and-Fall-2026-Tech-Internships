@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-10T22:47:43Z</updated>
+  <updated>2026-09-11T04:48:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/AI-Engineer-Intern_JR2026006947</id>
+    <title>Razer: AI Engineer Intern</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947"/>
+    <updated>2026-09-11T04:48:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/Product-Developer-Intern_JR2026007822</id>
+    <title>Razer: Product Developer Intern</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822"/>
+    <updated>2026-09-11T04:48:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · LLMs, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/Software-Engineer-Intern_JR2026007809</id>
+    <title>Razer: Software Engineer Intern</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809"/>
+    <updated>2026-09-11T04:48:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Python, TypeScript, JavaScript, React, Flask</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD</id>
     <title>Mufgub: Cyber Security Architecture &amp; Engineering Intern</title>
@@ -379,9 +403,9 @@
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000139971749</id>
     <title>Bosch: [Internship] Data and AI Intern (Data focused)</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000139971749"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-11T04:30:07Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · An Phu, Thu Duc City, , Vietnam · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · An Phu, Thu Duc City, , Vietnam · status: closed · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141421629</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Manila · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469</id>
-    <title>McKesson: Software Engineer Intern - Summer 2027</title>
-    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>2 openings · Summer 2027 · Software · USA, CO, Longmont · Python, Java, C++, C#, Git · status: closed · H-1B track record: ~147 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844</id>
-    <title>McKesson: Data Analyst Intern - Summer 2027</title>
-    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA, OH, Columbus · SQL, Tableau · status: closed · H-1B track record: ~147 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635</id>
-    <title>McKesson: Software Development Intern - Summer 2027</title>
-    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"/>
-    <updated>2026-09-06T08:38:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, TX, Irving · Python, Java, C# · status: closed · H-1B track record: ~147 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

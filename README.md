@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 96 open roles (73 listed below) · 94 new this week
+### 98 open roles (73 listed below) · 96 new this week
 
-4,401 employers tracked · data as of Sep 10, 2026 at 22:47 UTC
+4,401 employers tracked · data as of Sep 11, 2026 at 04:48 UTC
 
-_21 have a cycle the employer stated · 75 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_21 have a cycle the employer stated · 77 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -117,6 +117,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Razer | AI Engineer Intern 🆕 | Data & ML/AI | Singapore | Python, LLMs | Sep 11, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947) |
+| Razer | Product Developer Intern 🆕 | Software | Singapore | LLMs, Tableau | Sep 11, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822) |
+| Razer | Software Engineer Intern 🆕 | Software | Singapore | Python, TypeScript, JavaScript, React | Sep 11, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809) |
 | Mufgub | Cyber Security Architecture & Engineering Intern 🆕 | Security | Singapore Office OCC | LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD) |
 | Mufgub | Cyber Security Threat Detection & Incident Response Intern 🆕 | Security | Singapore Office OCC | Python, LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD) |
 | Thales | Software Engineer Intern 🆕 | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Sep 09, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern_R0339658) |
@@ -148,8 +151,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Marinabaysands | Intern, Cyber Security | Security | Marina Bay Sands, Singapore | No skills listed | Aug 28, 2026 | [Apply](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208) |
 | Marinabaysands | Intern, Developer (Middleware) | Software | Perennial Business City, Singapore | Java, SQL, Spring, Git | Aug 28, 2026 | [Apply](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer--Middleware-_JR10007967) |
 | Marinabaysands | Intern, Developer A.I | Software | Perennial Business City, Singapore | Python, Java, C#, JavaScript | Aug 28, 2026 | [Apply](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer-AI_JR10007970) |
-| Razer | Applied AI Intern (Voice) | Data & ML/AI | Singapore | Python, SQL, LLMs, Node.js | Aug 28, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) |
-| Razer | Applied AI Intern | Data & ML/AI | Singapore | Python, SQL, LLMs, Computer Vision | Aug 28, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern_JR2026007785) |
 | Swift | Site Reliability Engineering (SRE) Intern | Software | Kuala Lumpur, Malaysia | Swift, Tableau | Aug 28, 2026 | [Apply](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467) |
 | Trend Micro | GRID DEVOPS INTERN | Software | Manila | No skills listed | Aug 27, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148) |
 | Hitachi Energy | Embedded Engineering Software Internship | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | C++, Linux | Aug 26, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142038) |
@@ -161,7 +162,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Tower Research Capital | Quantitative Developer Intern | Quant | Singapore | Python, C++, Bash, Pandas | Aug 18, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8138524) |
 | Huntsman | Business Intelligence & AI Analytics Intern | Data & ML/AI | Malaysia - Kuala Lumpur | SQL, LLMs, Databricks | Aug 18, 2026 | [Apply](https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Malaysia---Kuala-Lumpur/Business-Intelligence---AI-Analytics-Intern_J-020202) |
 | Tencent | Cloud Engineer Intern | Software | Singapore-CapitaSky | Python, PyTorch, LLMs, AWS | Aug 18, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Cloud-Engineer-Intern_R107771) |
-| Razer | Computer Vision Intern | Data & ML/AI | Singapore Razer AI Center | Computer Vision, Python, PyTorch, TensorFlow | Aug 17, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731) |
 | DRW | Software Engineer Intern (Data Engineering) | Data & ML/AI | Singapore | Python, Pandas, Kubernetes, PostgreSQL | Aug 13, 2026 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8127242) |
 | Jump Trading | Campus Quantitative Researcher (Intern) | Quant | Singapore | Python, C++ | Aug 03, 2026 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027939) |
 | Jump Trading | Campus Quantitative Trader (Intern) | Quant | Singapore | No skills listed | Aug 03, 2026 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027941) |
@@ -235,7 +235,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,277 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1040.1s · 577 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,253 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1118.7s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
