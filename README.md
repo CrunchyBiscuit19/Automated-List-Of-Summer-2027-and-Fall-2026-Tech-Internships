@@ -8,7 +8,7 @@
 
 ### 99 open roles (74 listed below) · 97 new this week
 
-4,401 employers tracked · data as of Sep 11, 2026 at 13:07 UTC
+4,401 employers tracked · data as of Sep 11, 2026 at 19:26 UTC
 
 _21 have a cycle the employer stated · 78 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -123,9 +123,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Razer | Software Engineer Intern 🆕 | Software | Singapore | Python, TypeScript, JavaScript, React | Sep 11, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809) |
 | Mufgub | Cyber Security Architecture & Engineering Intern 🆕 | Security | Singapore Office OCC | LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD) |
 | Mufgub | Cyber Security Threat Detection & Incident Response Intern 🆕 | Security | Singapore Office OCC | Python, LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD) |
-| Thales | Software Engineer Intern 🆕 | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Sep 09, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern_R0339658) |
-| Trend Micro | Cybersecurity Intern 🆕 | Security | Manila | Python | Sep 09, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760) |
-| Trend Micro | Global Infrastructure Services Intern 🆕 | Software | Manila | No skills listed | Sep 09, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Global-Infrastructure-Services-Intern_R0009489) |
+| Thales | Software Engineer Intern | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Sep 09, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern_R0339658) |
+| Trend Micro | Cybersecurity Intern | Security | Manila | Python | Sep 09, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760) |
+| Trend Micro | Global Infrastructure Services Intern | Software | Manila | No skills listed | Sep 09, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Global-Infrastructure-Services-Intern_R0009489) |
 | Grab | Intern, Software Engineer Mobile | Software | Petaling Jaya, , Malaysia | Python, Java, C++, Swift | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/grab/744000148399141) |
 | Intel | System Software Engineering Intern | Software | Malaysia, Kulim | Python, C++ | Sep 09, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/System-Software-Engineering-Intern_JR0286933) |
 | Hewlett Packard (HP) | College Intern - AI Transformation | Data & ML/AI | Singapore, South West, Singapore | No skills listed | Sep 08, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1) |
@@ -236,7 +236,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,293 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1195.2s · 581 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,305 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1102.7s · 598 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
