@@ -8,7 +8,7 @@
 
 ### 99 open roles (74 listed below) · 97 new this week
 
-4,401 employers tracked · data as of Sep 12, 2026 at 12:23 UTC
+4,401 employers tracked · data as of Sep 12, 2026 at 18:35 UTC
 
 _21 have a cycle the employer stated · 78 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -121,8 +121,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Razer | AI Engineer Intern 🆕 | Data & ML/AI | Singapore | Python, LLMs | Sep 11, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Engineer-Intern_JR2026006947) |
 | Razer | Product Developer Intern 🆕 | Software | Singapore | LLMs, Tableau | Sep 11, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Developer-Intern_JR2026007822) |
 | Razer | Software Engineer Intern 🆕 | Software | Singapore | Python, TypeScript, JavaScript, React | Sep 11, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809) |
-| Mufgub | Cyber Security Architecture & Engineering Intern 🆕 | Security | Singapore Office OCC | LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD) |
-| Mufgub | Cyber Security Threat Detection & Incident Response Intern 🆕 | Security | Singapore Office OCC | Python, LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD) |
+| Mufgub | Cyber Security Architecture & Engineering Intern | Security | Singapore Office OCC | LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD) |
+| Mufgub | Cyber Security Threat Detection & Incident Response Intern | Security | Singapore Office OCC | Python, LLMs | Sep 10, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD) |
 | Thales | Software Engineer Intern | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Sep 09, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern_R0339658) |
 | Trend Micro | Cybersecurity Intern | Security | Manila | Python | Sep 09, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760) |
 | Trend Micro | Global Infrastructure Services Intern | Software | Manila | No skills listed | Sep 09, 2026 | [Apply](https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Global-Infrastructure-Services-Intern_R0009489) |
@@ -236,7 +236,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,354 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 937.9s · 603 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,205 of 4,651 registered boards returned successfully across 12 ATS platforms (91% of boards attempted, 90% of the full registry) · completed in 985.3s · 544 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
