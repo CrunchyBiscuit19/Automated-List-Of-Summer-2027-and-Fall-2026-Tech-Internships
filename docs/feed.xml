@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-13T13:34:45Z</updated>
+  <updated>2026-09-13T19:02:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784061</id>
+    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Singapore</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784061"/>
+    <updated>2026-09-13T19:02:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784366</id>
+    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Singapore</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784366"/>
+    <updated>2026-09-13T19:02:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68790</id>
     <title>Motorola: Software Engineer Intern</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore-CapitaSky · Python, Java, C++, Go, Scala</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158</id>
-    <title>Thales: Software Development and Integration Engineer (Intern)</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Java, TypeScript, Angular, HTML/CSS, Spring</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782</id>
-    <title>Thales: Software Engineer Intern - Middleware (IBS)</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Java, Swift, Kotlin</summary>
   </entry>
 </feed>
