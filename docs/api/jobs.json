@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-12T22:29:59Z",
- "data_as_of": "2026-09-12T22:29:59Z",
- "rendered_at": "2026-09-12T22:30:00Z",
+ "generated_at": "2026-09-13T04:53:41Z",
+ "data_as_of": "2026-09-13T04:53:41Z",
+ "rendered_at": "2026-09-13T04:53:42Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 99,
+ "count": 98,
  "jobs": [
   {
    "id": "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68790",
@@ -2350,31 +2350,6 @@
     "LLMs"
    ],
    "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:simular:7147a575-c7da-44d3-a6d6-2cdd4d24b94a",
-   "company": "Simular",
-   "title": "Data Analyst Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Singapore",
-   "url": "https://jobs.ashbyhq.com/simular/7147a575-c7da-44d3-a6d6-2cdd4d24b94a",
-   "posted_at": "2026-07-29T13:10:42.676+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "dbt"
-   ],
-   "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
