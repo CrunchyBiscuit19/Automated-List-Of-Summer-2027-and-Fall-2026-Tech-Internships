@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:BoschGroup:744000149236759",
+      "smartrecruiters:BoschGroup:744000149241480",
+      "workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Cloud--DevOps-Intern_R0144780",
+      "workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146",
+      "workday:tencent:/job/Singapore-CapitaSky/AI-Compute-Intern_R108149"
+    ],
+    "telegram": [
+      "smartrecruiters:BoschGroup:744000149236759",
+      "smartrecruiters:BoschGroup:744000149241480",
+      "workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Cloud--DevOps-Intern_R0144780",
+      "workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146",
+      "workday:tencent:/job/Singapore-CapitaSky/AI-Compute-Intern_R108149"
+    ]
   }
 }

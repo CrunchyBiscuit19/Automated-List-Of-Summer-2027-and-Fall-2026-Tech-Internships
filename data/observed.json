@@ -482,9 +482,10 @@
       "smartrecruiters:BoschGroup:744000142038989",
       "smartrecruiters:BoschGroup:744000143206979",
       "smartrecruiters:BoschGroup:744000148364924",
-      "smartrecruiters:BoschGroup:744000148366240"
+      "smartrecruiters:BoschGroup:744000148366240",
+      "smartrecruiters:BoschGroup:744000149236759"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -2686,5 +2687,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T05:05:09Z"
+ "updated_at": "2026-09-14T15:16:51Z"
 }
