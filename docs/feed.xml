@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-13T22:40:38Z</updated>
+  <updated>2026-09-14T05:05:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149233579</id>
+    <title>Bosch: [BD] Software Test Engineer Intern (6-month Internship)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000149233579"/>
+    <updated>2026-09-14T05:05:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784061</id>
     <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Singapore</title>
@@ -371,17 +379,17 @@
     <id>urn:intern-engine:greenhouse:xendit:7821207003</id>
     <title>Xendit: Full Stack Developer Intern</title>
     <link href="https://job-boards.greenhouse.io/xendit/jobs/7821207003"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-14T04:47:43Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Jakarta, Indonesia · TypeScript, JavaScript, SQL, React, Next.js</summary>
+    <summary>Not stated · Software · Jakarta, Indonesia · TypeScript, JavaScript, SQL, React, Next.js · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:xendit:7821208003</id>
     <title>Xendit: Data / ML Automation Intern</title>
     <link href="https://job-boards.greenhouse.io/xendit/jobs/7821208003"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-14T04:47:43Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Jakarta, Indonesia · Python, TypeScript, SQL, PyTorch, TensorFlow</summary>
+    <summary>Not stated · Data &amp; ML/AI · Jakarta, Indonesia · Python, TypeScript, SQL, PyTorch, TensorFlow · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Java, AWS, Kubernetes, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/WeChat---Backend-Engineer-Intern_R107928</id>
-    <title>Tencent: WeChat - Backend Engineer Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/WeChat---Backend-Engineer-Intern_R107928"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore-CapitaSky · Python, Java, C++, Go, Scala</summary>
   </entry>
 </feed>
