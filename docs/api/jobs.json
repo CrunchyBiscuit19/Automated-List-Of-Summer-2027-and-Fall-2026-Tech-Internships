@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-09-14T15:16:51Z",
- "data_as_of": "2026-09-14T15:16:51Z",
- "rendered_at": "2026-09-14T15:16:51Z",
+ "generated_at": "2026-09-14T20:34:41Z",
+ "data_as_of": "2026-09-14T20:34:41Z",
+ "rendered_at": "2026-09-14T20:34:42Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 104,
@@ -11,10 +11,7 @@
    "company": "Bosch",
    "title": "[Internship Program Q4] Embedded Software Intern (C/C++/Linux)",
    "season": "Fall 2026",
-   "seasons": [
-    "Fall 2026",
-    "Spring 2027"
-   ],
+   "seasons": null,
    "season_inferred": false,
    "category": "Software",
    "location": "Ho Chi Minh, , Vietnam",
@@ -78,32 +75,6 @@
    "remote": false
   },
   {
-   "id": "workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146",
-   "company": "Tencent",
-   "title": "Data Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Singapore-CapitaSky",
-   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146",
-   "posted_at": "2026-09-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T15:16:51Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "SQL",
-    "Kafka"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:tencent:/job/Singapore-CapitaSky/AI-Compute-Intern_R108149",
    "company": "Tencent",
    "title": "AI Compute Intern",
@@ -123,6 +94,32 @@
     "Bash",
     "LLMs",
     "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146",
+   "company": "Tencent",
+   "title": "Data Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Singapore-CapitaSky",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146",
+   "posted_at": "2026-09-14T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-14T15:16:51Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "Kafka"
    ],
    "source": "workday",
    "h1b_approvals": null,

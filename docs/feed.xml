@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-14T15:16:51Z</updated>
+  <updated>2026-09-14T20:34:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149236759</id>
-    <title>Bosch: [Internship Program Q4] Embedded Software Intern (C/C++/Linux)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000149236759"/>
-    <updated>2026-09-14T15:16:51Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149241480</id>
     <title>Bosch: [EAA] Embedded Test Engineer Intern</title>
@@ -32,20 +24,20 @@
     <summary>Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146</id>
-    <title>Tencent: Data Engineer Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146"/>
-    <updated>2026-09-14T15:16:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, Java, SQL, Kafka</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/AI-Compute-Intern_R108149</id>
     <title>Tencent: AI Compute Intern</title>
     <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/AI-Compute-Intern_R108149"/>
     <updated>2026-09-14T15:16:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, Bash, LLMs, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146</id>
+    <title>Tencent: Data Engineer Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108146"/>
+    <updated>2026-09-14T15:16:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, Java, SQL, Kafka</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149233579</id>
@@ -517,7 +509,7 @@
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000143206979"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Fall 2026"/>
-    <summary>2 openings · Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>3 openings · Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000143222859</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, LLMs, Computer Vision, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:swift:/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467</id>
+    <title>Swift: Site Reliability Engineering (SRE) Intern</title>
+    <link href="https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Kuala Lumpur, Malaysia · Swift, Tableau · H-1B track record: ~33 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
