@@ -1,30 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-1",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984",
-      "workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107",
-      "workday:razer:/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1"
-    ],
-    "telegram": [
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-1",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984",
-      "workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107",
-      "workday:razer:/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
