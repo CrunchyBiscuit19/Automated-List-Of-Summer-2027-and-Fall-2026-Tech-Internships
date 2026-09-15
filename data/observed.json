@@ -338,6 +338,33 @@
     }
    }
   },
+  "autodesk": {
+   "name": "Autodesk",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-1",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984"
+     ],
+     "count": 9
+    },
+    "Fall 2026": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "awetomaton": {
    "name": "Awetomaton",
    "cycles": {
@@ -2688,5 +2715,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T05:03:58Z"
+ "updated_at": "2026-09-15T13:40:29Z"
 }

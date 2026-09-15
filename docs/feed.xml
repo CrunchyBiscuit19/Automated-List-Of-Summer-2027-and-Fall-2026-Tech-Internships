@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-15T05:03:58Z</updated>
+  <updated>2026-09-15T13:40:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997</id>
+    <title>Autodesk: Intern, Software Development Engineer [PSET-Localization]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997"/>
+    <updated>2026-09-15T13:40:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>2 openings · Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995</id>
+    <title>Autodesk: Intern, Software Development Engineer [PSET-Connected Delivery]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995"/>
+    <updated>2026-09-15T13:40:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore, SGP · Python, C++, React, Angular, Linux · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1</id>
+    <title>Autodesk: Intern, Software Development Engineer [PSET-Access-ENG]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1"/>
+    <updated>2026-09-15T13:40:29Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Singapore, SGP · Python, Java, C++, C#, AWS · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985</id>
+    <title>Autodesk: Intern, Software Development Engineer [PSET-Access-ENG]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985"/>
+    <updated>2026-09-15T13:40:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>4 openings · Summer 2027 · Software · Singapore, SGP · Python, C++, Rust, Bash · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984</id>
+    <title>Autodesk: Intern, Software Development Engineer [PSET-Product Data-Files &amp; Derivatives]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984"/>
+    <updated>2026-09-15T13:40:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore, SGP · Python, Java, SQL, GraphQL, AWS · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107</id>
+    <title>Micron Technology: Intern - NAND Device Engineering AI</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107"/>
+    <updated>2026-09-15T13:40:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1</id>
+    <title>Razer: AI Data Engineer Intern</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1"/>
+    <updated>2026-09-15T13:40:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, AWS, GCP, Terraform</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:applovin:4713038006</id>
     <title>AppLovin: Machine Learning Engineering Intern (2027 Summer Internship)</title>
@@ -750,61 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, C#, JavaScript, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/AI-Intern_10078998-WD</id>
-    <title>Mufgub: AI Intern</title>
-    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/AI-Intern_10078998-WD"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Singapore Office OCC · Python, TypeScript, TensorFlow, LLMs, React · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD</id>
-    <title>Mufgub: Cybersecurity Awareness &amp; Training Intern</title>
-    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Singapore Office OCC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pg:/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419</id>
-    <title>Procter &amp; Gamble (P&amp;G): Data Science Intern (Semester 2026) - P&amp;G Management Internship Program - Bachelor's Degree or above</title>
-    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · SINGAPORE GENERAL OFFICE · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:razer:/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731</id>
-    <title>Razer: Computer Vision Intern</title>
-    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore Razer AI Center · Computer Vision, Python, PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:razer:/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735</id>
-    <title>Razer: Generative AI Intern</title>
-    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore Razer AI Center · LLMs, Python, PyTorch, TensorFlow, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:razer:/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784</id>
-    <title>Razer: Applied AI Intern (Voice)</title>
-    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, LLMs, Node.js, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:razer:/job/Singapore/Applied-AI-Intern_JR2026007785</id>
-    <title>Razer: Applied AI Intern</title>
-    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern_JR2026007785"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, LLMs, Computer Vision, Node.js</summary>
   </entry>
 </feed>
