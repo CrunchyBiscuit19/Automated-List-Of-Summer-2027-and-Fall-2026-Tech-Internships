@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-14T20:34:41Z</updated>
+  <updated>2026-09-15T05:03:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:applovin:4713038006</id>
+    <title>AppLovin: Machine Learning Engineering Intern (2027 Summer Internship)</title>
+    <link href="https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006"/>
+    <updated>2026-09-15T05:03:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore · Python, PyTorch, TensorFlow · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149241480</id>
     <title>Bosch: [EAA] Embedded Test Engineer Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, LLMs, Computer Vision, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:swift:/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467</id>
-    <title>Swift: Site Reliability Engineering (SRE) Intern</title>
-    <link href="https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Kuala Lumpur, Malaysia · Swift, Tableau · H-1B track record: ~33 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -269,9 +269,10 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "greenhouse:applovin:4708448006",
-      "greenhouse:applovin:4708449006"
+      "greenhouse:applovin:4708449006",
+      "greenhouse:applovin:4713038006"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2687,5 +2688,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T20:34:41Z"
+ "updated_at": "2026-09-15T05:03:58Z"
 }

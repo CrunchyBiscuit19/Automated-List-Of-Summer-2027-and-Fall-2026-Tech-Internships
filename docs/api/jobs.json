@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-09-14T20:34:41Z",
- "data_as_of": "2026-09-14T20:34:41Z",
- "rendered_at": "2026-09-14T20:34:42Z",
+ "generated_at": "2026-09-15T05:03:58Z",
+ "data_as_of": "2026-09-15T05:03:58Z",
+ "rendered_at": "2026-09-15T05:03:58Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 104,
+ "count": 105,
  "jobs": [
+  {
+   "id": "greenhouse:applovin:4713038006",
+   "company": "AppLovin",
+   "title": "Machine Learning Engineering Intern (2027 Summer Internship)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Singapore",
+   "url": "https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006",
+   "posted_at": "2026-09-14T22:20:54-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-15T05:03:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": 40,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:BoschGroup:744000149236759",
    "company": "Bosch",
