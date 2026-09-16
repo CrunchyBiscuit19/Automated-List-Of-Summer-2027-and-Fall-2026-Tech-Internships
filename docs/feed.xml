@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-16T05:00:53Z</updated>
+  <updated>2026-09-16T13:46:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10544261</id>
+    <title>Amazon: Software Developer Intern, Field Innovation, Security Search and Observability (SSO)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10544261/software-developer-intern-field-innovation-security-search-and-observability-sso"/>
+    <updated>2026-09-16T13:46:09Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Security · Singapore, International · Python, Java, C++, C#, Rust · status: closed · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:goventi:52c162ad-20c4-4db0-ae4f-cc4d1218bc67</id>
+    <title>Goventi: C++ Software Engineer Intern (Control)</title>
+    <link href="https://jobs.ashbyhq.com/goventi/52c162ad-20c4-4db0-ae4f-cc4d1218bc67"/>
+    <updated>2026-09-16T13:46:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · C++, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Backend-Development-Intern--6-months-_R108169</id>
     <title>Tencent: Backend Development Intern (6 months)</title>
@@ -497,7 +513,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf</id>
-    <title>Shopback 2: Software Engineer Intern - Backend (H1 2027)</title>
+    <title>Shopback 2: Software Engineer Intern (H1 2027)</title>
     <link href="https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
@@ -790,21 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Perennial Business City, Singapore · Java, SQL, Spring, Git, Kafka</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer-AI_JR10007970</id>
-    <title>Marinabaysands: Intern, Developer A.I</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer-AI_JR10007970"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Perennial Business City, Singapore · Python, Java, C#, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer-NET_JR10007965</id>
-    <title>Marinabaysands: Intern, Developer .NET</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer-NET_JR10007965"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Perennial Business City, Singapore · C#, JavaScript, SQL, HTML/CSS, .NET</summary>
   </entry>
 </feed>

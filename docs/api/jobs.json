@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-16T05:00:53Z",
- "data_as_of": "2026-09-16T05:00:53Z",
- "rendered_at": "2026-09-16T05:00:54Z",
+ "generated_at": "2026-09-16T13:46:09Z",
+ "data_as_of": "2026-09-16T13:46:09Z",
+ "rendered_at": "2026-09-16T13:46:09Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 116,
+ "count": 115,
  "jobs": [
+  {
+   "id": "ashby:goventi:52c162ad-20c4-4db0-ae4f-cc4d1218bc67",
+   "company": "Goventi",
+   "title": "C++ Software Engineer Intern (Control)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Singapore",
+   "url": "https://jobs.ashbyhq.com/goventi/52c162ad-20c4-4db0-ae4f-cc4d1218bc67",
+   "posted_at": "2026-09-16T07:39:46.013+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-16T13:46:09Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++",
+    "Linux"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:tencent:/job/Singapore-CapitaSky/Backend-Development-Intern--6-months-_R108169",
    "company": "Tencent",
@@ -2324,59 +2348,6 @@
    "remote": false
   },
   {
-   "id": "workday:razer:/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731",
-   "company": "Razer",
-   "title": "Computer Vision Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Singapore Razer AI Center",
-   "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Computer-Vision-Intern_JR2026007731",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Computer Vision",
-    "Python",
-    "PyTorch",
-    "TensorFlow"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:razer:/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735",
-   "company": "Razer",
-   "title": "Generative AI Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Singapore Razer AI Center",
-   "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore-Razer-AI-Center/Generative-AI-Intern_JR2026007735",
-   "posted_at": "2026-08-17T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "LLMs",
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:pg:/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419",
    "company": "Procter & Gamble (P&G)",
    "title": "Data Science Intern (Semester 2026) - P&G Management Internship Program - Bachelor's Degree or above",
@@ -2734,7 +2705,7 @@
   {
    "id": "lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf",
    "company": "Shopback 2",
-   "title": "Software Engineer Intern - Backend (H1 2027)",
+   "title": "Software Engineer Intern (H1 2027)",
    "season": "Summer 2027",
    "seasons": null,
    "season_inferred": false,
