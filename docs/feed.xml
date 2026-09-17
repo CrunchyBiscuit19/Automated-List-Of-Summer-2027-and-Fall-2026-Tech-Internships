@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-16T23:08:24Z</updated>
+  <updated>2026-09-17T05:01:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD</id>
+    <title>PricewaterhouseCoopers (PwC): Risk Services - Program Management (AI Hub) Off-Cycle Internship (Jan - Jun 27)</title>
+    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD"/>
+    <updated>2026-09-17T05:01:52Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore - Marina One · Java, C++, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10544261</id>
     <title>Amazon: Software Developer Intern, Field Innovation, Security Search and Observability (SSO)</title>
@@ -157,7 +165,7 @@
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68790"/>
     <updated>2026-09-11T13:07:42Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Penang, Malaysia · Python, C++, Linux</summary>
+    <summary>2 openings · Not stated · Software · Penang, Malaysia · Python, C++, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:razer:/job/Singapore/AI-Engineer-Intern_JR2026006947</id>
@@ -613,7 +621,7 @@
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145655349"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore, , Singapore · Python, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Singapore, , Singapore · Python, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145673389</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Marina Bay Sands, Singapore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer--Middleware-_JR10007967</id>
-    <title>Marinabaysands: Intern, Developer (Middleware)</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer--Middleware-_JR10007967"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Perennial Business City, Singapore · Java, SQL, Spring, Git, Kafka</summary>
   </entry>
 </feed>
