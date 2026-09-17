@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-17T05:01:52Z</updated>
+  <updated>2026-09-17T13:41:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210783022</id>
+    <title>JPMorganChase: 2027 Data &amp; AI Program - Summer Internship - Singapore</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783022"/>
+    <updated>2026-09-17T13:41:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore, Singapore · Python, SQL, LLMs, AWS, Databricks · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150014319</id>
+    <title>Bosch: Intern, AI Research</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000150014319"/>
+    <updated>2026-09-17T13:41:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore, , Singapore · Python, C++, TensorFlow · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marinabaysands:/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968</id>
+    <title>Marinabaysands: Intern, Software Quality Assurance</title>
+    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968"/>
+    <updated>2026-09-17T13:41:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Marina Bay Sands, Singapore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170</id>
+    <title>Micron Technology: Intern, Facilities AI Engineering</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170"/>
+    <updated>2026-09-17T13:41:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, LLMs, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD</id>
     <title>PricewaterhouseCoopers (PwC): Risk Services - Program Management (AI Hub) Off-Cycle Internship (Jan - Jun 27)</title>
@@ -621,7 +653,7 @@
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145655349"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · Singapore, , Singapore · Python, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>3 openings · Not stated · Data &amp; ML/AI · Singapore, , Singapore · Python, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145673389</id>
@@ -763,9 +795,9 @@
     <id>urn:intern-engine:workday:huntsman:/job/Malaysia---Kuala-Lumpur/Business-Intelligence---AI-Analytics-Intern_J-020202</id>
     <title>Huntsman: Business Intelligence &amp; AI Analytics Intern</title>
     <link href="https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Malaysia---Kuala-Lumpur/Business-Intelligence---AI-Analytics-Intern_J-020202"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-17T13:41:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Malaysia - Kuala Lumpur · SQL, LLMs, Databricks</summary>
+    <summary>Not stated · Data &amp; ML/AI · Malaysia - Kuala Lumpur · SQL, LLMs, Databricks · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Malaysia, Kulim · Python, C# · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937</id>
-    <title>Intel: Intern System Software Development Engineer</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499</id>
-    <title>Intel: Intern Systems Software Development Engineer</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Malaysia, Penang · Python, C# · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501</id>
-    <title>Intel: Intern Systems Software Development Engineer</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0286501"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Vietnam, Ho_Chi_Minh_City · Python, C++ · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208</id>
-    <title>Marinabaysands: Intern, Cyber Security</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Marina Bay Sands, Singapore</summary>
   </entry>
 </feed>
