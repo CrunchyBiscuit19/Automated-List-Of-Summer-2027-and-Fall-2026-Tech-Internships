@@ -1,35 +1,11 @@
 {
- "generated_at": "2026-09-17T13:41:02Z",
- "data_as_of": "2026-09-17T13:41:02Z",
- "rendered_at": "2026-09-17T13:41:02Z",
+ "generated_at": "2026-09-17T20:00:43Z",
+ "data_as_of": "2026-09-17T20:00:43Z",
+ "rendered_at": "2026-09-17T20:00:44Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 120,
+ "count": 119,
  "jobs": [
-  {
-   "id": "smartrecruiters:BoschGroup:744000150014379",
-   "company": "Bosch",
-   "title": "Intern, Data Analyst, Operations & Automation",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Singapore, , Singapore",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150014379",
-   "posted_at": "2026-09-17T06:04:18.436Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-17T13:41:02Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
   {
    "id": "smartrecruiters:BoschGroup:744000150014319",
    "company": "Bosch",
@@ -49,6 +25,30 @@
     "Python",
     "C++",
     "TensorFlow"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "smartrecruiters:BoschGroup:744000150014379",
+   "company": "Bosch",
+   "title": "Intern, Data Analyst, Operations & Automation",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Singapore, , Singapore",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150014379",
+   "posted_at": "2026-09-17T06:04:18.436Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-17T13:41:02Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL"
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 188,
@@ -2432,30 +2432,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 38,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:intel:/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499",
-   "company": "Intel",
-   "title": "Intern Systems Software Development Engineer",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Malaysia, Penang",
-   "url": "https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-Systems-Software-Development-Engineer_JR0286499",
-   "posted_at": "2026-08-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": 4758,
    "program": "Internship",
    "remote": false
   },
