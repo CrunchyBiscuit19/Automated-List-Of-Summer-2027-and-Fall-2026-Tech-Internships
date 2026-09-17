@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:jpmc.fa.oraclecloud.com:210783022",
-      "smartrecruiters:BoschGroup:744000150014379",
-      "smartrecruiters:BoschGroup:744000150014319",
-      "workday:marinabaysands:/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968",
-      "workday:micron:/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170"
-    ],
-    "telegram": [
-      "oracle:jpmc.fa.oraclecloud.com:210783022",
-      "smartrecruiters:BoschGroup:744000150014379",
-      "smartrecruiters:BoschGroup:744000150014319",
-      "workday:marinabaysands:/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968",
-      "workday:micron:/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
