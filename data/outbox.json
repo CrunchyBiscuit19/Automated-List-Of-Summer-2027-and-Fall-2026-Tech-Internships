@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "smartrecruiters:BoschGroup:744000149982483",
-      "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68829",
-      "workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD"
-    ],
-    "telegram": [
-      "smartrecruiters:BoschGroup:744000149982483",
-      "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68829",
-      "workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
