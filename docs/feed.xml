@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-17T23:06:16Z</updated>
+  <updated>2026-09-18T04:52:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ehac.fa.us6.oraclecloud.com:20431</id>
+    <title>Williams-Sonoma: Data Analyst (Finance) Intern (6 months)</title>
+    <link href="https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20431"/>
+    <updated>2026-09-18T04:52:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210783022</id>
     <title>JPMorganChase: 2027 Data &amp; AI Program - Summer Internship - Singapore</title>
@@ -467,33 +475,33 @@
     <id>urn:intern-engine:greenhouse:jumptrading:8027939</id>
     <title>Jump Trading: Campus Quantitative Researcher (Intern)</title>
     <link href="https://www.jumptrading.com/hr/job?gh_jid=8027939"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-18T04:35:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Quant · Singapore · Python, C++ · H-1B track record: ~57 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Quant · Singapore · Python, C++ · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:jumptrading:8027941</id>
     <title>Jump Trading: Campus Quantitative Trader (Intern)</title>
     <link href="https://www.jumptrading.com/hr/job?gh_jid=8027941"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-18T04:35:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Quant · Singapore · H-1B track record: ~57 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Quant · Singapore · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:jumptrading:8027946</id>
     <title>Jump Trading: Campus C++ Software Engineer (Intern)</title>
     <link href="https://www.jumptrading.com/hr/job?gh_jid=8027946"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-18T04:35:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · C++, Python, Linux · H-1B track record: ~57 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Singapore · C++, Python, Linux · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:jumptrading:8027955</id>
     <title>Jump Trading: Campus Python Software Engineer (Intern)</title>
     <link href="https://www.jumptrading.com/hr/job?gh_jid=8027955"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-18T04:35:04Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Python, C++, Rust, Linux, Kafka · H-1B track record: ~57 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Singapore · Python, C++, Rust, Linux, Kafka · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:squarepointcapital:6201998</id>
@@ -723,17 +731,25 @@
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141227773</id>
     <title>Western Digital: Intern Firmware Engineering</title>
     <link href="https://jobs.smartrecruiters.com/WesternDigital/744000141227773"/>
-    <updated>2026-09-06T08:57:42Z</updated>
+    <updated>2026-09-18T04:35:04Z</updated>
     <category term="Not stated"/>
-    <summary>3 openings · Not stated · Hardware · Petaling Jaya, Selangor, Malaysia · Python, C++</summary>
+    <summary>2 openings · Not stated · Hardware · Petaling Jaya, Selangor, Malaysia · Python, C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141229015</id>
     <title>Western Digital: Intern - Data Science</title>
     <link href="https://jobs.smartrecruiters.com/WesternDigital/744000141229015"/>
+    <updated>2026-09-18T04:35:04Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bayan Lepas, Penang, Malaysia · Python, SQL, Tableau · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141840819</id>
+    <title>Western Digital: Intern, Firmware Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000141840819"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bayan Lepas, Penang, Malaysia · Python, SQL, Tableau</summary>
+    <summary>Not stated · Hardware · Petaling Jaya, Selangor, Malaysia · Python, C++, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000142050119</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Winter 2027"/>
     <summary>Winter 2027 · Data &amp; ML/AI · Singapore, South West, Singapore · Python, Java, SQL, AWS · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:huntsman:/job/Malaysia---Kuala-Lumpur/Business-Intelligence---AI-Analytics-Intern_J-020202</id>
-    <title>Huntsman: Business Intelligence &amp; AI Analytics Intern</title>
-    <link href="https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/Malaysia---Kuala-Lumpur/Business-Intelligence---AI-Analytics-Intern_J-020202"/>
-    <updated>2026-09-17T13:41:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Malaysia - Kuala Lumpur · SQL, LLMs, Databricks · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728</id>
-    <title>Intel: IFA Software Development Engineer Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Malaysia, Kulim · Python, C# · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
 </feed>
