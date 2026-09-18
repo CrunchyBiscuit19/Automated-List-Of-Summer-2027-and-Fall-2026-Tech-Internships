@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-18T04:52:19Z</updated>
+  <updated>2026-09-18T13:13:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:qodeworld:E833248FA2</id>
+    <title>qode.world: Full Stack Engineering Intern</title>
+    <link href="https://apply.workable.com/qodeworld/j/E833248FA2/"/>
+    <updated>2026-09-18T13:13:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehac.fa.us6.oraclecloud.com:20431</id>
     <title>Williams-Sonoma: Data Analyst (Finance) Intern (6 months)</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4035-1</id>
-    <title>Hewlett Packard (HP): College Intern - Data Science</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4035-1"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Singapore, South West, Singapore · Python, Java, SQL, AWS · status: closed</summary>
   </entry>
 </feed>
