@@ -8,7 +8,7 @@
 
 ### 110 open roles (82 listed below) · 32 new this week
 
-4,401 employers tracked · data as of Sep 19, 2026 at 12:43 UTC
+4,401 employers tracked · data as of Sep 19, 2026 at 18:52 UTC
 
 _35 have a cycle the employer stated · 75 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -96,7 +96,7 @@ If it helps you, a star means a lot and tells me to keep going.
 | JPMorganChase | 2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore | Quant | Singapore | Python, Java, C++, C# | Sep 13, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784366) |
 | Sierra | Software Engineer Intern, Agent (Summer 2027) | Software | Singapore | TypeScript, LLMs, React | Sep 07, 2026 | [Apply](https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) |
 | Mastercard | Software Engineer Intern, Summer 2027 - Singapore | Software | Singapore | Python, Java, C#, JavaScript | Sep 04, 2026 | [Apply](https://mastercard.wd1.myworkdayjobs.com/Campus/job/Singapore/Software-Engineer-Intern--Summer-2027---Singapore_R-287574) |
-| JPMorganChase | 2027 Data & AI Program - Summer Internship - Singapore 🆕 | Data & ML/AI | Singapore, Singapore | Python, SQL, LLMs, AWS | Aug 27, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783022) |
+| JPMorganChase | 2027 Data & AI Program - Summer Internship - Singapore | Data & ML/AI | Singapore, Singapore | Python, SQL, LLMs, AWS | Aug 27, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210783022) |
 | AppLovin | Mobile Engineering Intern (2027 Summer Internship) | Software | Singapore | Java, Swift, Kotlin | Aug 25, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4708448006?gh_jid=4708448006) |
 | AppLovin | Backend Engineering Intern (2027 Summer Internship) | Software | Singapore | Python, Java, Linux, Kafka | Aug 25, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4708449006?gh_jid=4708449006) |
 | Airwallex | Software Engineer Intern (Summer 2027) | Software | SG - Singapore | Kotlin, LLMs, React, Kubernetes | Aug 05, 2026 | [Apply](https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795) |
@@ -127,9 +127,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | qode.world | Full Stack Engineering Intern 🆕 | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Sep 18, 2026 | [Apply](https://apply.workable.com/qodeworld/j/E833248FA2/) |
 | Williams-Sonoma | Data Analyst (Finance) Intern (6 months) 🆕 | Data & ML/AI | Singapore | Python, SQL | Sep 18, 2026 | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20431) |
-| Bosch | Intern, AI Research 🆕 | Data & ML/AI | Singapore, , Singapore | Python, C++, TensorFlow | Sep 17, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150014319) |
-| Marinabaysands | Intern, Software Quality Assurance 🆕 | Software | Marina Bay Sands, Singapore | No skills listed | Sep 17, 2026 | [Apply](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968) |
-| Micron Technology | Intern, Facilities AI Engineering 🆕 | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs, Tableau | Sep 17, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170) |
+| Bosch | Intern, AI Research | Data & ML/AI | Singapore, , Singapore | Python, C++, TensorFlow | Sep 17, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150014319) |
+| Marinabaysands | Intern, Software Quality Assurance | Software | Marina Bay Sands, Singapore | No skills listed | Sep 17, 2026 | [Apply](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968) |
+| Micron Technology | Intern, Facilities AI Engineering | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs, Tableau | Sep 17, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170) |
 | PricewaterhouseCoopers (PwC) | Risk Services - Program Management (AI Hub) Off-Cycle Internship (Jan - Jun 27) | Data & ML/AI | Singapore - Marina One | Java, C++, LLMs | Sep 17, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD) |
 | Goventi | C++ Software Engineer Intern (Control) | Software | Singapore | C++, Linux | Sep 16, 2026 | [Apply](https://jobs.ashbyhq.com/goventi/52c162ad-20c4-4db0-ae4f-cc4d1218bc67) |
 | Tencent | Backend Development Intern (6 months) | Software | Singapore-CapitaSky | Java, SQL, LLMs, Spring | Sep 15, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Backend-Development-Intern--6-months-_R108169) |
@@ -241,7 +241,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,336 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 928.3s · 606 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,254 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1071.0s · 574 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
