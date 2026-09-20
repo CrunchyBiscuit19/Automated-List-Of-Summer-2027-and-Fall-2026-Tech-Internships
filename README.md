@@ -8,7 +8,7 @@
 
 ### 110 open roles (82 listed below) · 32 new this week
 
-4,401 employers tracked · data as of Sep 19, 2026 at 22:37 UTC
+4,401 employers tracked · data as of Sep 20, 2026 at 05:06 UTC
 
 _35 have a cycle the employer stated · 75 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -126,7 +126,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | qode.world | Full Stack Engineering Intern 🆕 | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Sep 18, 2026 | [Apply](https://apply.workable.com/qodeworld/j/E833248FA2/) |
-| Williams-Sonoma | Data Analyst (Finance) Intern (6 months) 🆕 | Data & ML/AI | Singapore | Python, SQL | Sep 18, 2026 | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20431) |
+| Williams-Sonoma | Data Analyst (Finance) Intern (6 months) | Data & ML/AI | Singapore | Python, SQL | Sep 18, 2026 | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20431) |
 | Bosch | Intern, AI Research | Data & ML/AI | Singapore, , Singapore | Python, C++, TensorFlow | Sep 17, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150014319) |
 | Marinabaysands | Intern, Software Quality Assurance | Software | Marina Bay Sands, Singapore | No skills listed | Sep 17, 2026 | [Apply](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968) |
 | Micron Technology | Intern, Facilities AI Engineering | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs, Tableau | Sep 17, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170) |
@@ -241,7 +241,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,296 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1112.8s · 580 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,255 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1111.4s · 561 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
