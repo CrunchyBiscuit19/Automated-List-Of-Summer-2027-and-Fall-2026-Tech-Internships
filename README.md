@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 110 open roles (82 listed below) · 32 new this week
+### 109 open roles (82 listed below) · 32 new this week
 
-4,401 employers tracked · data as of Sep 20, 2026 at 05:06 UTC
+4,401 employers tracked · data as of Sep 20, 2026 at 13:17 UTC
 
-_35 have a cycle the employer stated · 75 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_35 have a cycle the employer stated · 74 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -125,7 +125,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| qode.world | Full Stack Engineering Intern 🆕 | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Sep 18, 2026 | [Apply](https://apply.workable.com/qodeworld/j/E833248FA2/) |
+| qode.world | Full Stack Engineering Intern | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Sep 18, 2026 | [Apply](https://apply.workable.com/qodeworld/j/E833248FA2/) |
 | Williams-Sonoma | Data Analyst (Finance) Intern (6 months) | Data & ML/AI | Singapore | Python, SQL | Sep 18, 2026 | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20431) |
 | Bosch | Intern, AI Research | Data & ML/AI | Singapore, , Singapore | Python, C++, TensorFlow | Sep 17, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000150014319) |
 | Marinabaysands | Intern, Software Quality Assurance | Software | Marina Bay Sands, Singapore | No skills listed | Sep 17, 2026 | [Apply](https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968) |
@@ -176,56 +176,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | DRW | Software Engineer Intern (Data Engineering) | Data & ML/AI | Singapore | Python, Pandas, Kubernetes, PostgreSQL | Aug 13, 2026 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8127242) |
 | Western Digital | Intern, Firmware Engineering | Hardware | Petaling Jaya, Selangor, Malaysia | Python, C++, Linux | Aug 06, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000141840819) |
 
-<details>
-<summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
-
-_Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
-
-| Company | Role | Cycle | Closed | Why |
-|---|---|---|---|---|
-| Amazon | Software Development Engineer Intern, AWS Data Services - Fall 2026 (US) | Fall 2026 | 2026-09-06 | out of scope |
-| Amazon | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 | Fall 2026 | 2026-09-06 | out of scope |
-| Amazon | Software Development Engineer Intern, Annapurna Labs - 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Amazon | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) | Fall 2026 | 2026-09-06 | out of scope |
-| Beacon Software | Software Engineering Intern | Fall 2026 | 2026-09-06 | out of scope |
-| Ellipsis Labs | Software Engineer - 2027 Interns | Summer 2027 | 2026-09-06 | out of scope |
-| Hadrian | Software Engineer Intern | Fall 2026 | 2026-09-06 | out of scope |
-| Hadrian | Data Science/ Data Engineer Intern | Fall 2026 | 2026-09-06 | out of scope |
-| Heliux | Software Engineer (Internship, Summer 2027) | Summer 2027 | 2026-09-06 | out of scope |
-| Junior | Software Engineering Intern — Fall 2026 | Fall 2026 | 2026-09-06 | out of scope |
-| Melius | Software Engineering Intern [Fall/Winter 2026] | Fall 2026 | 2026-09-06 | out of scope |
-| Melius | Software Engineering Intern [Spring/Summer 2027] | Summer 2027 | 2026-09-06 | out of scope |
-| Northwood Space | Software Engineering Intern (2027 Summer Internship) | Summer 2027 | 2026-09-06 | out of scope |
-| Northwood Space | Embedded Software Engineering Intern (2027 Summer Internship) | Summer 2027 | 2026-09-06 | out of scope |
-| Notion | Software Engineer Intern (Summer 2027) | Summer 2027 | 2026-09-06 | out of scope |
-| Phoebe | Software Engineering Intern | Fall 2026 | 2026-09-06 | out of scope |
-| Quadrillion | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-09-06 | out of scope |
-| Rivet Industries | Software Engineer Intern, XR Team (Fall 2026) | Fall 2026 | 2026-09-06 | out of scope |
-| The Voleon Group | Software Engineer Intern - (Summer 2027) | Summer 2027 | 2026-09-06 | out of scope |
-| Wavetronix | Computer Science Internship Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Advanced Space | 2027 Software Engineering Summer Internship | Summer 2027 | 2026-09-06 | out of scope |
-| Advanced Space | 2027 Machine Learning Summer Internship | Summer 2027 | 2026-09-06 | out of scope |
-| Advanced Space | 2027 DevOps Summer Internship | Summer 2027 | 2026-09-06 | out of scope |
-| Akuna Capital | Software Engineer Intern - C++, Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Akuna Capital | Software Engineer Intern - Python, Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Akuna Capital | Platform Engineer Intern, Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Akuna Capital | Software Engineer Intern - C# .NET Desktop, Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Akuna Capital | Software Engineer Intern - Full Stack Web, Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Akuna Capital | Quantitative Research Intern, Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Anduril | 2027 Software Engineer Intern | Summer 2027 | 2026-09-06 | out of scope |
-| Appian | Software Engineering Intern | Summer 2027 | 2026-09-06 | out of scope |
-| Appian | Information Security Engineer Intern | Summer 2027 | 2026-09-06 | out of scope |
-| Awetomaton | Platform Engineering Intern | Summer 2027 | 2026-09-06 | out of scope |
-| Axon | 2027 US Firmware Engineering Internship | Summer 2027 | 2026-09-06 | out of scope |
-| BTI360 | Software Engineering Intern | Summer 2027 | 2026-09-06 | out of scope |
-| Charles River Associates (CRA) | (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027) | Summer 2027 | 2026-09-06 | out of scope |
-| Chicago Trading Company | Quant Trading Internship - Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Chicago Trading Company | Software Engineering Internship - Summer 2027 | Summer 2027 | 2026-09-06 | out of scope |
-| Dev Technology Group | AI/ML Intern (Summer 2027) | Summer 2027 | 2026-09-06 | out of scope |
-| Dev Technology Group | React/Node Developer Intern (Summer 2027) | Summer 2027 | 2026-09-06 | out of scope |
-
-</details>
-
 ---
 
 ## Hiring timeline
@@ -241,7 +191,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,255 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1111.4s · 561 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,356 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 980.4s · 613 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-20T05:06:22Z</updated>
+  <updated>2026-09-20T13:17:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workable:qodeworld:E833248FA2</id>
@@ -440,14 +440,6 @@
     <summary>Summer 2027 · Software · SG - Singapore · Kotlin, LLMs, React, Kubernetes, Kafka</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:simular:7147a575-c7da-44d3-a6d6-2cdd4d24b94a</id>
-    <title>Simular: Data Analyst Intern</title>
-    <link href="https://jobs.ashbyhq.com/simular/7147a575-c7da-44d3-a6d6-2cdd4d24b94a"/>
-    <updated>2026-09-13T04:39:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, dbt · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:applovin:4708448006</id>
     <title>AppLovin: Mobile Engineering Intern (2027 Summer Internship)</title>
     <link href="https://boards.greenhouse.io/applovin/jobs/4708448006?gh_jid=4708448006"/>
@@ -478,38 +470,6 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Hong Kong; Shanghai; Singapore · Python, C++, PyTorch, TensorFlow · H-1B track record: ~57 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:jumptrading:8027939</id>
-    <title>Jump Trading: Campus Quantitative Researcher (Intern)</title>
-    <link href="https://www.jumptrading.com/hr/job?gh_jid=8027939"/>
-    <updated>2026-09-18T04:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Singapore · Python, C++ · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:jumptrading:8027941</id>
-    <title>Jump Trading: Campus Quantitative Trader (Intern)</title>
-    <link href="https://www.jumptrading.com/hr/job?gh_jid=8027941"/>
-    <updated>2026-09-18T04:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Singapore · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:jumptrading:8027946</id>
-    <title>Jump Trading: Campus C++ Software Engineer (Intern)</title>
-    <link href="https://www.jumptrading.com/hr/job?gh_jid=8027946"/>
-    <updated>2026-09-18T04:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · C++, Python, Linux · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:jumptrading:8027955</id>
-    <title>Jump Trading: Campus Python Software Engineer (Intern)</title>
-    <link href="https://www.jumptrading.com/hr/job?gh_jid=8027955"/>
-    <updated>2026-09-18T04:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Python, C++, Rust, Linux, Kafka · status: closed · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:squarepointcapital:6201998</id>
@@ -552,22 +512,6 @@
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:xendit:7821207003</id>
-    <title>Xendit: Full Stack Developer Intern</title>
-    <link href="https://job-boards.greenhouse.io/xendit/jobs/7821207003"/>
-    <updated>2026-09-14T04:47:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Jakarta, Indonesia · TypeScript, JavaScript, SQL, React, Next.js · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:xendit:7821208003</id>
-    <title>Xendit: Data / ML Automation Intern</title>
-    <link href="https://job-boards.greenhouse.io/xendit/jobs/7821208003"/>
-    <updated>2026-09-14T04:47:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Jakarta, Indonesia · Python, TypeScript, SQL, PyTorch, TensorFlow · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf</id>
     <title>Shopback 2: Software Engineer Intern (H1 2027)</title>
     <link href="https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf"/>
@@ -584,44 +528,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Singapore, Singapore · Python, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:shopback-2:df5ed7cf-eb1f-4f17-ad11-35ad6011412c</id>
-    <title>Shopback 2: Site Reliability Engineer Intern</title>
-    <link href="https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Winter 2026"/>
-    <summary>Winter 2026 · Software · Singapore, Singapore · Python, Java, C++, C#, JavaScript · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:recruitee:patsnap:2711703</id>
-    <title>PatSnap: Full Stack Intern (AI &amp; Web Development)</title>
-    <link href="https://careers.patsnap.com/o/full-stack-intern-ai-web-development"/>
-    <updated>2026-09-09T19:29:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore, Central Singapore, Singapore · React, Vue, Spring · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000119536647</id>
     <title>Bosch: Internship 2026, Data Analyst Engineer, Power Solutions (HmjP/TEF4)</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000119536647"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand · Python, SQL, Tableau · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000139971749</id>
-    <title>Bosch: [Internship] Data and AI Intern (Data focused)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000139971749"/>
-    <updated>2026-09-11T04:30:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · An Phu, Thu Duc City, , Vietnam · status: closed · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141421629</id>
-    <title>Bosch: [Bosch R&amp;D - Internship] AI Agent Building Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000141421629"/>
-    <updated>2026-09-19T04:31:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · An Khanh Ward, Ho Chi Minh City, Vietnam · Python, LLMs, Azure · status: closed · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142038898</id>
@@ -728,44 +640,12 @@
     <summary>2 openings · Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Continental:744000142562964</id>
-    <title>Continental: IT Internship - Process Automation &amp; Software Development</title>
-    <link href="https://jobs.smartrecruiters.com/Continental/744000142562964"/>
-    <updated>2026-09-07T20:11:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, Git · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141227773</id>
-    <title>Western Digital: Intern Firmware Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000141227773"/>
-    <updated>2026-09-18T04:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Hardware · Petaling Jaya, Selangor, Malaysia · Python, C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141229015</id>
-    <title>Western Digital: Intern - Data Science</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000141229015"/>
-    <updated>2026-09-18T04:35:04Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bayan Lepas, Penang, Malaysia · Python, SQL, Tableau · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141840819</id>
     <title>Western Digital: Intern, Firmware Engineering</title>
     <link href="https://jobs.smartrecruiters.com/WesternDigital/744000141840819"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Petaling Jaya, Selangor, Malaysia · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000142050119</id>
-    <title>Western Digital: Internship - Software Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000142050119"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Petaling Jaya, Selangor, Malaysia · Python, JavaScript, Bash, Linux · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000145156358</id>
@@ -776,35 +656,155 @@
     <summary>Not stated · Data &amp; ML/AI · BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand · Python, Java, C++, C#, JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000146883869</id>
-    <title>Western Digital: Internship - Software Development (Embedded)</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000146883869"/>
-    <updated>2026-09-15T19:58:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dentsuaegis:/job/Jakarta/Data-Analyst-Intern_R1129197</id>
-    <title>Dentsu: Data Analyst Intern</title>
-    <link href="https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Jakarta/Data-Analyst-Intern_R1129197"/>
-    <updated>2026-09-09T13:15:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Jakarta · Python, SQL · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/Embedded-Software-Engineer-Internship_R0142219</id>
-    <title>Hitachi Energy: Embedded Software Engineer Internship</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Software-Engineer-Internship_R0142219"/>
-    <updated>2026-09-19T12:43:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Da Nang, Đà Nẵng, Vietnam · C++, Linux · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142038</id>
     <title>Hitachi Energy: Embedded Engineering Software Internship</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142038"/>
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728</id>
+    <title>Intel: IFA Software Development Engineer Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Malaysia, Kulim · Python, C# · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937</id>
+    <title>Intel: Intern System Software Development Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marinabaysands:/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208</id>
+    <title>Marinabaysands: Intern, Cyber Security</title>
+    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Marina Bay Sands, Singapore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer--Middleware-_JR10007967</id>
+    <title>Marinabaysands: Intern, Developer (Middleware)</title>
+    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer--Middleware-_JR10007967"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Perennial Business City, Singapore · Java, SQL, Spring, Git, Kafka</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer-AI_JR10007970</id>
+    <title>Marinabaysands: Intern, Developer A.I</title>
+    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer-AI_JR10007970"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Perennial Business City, Singapore · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer-NET_JR10007965</id>
+    <title>Marinabaysands: Intern, Developer .NET</title>
+    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer-NET_JR10007965"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Perennial Business City, Singapore · C#, JavaScript, SQL, HTML/CSS, .NET</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mastercard:/job/Singapore/Software-Engineer-Intern--Summer-2027---Singapore_R-287574</id>
+    <title>Mastercard: Software Engineer Intern, Summer 2027 - Singapore</title>
+    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Singapore/Software-Engineer-Intern--Summer-2027---Singapore_R-287574"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore · Python, Java, C#, JavaScript, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD</id>
+    <title>Mufgub: Cybersecurity Awareness &amp; Training Intern</title>
+    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Singapore Office OCC</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pg:/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419</id>
+    <title>Procter &amp; Gamble (P&amp;G): Data Science Intern (Semester 2026) - P&amp;G Management Internship Program - Bachelor's Degree or above</title>
+    <link href="https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · SINGAPORE GENERAL OFFICE · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784</id>
+    <title>Razer: Applied AI Intern (Voice)</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, LLMs, Node.js, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/Applied-AI-Intern_JR2026007785</id>
+    <title>Razer: Applied AI Intern</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern_JR2026007785"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, LLMs, Computer Vision, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:swift:/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467</id>
+    <title>Swift: Site Reliability Engineering (SRE) Intern</title>
+    <link href="https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Kuala Lumpur, Malaysia · Swift, Tableau · H-1B track record: ~33 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Data-Science-Intern--Analytics---6-month-internship_R107974</id>
+    <title>Tencent: Data Science Intern (Analytics), 6-month internship</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Analytics---6-month-internship_R107974"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158</id>
+    <title>Thales: Software Development and Integration Engineer (Intern)</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Java, TypeScript, Angular, HTML/CSS, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782</id>
+    <title>Thales: Software Engineer Intern - Middleware (IBS)</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Java, Swift, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trendmicro:/job/Manila/GRID-DEVOPS-INTERN_R0010148</id>
+    <title>Trend Micro: GRID DEVOPS INTERN</title>
+    <link href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Manila · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:wehrtyou:7964062</id>
+    <title>Hudson River Trading: Algorithm Development (Quant Research &amp; Trading) Internship – Summer 2027</title>
+    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062"/>
+    <updated>2026-08-07T00:49:01Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · London, United Kingdom; New York, NY, United States; Singapore · Python, C++, MATLAB, Pandas · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:wehrtyou:8052083</id>
+    <title>Hudson River Trading: Software Engineering Internship (C++ or Python) – Summer 2027</title>
+    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"/>
+    <updated>2026-07-13T18:00:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore · Python, C++ · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
