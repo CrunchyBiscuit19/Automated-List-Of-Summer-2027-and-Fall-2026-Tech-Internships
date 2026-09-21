@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-20T22:40:27Z</updated>
+  <updated>2026-09-21T05:03:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:applovin:4714443006</id>
+    <title>AppLovin: Full Stack Engineering Intern (2027 Summer Internship)</title>
+    <link href="https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006"/>
+    <updated>2026-09-21T05:03:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore · Python, Java, TypeScript, JavaScript, React · H-1B track record: ~40 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:qodeworld:E833248FA2</id>
     <title>qode.world: Full Stack Engineering Intern</title>
@@ -638,14 +646,6 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000141840819</id>
-    <title>Western Digital: Intern, Firmware Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000141840819"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Petaling Jaya, Selangor, Malaysia · Python, C++, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000145156358</id>
