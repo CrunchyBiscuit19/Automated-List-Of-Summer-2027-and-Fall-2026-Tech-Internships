@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:ensigninfosecurity:/job/Singapore/Intern--AI-Engineer_JOBREQ-0003641",
-      "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68940",
-      "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68941"
-    ],
-    "telegram": [
-      "workday:ensigninfosecurity:/job/Singapore/Intern--AI-Engineer_JOBREQ-0003641",
-      "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68940",
-      "workday:motorolasolutions:/job/Penang-Malaysia/Software-Engineer-Intern_R68941"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
