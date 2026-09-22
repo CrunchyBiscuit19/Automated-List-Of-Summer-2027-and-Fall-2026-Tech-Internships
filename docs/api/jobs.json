@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-09-22T13:40:28Z",
- "data_as_of": "2026-09-22T13:40:28Z",
- "rendered_at": "2026-09-22T13:40:28Z",
+ "generated_at": "2026-09-22T20:01:59Z",
+ "data_as_of": "2026-09-22T20:01:59Z",
+ "rendered_at": "2026-09-22T20:01:59Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 112,
+ "count": 113,
  "jobs": [
+  {
+   "id": "workday:micron:/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586",
+   "company": "Micron Technology",
+   "title": "Intern - Facilities Sustainability AI",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "MSB, Singapore",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586",
+   "posted_at": "2026-09-22T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-22T20:01:59Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "workday",
+   "h1b_approvals": 489,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:ensigninfosecurity:/job/Singapore/Intern--AI-Engineer_JOBREQ-0003641",
    "company": "Ensigninfosecurity",
