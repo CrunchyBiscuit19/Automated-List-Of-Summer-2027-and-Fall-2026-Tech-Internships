@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-22T23:10:47Z</updated>
+  <updated>2026-09-23T04:54:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1</id>
+    <title>Hewlett Packard (HP): College Intern - Machine Learning and Artificial Intelligence</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1"/>
+    <updated>2026-09-23T04:54:17Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Singapore, South West, Singapore · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586</id>
     <title>Micron Technology: Intern - Facilities Sustainability AI</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Manila · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:wehrtyou:7964062</id>
-    <title>Hudson River Trading: Algorithm Development (Quant Research &amp; Trading) Internship – Summer 2027</title>
-    <link href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062"/>
-    <updated>2026-08-07T00:49:01Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · London, United Kingdom; New York, NY, United States; Singapore · Python, C++, MATLAB, Pandas · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
