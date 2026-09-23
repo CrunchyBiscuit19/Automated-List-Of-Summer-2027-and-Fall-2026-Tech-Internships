@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 113 open roles (84 listed below) · 16 new this week
+### 113 open roles (84 listed below) · 15 new this week
 
-4,401 employers tracked · data as of Sep 23, 2026 at 04:54 UTC
+4,401 employers tracked · data as of Sep 23, 2026 at 13:48 UTC
 
 _36 have a cycle the employer stated · 77 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -88,7 +88,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| AppLovin | Full Stack Engineering Intern (2027 Summer Internship) 🆕 | Software | Singapore | Python, Java, TypeScript, JavaScript | Sep 20, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006) |
+| AppLovin | Full Stack Engineering Intern (2027 Summer Internship) | Software | Singapore | Python, Java, TypeScript, JavaScript | Sep 20, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006) |
 | Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] _(4 openings)_ | Software | Singapore, SGP | Python, C++, Rust, Bash | Sep 15, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985) [#2](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100986) [#3](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100988) [#4](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100989) |
 | Autodesk | Intern, Software Development Engineer [PSET-Connected Delivery] | Software | Singapore, SGP | Python, C++, React, Angular | Sep 15, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995) |
 | Autodesk | Intern, Software Development Engineer [PSET-Localization] _(2 openings)_ | Software | Singapore, SGP | Python, Java, JavaScript, SQL | Sep 15, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997) [#2](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100998-1) |
@@ -191,7 +191,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,233 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 950.6s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,362 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 757.7s · 642 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
