@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-24T04:57:28Z</updated>
+  <updated>2026-09-24T13:48:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:qodeworld:325F3E6341</id>
+    <title>qode.world: Full Stack Engineering Intern</title>
+    <link href="https://apply.workable.com/qodeworld/j/325F3E6341/"/>
+    <updated>2026-09-24T04:57:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1</id>
     <title>Hewlett Packard (HP): College Intern - Machine Learning and Artificial Intelligence</title>
@@ -43,9 +51,9 @@
     <id>urn:intern-engine:workable:qodeworld:E833248FA2</id>
     <title>qode.world: Full Stack Engineering Intern</title>
     <link href="https://apply.workable.com/qodeworld/j/E833248FA2/"/>
-    <updated>2026-09-18T13:13:31Z</updated>
+    <updated>2026-09-24T13:48:43Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js</summary>
+    <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehac.fa.us6.oraclecloud.com:20431</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore · Java, Swift, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trendmicro:/job/Manila/GRID-DEVOPS-INTERN_R0010148</id>
-    <title>Trend Micro: GRID DEVOPS INTERN</title>
-    <link href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/GRID-DEVOPS-INTERN_R0010148"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Manila · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
