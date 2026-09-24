@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-24T20:16:25Z</updated>
+  <updated>2026-09-24T23:23:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stripe:8186442</id>
+    <title>Stripe: Financial Data Analyst Intern, Technical Operations</title>
+    <link href="https://stripe.com/jobs/search?gh_jid=8186442"/>
+    <updated>2026-09-24T23:23:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, Ruby, Git · H-1B track record: ~441 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:qodeworld:325F3E6341</id>
     <title>qode.world: Full Stack Engineering Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore · Java, TypeScript, Angular, HTML/CSS, Spring</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782</id>
-    <title>Thales: Software Engineer Intern - Middleware (IBS)</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Java, Swift, Kotlin</summary>
   </entry>
 </feed>
