@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-24T23:23:26Z</updated>
+  <updated>2026-09-25T05:02:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ensigninfosecurity:/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647</id>
+    <title>Ensigninfosecurity: Intern, Cyber Threat Intel</title>
+    <link href="https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647"/>
+    <updated>2026-09-25T05:02:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Singapore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305</id>
+    <title>Rockwell Automation: AI &amp; Embedded Engineering Intern</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305"/>
+    <updated>2026-09-25T05:02:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore, Singapore · Python, C++ · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000151754639</id>
+    <title>Western Digital: Internship - Software Development (Embedded)</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000151754639"/>
+    <updated>2026-09-25T05:02:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stripe:8186442</id>
     <title>Stripe: Financial Data Analyst Intern, Technical Operations</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, LLMs, Computer Vision, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:swift:/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467</id>
-    <title>Swift: Site Reliability Engineering (SRE) Intern</title>
-    <link href="https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Site-Reliability-Engineering--SRE--Intern_2026-16467"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Kuala Lumpur, Malaysia · Swift, Tableau · H-1B track record: ~33 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Data-Science-Intern--Analytics---6-month-internship_R107974</id>
-    <title>Tencent: Data Science Intern (Analytics), 6-month internship</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Analytics---6-month-internship_R107974"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158</id>
-    <title>Thales: Software Development and Integration Engineer (Intern)</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339158"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Java, TypeScript, Angular, HTML/CSS, Spring</summary>
   </entry>
 </feed>
