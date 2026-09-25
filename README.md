@@ -8,7 +8,7 @@
 
 ### 121 open roles (90 listed below) · 15 new this week
 
-4,401 employers tracked · data as of Sep 25, 2026 at 13:59 UTC
+4,401 employers tracked · data as of Sep 25, 2026 at 20:17 UTC
 
 _36 have a cycle the employer stated · 85 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -125,9 +125,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Manulife Financial | AI Learning & Enablement Intern (MBA - Manulife Business Academy) 🆕 | Data & ML/AI | Singapore | HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600) |
 | Manulife Financial | AI Product Innovation Intern 🆕 | Data & ML/AI | Singapore | Python, HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Product---Pricing-Intern_JR26091605) |
-| Manulife Financial | Compliance Transformation AI Intern 🆕 | Data & ML/AI | Singapore | LLMs, HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604) |
-| Manulife Financial | AI Workflow & Reporting Intern (Distribution Services) 🆕 | Data & ML/AI | Singapore | HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Workflow---Reporting-Intern--Distribution-Services-_JR26091602) |
+| Manulife Financial | AI Transformation Intern (Distribution Transformation & Supercharged AI Assistant) 🆕 | Data & ML/AI | Singapore | LLMs, HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599) |
 | Western Digital | Internship - Software Development (Embedded) 🆕 | Software | Petaling Jaya, Selangor, Malaysia | Python, C++ | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000151754639) |
 | Ensigninfosecurity | Intern, Cyber Threat Intel 🆕 | Security | Singapore | No skills listed | Sep 25, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647) |
 | Rockwell Automation | AI & Embedded Engineering Intern 🆕 | Data & ML/AI | Singapore, Singapore | Python, C++ | Sep 25, 2026 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305) |
@@ -197,7 +197,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,287 of 4,651 registered boards returned successfully across 12 ATS platforms (92% of boards attempted, 92% of the full registry) · completed in 1170.8s · 620 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,256 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1061.5s · 598 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-25T13:59:57Z</updated>
+  <updated>2026-09-25T20:17:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600</id>
+    <title>Manulife Financial: AI Learning &amp; Enablement Intern (MBA - Manulife Business Academy)</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600"/>
+    <updated>2026-09-25T13:59:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Product---Pricing-Intern_JR26091605</id>
     <title>Manulife Financial: AI Product Innovation Intern</title>
@@ -16,9 +24,9 @@
     <summary>Not stated · Data &amp; ML/AI · Singapore · Python, HTML/CSS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604</id>
-    <title>Manulife Financial: Compliance Transformation AI Intern</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604"/>
+    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599</id>
+    <title>Manulife Financial: AI Transformation Intern (Distribution Transformation &amp; Supercharged AI Assistant)</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599"/>
     <updated>2026-09-25T13:59:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore · LLMs, HTML/CSS</summary>
@@ -32,17 +40,9 @@
     <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600</id>
-    <title>Manulife Financial: AI Learning &amp; Enablement Intern (MBA - Manulife Business Academy)</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600"/>
-    <updated>2026-09-25T13:59:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599</id>
-    <title>Manulife Financial: AI Transformation Intern (Distribution Transformation &amp; Supercharged AI Assistant)</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599"/>
+    <id>urn:intern-engine:workday:manulife:/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604</id>
+    <title>Manulife Financial: Compliance Transformation AI Intern</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604"/>
     <updated>2026-09-25T13:59:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore · LLMs, HTML/CSS</summary>
