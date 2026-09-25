@@ -1,6 +1,18 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:manulife:/job/Singapore/AI-Product---Pricing-Intern_JR26091605",
+      "workday:manulife:/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604",
+      "workday:manulife:/job/Singapore/AI-Workflow---Reporting-Intern--Distribution-Services-_JR26091602",
+      "workday:manulife:/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600",
+      "workday:manulife:/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599"
+    ],
+    "telegram": [
+      "workday:manulife:/job/Singapore/AI-Product---Pricing-Intern_JR26091605",
+      "workday:manulife:/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604",
+      "workday:manulife:/job/Singapore/AI-Workflow---Reporting-Intern--Distribution-Services-_JR26091602",
+      "workday:manulife:/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600",
+      "workday:manulife:/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599"
+    ]
   }
 }
