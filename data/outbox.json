@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:ensigninfosecurity:/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647",
-      "workday:rockwellautomation:/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305",
-      "smartrecruiters:WesternDigital:744000151754639"
-    ],
-    "telegram": [
-      "workday:ensigninfosecurity:/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647",
-      "workday:rockwellautomation:/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305",
-      "smartrecruiters:WesternDigital:744000151754639"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
