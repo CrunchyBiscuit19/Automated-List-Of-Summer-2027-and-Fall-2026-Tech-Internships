@@ -8,7 +8,7 @@
 
 ### 121 open roles (90 listed below) · 15 new this week
 
-4,401 employers tracked · data as of Sep 26, 2026 at 22:58 UTC
+4,401 employers tracked · data as of Sep 27, 2026 at 05:23 UTC
 
 _36 have a cycle the employer stated · 85 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -128,10 +128,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Manulife Financial | AI Learning & Enablement Intern (MBA - Manulife Business Academy) 🆕 | Data & ML/AI | Singapore | HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600) |
 | Manulife Financial | AI Product Innovation Intern 🆕 | Data & ML/AI | Singapore | Python, HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Product---Pricing-Intern_JR26091605) |
 | Manulife Financial | AI Transformation Intern (Distribution Transformation & Supercharged AI Assistant) 🆕 | Data & ML/AI | Singapore | LLMs, HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599) |
-| Western Digital | Internship - Software Development (Embedded) 🆕 | Software | Petaling Jaya, Selangor, Malaysia | Python, C++ | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000151754639) |
-| Ensigninfosecurity | Intern, Cyber Threat Intel 🆕 | Security | Singapore | No skills listed | Sep 25, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647) |
-| Rockwell Automation | AI & Embedded Engineering Intern 🆕 | Data & ML/AI | Singapore, Singapore | Python, C++ | Sep 25, 2026 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305) |
-| Stripe | Financial Data Analyst Intern, Technical Operations 🆕 | Data & ML/AI | Singapore | Python, SQL, Ruby, Git | Sep 24, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) |
+| Western Digital | Internship - Software Development (Embedded) | Software | Petaling Jaya, Selangor, Malaysia | Python, C++ | Sep 25, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000151754639) |
+| Ensigninfosecurity | Intern, Cyber Threat Intel | Security | Singapore | No skills listed | Sep 25, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647) |
+| Rockwell Automation | AI & Embedded Engineering Intern | Data & ML/AI | Singapore, Singapore | Python, C++ | Sep 25, 2026 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305) |
+| Stripe | Financial Data Analyst Intern, Technical Operations | Data & ML/AI | Singapore | Python, SQL, Ruby, Git | Sep 24, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) |
 | qode.world | Full Stack Engineering Intern | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Sep 24, 2026 | [Apply](https://apply.workable.com/qodeworld/j/325F3E6341/) |
 | Micron Technology | Intern - Facilities Sustainability AI | Data & ML/AI | MSB, Singapore | Python, LLMs | Sep 22, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586) |
 | Ensigninfosecurity | Intern, AI Engineer | Data & ML/AI | Singapore | Python, C++, PyTorch, TensorFlow | Sep 22, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--AI-Engineer_JOBREQ-0003641) |
@@ -197,7 +197,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,215 of 4,651 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 926.2s · 562 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,359 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 718.4s · 628 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
