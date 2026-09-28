@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-28T05:33:59Z</updated>
+  <updated>2026-09-28T17:02:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:f3876c50-8b06-4342-af17-7cf393176a56</id>
+    <title>Shopback 2: Software Engineer Intern - Mobile</title>
+    <link href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56"/>
+    <updated>2026-09-28T17:02:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, Vietnam · Java, Swift, Kotlin, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Operations-Transformation-Intern_JR26091696</id>
+    <title>Manulife Financial: AI Operations Transformation Intern</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Operations-Transformation-Intern_JR26091696"/>
+    <updated>2026-09-28T17:02:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698</id>
+    <title>Manulife Financial: AI Risk Intelligence, Monitoring &amp; Governance Intern (Distribution Risk)</title>
+    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698"/>
+    <updated>2026-09-28T17:02:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zebra:/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399</id>
+    <title>Zebra Technologies: 2027 (6-months) Internship (Singapore) - Artificial Intelligence</title>
+    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399"/>
+    <updated>2026-09-28T17:02:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore · H-1B track record: ~126 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585</id>
     <title>Intel: IT Undergrad Technical Intern - AI and Data Analytics</title>
@@ -59,9 +91,9 @@
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000151754639</id>
     <title>Western Digital: Internship - Software Development (Embedded)</title>
     <link href="https://jobs.smartrecruiters.com/WesternDigital/744000151754639"/>
-    <updated>2026-09-25T05:02:20Z</updated>
+    <updated>2026-09-28T17:02:49Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, C++</summary>
+    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, C++ · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ensigninfosecurity:/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647</id>
@@ -525,7 +557,7 @@
     <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916"/>
     <updated>2026-09-07T04:45:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam · Python, Java, C#, LLMs, React</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam · Python, Java, C#, LLMs, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Perennial Business City, Singapore · Java, SQL, Spring, Git, Kafka</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer-AI_JR10007970</id>
-    <title>Marinabaysands: Intern, Developer A.I</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer-AI_JR10007970"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Perennial Business City, Singapore · Python, Java, C#, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer-NET_JR10007965</id>
-    <title>Marinabaysands: Intern, Developer .NET</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer-NET_JR10007965"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Perennial Business City, Singapore · C#, JavaScript, SQL, HTML/CSS, .NET</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mastercard:/job/Singapore/Software-Engineer-Intern--Summer-2027---Singapore_R-287574</id>
-    <title>Mastercard: Software Engineer Intern, Summer 2027 - Singapore</title>
-    <link href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Singapore/Software-Engineer-Intern--Summer-2027---Singapore_R-287574"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Singapore · Python, Java, C#, JavaScript, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD</id>
-    <title>Mufgub: Cybersecurity Awareness &amp; Training Intern</title>
-    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Singapore Office OCC</summary>
   </entry>
 </feed>

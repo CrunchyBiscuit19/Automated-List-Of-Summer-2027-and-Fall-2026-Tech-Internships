@@ -2705,6 +2705,18 @@
     }
    }
   },
+  "zebra technologies": {
+   "name": "Zebra Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:zebra:/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399"
+     ],
+     "count": 1
+    }
+   }
+  },
   "zip": {
    "name": "Zip",
    "cycles": {
@@ -2718,5 +2730,5 @@
    }
   }
  },
- "updated_at": "2026-09-28T05:33:59Z"
+ "updated_at": "2026-09-28T17:02:49Z"
 }
