@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-27T23:16:49Z</updated>
+  <updated>2026-09-28T05:33:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585</id>
+    <title>Intel: IT Undergrad Technical Intern - AI and Data Analytics</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585"/>
+    <updated>2026-09-28T05:33:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Malaysia, Penang · Python, SQL, Azure, Databricks · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600</id>
     <title>Manulife Financial: AI Learning &amp; Enablement Intern (MBA - Manulife Business Academy)</title>
@@ -560,14 +568,6 @@
     <summary>Summer 2027 · Software · Singapore · Python, Java, Linux, Kafka, PostgreSQL · H-1B track record: ~40 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:drweng:8127242</id>
-    <title>DRW: Software Engineer Intern (Data Engineering)</title>
-    <link href="https://job-boards.greenhouse.io/drweng/jobs/8127242"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, Pandas, Kubernetes, PostgreSQL · H-1B track record: ~31 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:jumptrading:8027938</id>
     <title>Jump Trading: Campus AI/ML Researcher (Intern)</title>
     <link href="https://www.jumptrading.com/hr/job?gh_jid=8027938"/>
@@ -670,14 +670,6 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Fall 2026"/>
     <summary>3 openings · Fall 2026 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000143222859</id>
-    <title>Bosch: [BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000143222859"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ho Chi Minh city, , Vietnam · Java, JavaScript, Node.js, HTML/CSS, Spring · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145655349</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, C#, JavaScript, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD</id>
+    <title>Mufgub: Cybersecurity Awareness &amp; Training Intern</title>
+    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Singapore Office OCC</summary>
   </entry>
 </feed>

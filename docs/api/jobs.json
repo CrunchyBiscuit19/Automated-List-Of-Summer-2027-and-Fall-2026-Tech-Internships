@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-09-27T23:16:49Z",
- "data_as_of": "2026-09-27T23:16:49Z",
- "rendered_at": "2026-09-27T23:16:49Z",
+ "generated_at": "2026-09-28T05:33:59Z",
+ "data_as_of": "2026-09-28T05:33:59Z",
+ "rendered_at": "2026-09-28T05:34:00Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 119,
+ "count": 118,
  "jobs": [
+  {
+   "id": "workday:intel:/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585",
+   "company": "Intel",
+   "title": "IT Undergrad Technical Intern - AI and Data Analytics",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Malaysia, Penang",
+   "url": "https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585",
+   "posted_at": "2026-09-28T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-28T05:33:59Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Azure",
+    "Databricks"
+   ],
+   "source": "workday",
+   "h1b_approvals": 4758,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:manulife:/job/Singapore/AI-Learning---Enablement-Intern--MBA---Manulife-Business-Academy-_JR26091600",
    "company": "Manulife Financial",
@@ -2671,32 +2697,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:drweng:8127242",
-   "company": "DRW",
-   "title": "Software Engineer Intern (Data Engineering)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Singapore",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/8127242",
-   "posted_at": "2026-08-13T01:02:11-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Pandas",
-    "Kubernetes",
-    "PostgreSQL"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 31,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "smartrecruiters:BoschGroup:744000143206979",
    "company": "Bosch",
    "title": "[Internship Program Q4] Embedded Software Intern (C/C++/Linux)",
@@ -2714,34 +2714,6 @@
    "skills": [
     "C++",
     "Python"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:BoschGroup:744000143222859",
-   "company": "Bosch",
-   "title": "[BD] Internship - SAP Developer (JS, Java, ABAP, Fiori, BTP)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Ho Chi Minh city, , Vietnam",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000143222859",
-   "posted_at": "2026-08-13T03:10:09.667Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "JavaScript",
-    "Node.js",
-    "HTML/CSS",
-    "Spring",
-    "Git"
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 188,
