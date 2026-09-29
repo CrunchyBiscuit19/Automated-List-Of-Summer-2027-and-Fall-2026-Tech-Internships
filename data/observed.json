@@ -852,6 +852,18 @@
     }
    }
   },
+  "dxc technology": {
+   "name": "DXC Technology",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:dxctechnology:/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ellipsis labs": {
    "name": "Ellipsis Labs",
    "cycles": {
@@ -2730,5 +2742,5 @@
    }
   }
  },
- "updated_at": "2026-09-29T00:38:52Z"
+ "updated_at": "2026-09-29T10:55:48Z"
 }

@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-29T00:38:52Z</updated>
+  <updated>2026-09-29T10:55:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b</id>
+    <title>Shopback 2: Software Engineer Intern - Backend</title>
+    <link href="https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b"/>
+    <updated>2026-09-29T10:55:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, Vietnam · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AccorCorpo:744000152363529</id>
+    <title>Accor: Internship – AI for Delivery</title>
+    <link href="https://jobs.smartrecruiters.com/AccorCorpo/744000152363529"/>
+    <updated>2026-09-29T10:55:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bangkok, Bangkok, Thailand (Hybrid) · Python, Java, C++, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152335630</id>
+    <title>Bosch: [EAB] Embedded Software Engineer Intern (C/C++)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152335630"/>
+    <updated>2026-09-29T10:55:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, BW, Vietnam · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dxctechnology:/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043</id>
+    <title>DXC Technology: Cybersecurity Intern</title>
+    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043"/>
+    <updated>2026-09-29T10:55:48Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · MY012 - Petaling Jaya,Malaysia(MY012) · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/Software-Cloud-Intern_JR2026007798</id>
+    <title>Razer: Software Cloud Intern</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798"/>
+    <updated>2026-09-29T10:55:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Python, Node.js, Kubernetes, Docker, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:shopback-2:f3876c50-8b06-4342-af17-7cf393176a56</id>
     <title>Shopback 2: Software Engineer Intern - Mobile</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>2 openings · Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000145156358</id>
-    <title>Western Digital: Intern - AI Information Technology (Studying Master's and Bachelor Degree)</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000145156358"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · BangPa-in, PHRA NAKHON SI AYUTTHAYA, Thailand · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728</id>
-    <title>Intel: IFA Software Development Engineer Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/IFA-Software-Development-Engineer-Intern_JR0286728"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Malaysia, Kulim · Python, C# · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937</id>
-    <title>Intel: Intern System Software Development Engineer</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286937"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208</id>
-    <title>Marinabaysands: Intern, Cyber Security</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Marina Bay Sands, Singapore</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marinabaysands:/job/Perennial-Business-City-Singapore/Intern--Developer--Middleware-_JR10007967</id>
-    <title>Marinabaysands: Intern, Developer (Middleware)</title>
-    <link href="https://marinabaysands.wd102.myworkdayjobs.com/external/job/Perennial-Business-City-Singapore/Intern--Developer--Middleware-_JR10007967"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Perennial Business City, Singapore · Java, SQL, Spring, Git, Kafka</summary>
   </entry>
 </feed>
