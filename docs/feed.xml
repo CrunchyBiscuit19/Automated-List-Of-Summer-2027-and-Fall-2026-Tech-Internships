@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-09-29T10:55:48Z</updated>
+  <updated>2026-09-29T18:24:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Experian:744000152493589</id>
+    <title>Experian: AI Developer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Experian/744000152493589"/>
+    <updated>2026-09-29T18:24:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cyberjaya, Selangor, Malaysia (Hybrid) · Python, SQL, LLMs, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b</id>
     <title>Shopback 2: Software Engineer Intern - Backend</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Ho Chi Minh, , Vietnam · Python, TypeScript, SQL, LLMs, Azure · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000147458139</id>
-    <title>Bosch: [SX/BSV-VN] Embedded Test Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000147458139"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

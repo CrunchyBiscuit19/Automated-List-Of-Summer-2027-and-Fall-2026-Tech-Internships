@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-09-29T10:55:48Z",
- "data_as_of": "2026-09-29T10:55:48Z",
- "rendered_at": "2026-09-29T10:55:48Z",
+ "generated_at": "2026-09-29T18:24:54Z",
+ "data_as_of": "2026-09-29T18:24:54Z",
+ "rendered_at": "2026-09-29T18:24:54Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 128,
+ "count": 129,
  "jobs": [
+  {
+   "id": "smartrecruiters:Experian:744000152493589",
+   "company": "Experian",
+   "title": "AI Developer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Cyberjaya, Selangor, Malaysia (Hybrid)",
+   "url": "https://jobs.smartrecruiters.com/Experian/744000152493589",
+   "posted_at": "2026-09-29T16:31:27.466Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-29T18:24:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "LLMs",
+    "Azure"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
    "company": "Shopback 2",
