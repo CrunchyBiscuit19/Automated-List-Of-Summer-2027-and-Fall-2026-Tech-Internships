@@ -1,18 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
-      "smartrecruiters:AccorCorpo:744000152363529",
-      "smartrecruiters:BoschGroup:744000152335630",
-      "workday:dxctechnology:/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043",
-      "workday:razer:/job/Singapore/Software-Cloud-Intern_JR2026007798"
-    ],
-    "telegram": [
-      "lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b",
-      "smartrecruiters:AccorCorpo:744000152363529",
-      "smartrecruiters:BoschGroup:744000152335630",
-      "workday:dxctechnology:/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043",
-      "workday:razer:/job/Singapore/Software-Cloud-Intern_JR2026007798"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
