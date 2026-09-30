@@ -1,6 +1,10 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:db:/job/Singapore-One-Raffles-Quay/Technology-intern---YTP_R0453251"
+    ],
+    "telegram": [
+      "workday:db:/job/Singapore-One-Raffles-Quay/Technology-intern---YTP_R0453251"
+    ]
   }
 }
