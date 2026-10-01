@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-01T06:01:17Z</updated>
+  <updated>2026-10-01T15:42:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152844185</id>
+    <title>Bosch: [Bosch R&amp;D – Internship] Software Testing Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152844185"/>
+    <updated>2026-10-01T15:42:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh City, , Vietnam · Azure · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Intern--Quality-Associate-Lab-and-Data-Analyst_R418775</id>
+    <title>Merck: Intern- Quality Associate Lab and Data Analyst</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Intern--Quality-Associate-Lab-and-Data-Analyst_R418775"/>
+    <updated>2026-10-01T15:42:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · SGP - Singapore - Singapore (50 Tuas West Dr)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:thales:/job/SINGAPORE/Software-Engineer-Intern--C--_R0324316</id>
     <title>Thales: Software Engineer Intern (C#)</title>
@@ -61,7 +77,7 @@
     <link href="https://jobs.smartrecruiters.com/AccorCorpo/744000152363529"/>
     <updated>2026-09-29T10:55:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bangkok, Bangkok, Thailand (Hybrid) · Python, Java, C++, JavaScript, LLMs</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Bangkok, Bangkok, Thailand (Hybrid) · Python, Java, C++, JavaScript, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152335630</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Ho Chi Minh, , Vietnam · MATLAB, Python, C++ · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145684890</id>
-    <title>Bosch: [EBS] Embedded Engineer Intern (Matlab/Simulink)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145684890"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ho Chi Minh, , Vietnam · MATLAB, Python, C++ · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145938529</id>
-    <title>Bosch: [ETA] AI Engineer Intern (6-month fulltime Internship)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145938529"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Tân Bình, Thành phố Hồ Chí Minh, Vietnam · Python, C++, Git · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

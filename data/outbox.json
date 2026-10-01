@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:AccorCorpo:744000152894229",
+      "smartrecruiters:BoschGroup:744000152844185",
+      "workday:msd:/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Intern--Quality-Associate-Lab-and-Data-Analyst_R418775"
+    ],
+    "telegram": [
+      "smartrecruiters:AccorCorpo:744000152894229",
+      "smartrecruiters:BoschGroup:744000152844185",
+      "workday:msd:/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Intern--Quality-Associate-Lab-and-Data-Analyst_R418775"
+    ]
   }
 }
