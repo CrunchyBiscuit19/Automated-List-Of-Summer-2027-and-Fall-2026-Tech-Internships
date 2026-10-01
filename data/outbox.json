@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:thales:/job/SINGAPORE/Software-Engineer-Intern--C--_R0324316",
-      "workday:thales:/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044"
-    ],
-    "telegram": [
-      "workday:thales:/job/SINGAPORE/Software-Engineer-Intern--C--_R0324316",
-      "workday:thales:/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
