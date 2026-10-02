@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-01T21:17:35Z</updated>
+  <updated>2026-10-02T05:44:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Eurofins:744000153085752</id>
+    <title>Eurofins: Internship - IT (Software)</title>
+    <link href="https://jobs.smartrecruiters.com/Eurofins/744000153085752"/>
+    <updated>2026-10-02T05:44:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Bukit Mertajam, Penang, Malaysia · SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AccorCorpo:744000152894229</id>
     <title>Accor: Internship – AI for Delivery</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>3 openings · Not stated · Data &amp; ML/AI · Singapore, , Singapore · Python, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145673389</id>
-    <title>Bosch: [BSV] Embedded Test Engineer Intern (Matlab/Simulink)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145673389"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ho Chi Minh, , Vietnam · MATLAB, Python, C++ · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

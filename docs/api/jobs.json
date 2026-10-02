@@ -1,11 +1,34 @@
 {
- "generated_at": "2026-10-01T21:17:35Z",
- "data_as_of": "2026-10-01T21:17:35Z",
- "rendered_at": "2026-10-01T21:17:36Z",
+ "generated_at": "2026-10-02T05:44:18Z",
+ "data_as_of": "2026-10-02T05:44:18Z",
+ "rendered_at": "2026-10-02T05:44:18Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 131,
+ "count": 132,
  "jobs": [
+  {
+   "id": "smartrecruiters:Eurofins:744000153085752",
+   "company": "Eurofins",
+   "title": "Internship - IT (Software)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Bukit Mertajam, Penang, Malaysia",
+   "url": "https://jobs.smartrecruiters.com/Eurofins/744000153085752",
+   "posted_at": "2026-10-02T02:28:13.632Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-02T05:44:18Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SQL"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:AccorCorpo:744000152894229",
    "company": "Accor",
