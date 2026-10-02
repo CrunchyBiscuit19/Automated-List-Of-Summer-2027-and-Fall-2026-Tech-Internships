@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-02T05:44:18Z</updated>
+  <updated>2026-10-02T15:00:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:pwc:/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD</id>
+    <title>PricewaterhouseCoopers (PwC): Intern - Cyber Security (SOC)</title>
+    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD"/>
+    <updated>2026-10-02T15:00:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Ho Chi Minh City · Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Eurofins:744000153085752</id>
     <title>Eurofins: Internship - IT (Software)</title>
@@ -270,14 +278,6 @@
     <updated>2026-09-21T05:03:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, TypeScript, JavaScript, React · H-1B track record: ~40 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:qodeworld:E833248FA2</id>
-    <title>qode.world: Full Stack Engineering Intern</title>
-    <link href="https://apply.workable.com/qodeworld/j/E833248FA2/"/>
-    <updated>2026-09-24T13:48:43Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehac.fa.us6.oraclecloud.com:20431</id>

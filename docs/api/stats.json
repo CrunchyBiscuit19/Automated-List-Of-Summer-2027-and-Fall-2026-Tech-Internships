@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-02T05:44:18Z",
- "fetched_at": "2026-10-02T05:44:18Z",
- "duration_seconds": 1029.9,
+ "generated_at": "2026-10-02T15:00:01Z",
+ "fetched_at": "2026-10-02T15:00:01Z",
+ "duration_seconds": 1080.1,
  "companies_total": 4651,
  "companies_by_source": {
   "greenhouse": 1052,
@@ -17,30 +17,28 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 260,
- "fetched_ok": 4221,
- "fetch_errors": 170,
+ "quarantined": 276,
+ "fetched_ok": 4240,
+ "fetch_errors": 135,
  "errors_by_source": {
-  "workday": 146,
-  "rippling": 2,
-  "ashby": 3,
-  "lever": 2,
-  "workable": 16,
-  "greenhouse": 1
+  "workday": 119,
+  "greenhouse": 3,
+  "rippling": 3,
+  "workable": 10
  },
- "fetch_success_rate": 0.961,
- "fetch_success_rate_registry": 0.908,
- "snapshots_complete": 3659,
- "snapshots_partial": 562,
+ "fetch_success_rate": 0.969,
+ "fetch_success_rate_registry": 0.912,
+ "snapshots_complete": 3643,
+ "snapshots_partial": 597,
  "partial_by_reason": {
-  "result-cap": 553,
-  "malformed-response": 8,
+  "result-cap": 522,
+  "malformed-response": 74,
   "pagination-stalled": 1
  },
- "degraded_fetches": 9,
+ "degraded_fetches": 75,
  "roles_matched": 94,
- "dropped_no_year_in_title": 449,
- "dropped_offcycle_by_text": 168,
+ "dropped_no_year_in_title": 456,
+ "dropped_offcycle_by_text": 163,
  "roles_cycle_inferred": 94,
  "roles_by_source": {
   "ashby": 4,
@@ -57,8 +55,8 @@
   "Not stated": 94
  },
  "roles_by_region": {
-  "Singapore": 83,
-  "Vietnam": 25,
+  "Singapore": 82,
+  "Vietnam": 26,
   "Thailand": 3,
   "Malaysia": 18,
   "Philippines": 3
@@ -83,5 +81,5 @@
   "median_days": 9.5,
   "sample_size": 126
  },
- "rendered_at": "2026-10-02T05:44:18Z"
+ "rendered_at": "2026-10-02T15:00:01Z"
 }

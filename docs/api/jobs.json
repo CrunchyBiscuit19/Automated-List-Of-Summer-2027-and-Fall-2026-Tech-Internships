@@ -1,11 +1,34 @@
 {
- "generated_at": "2026-10-02T05:44:18Z",
- "data_as_of": "2026-10-02T05:44:18Z",
- "rendered_at": "2026-10-02T05:44:18Z",
+ "generated_at": "2026-10-02T15:00:01Z",
+ "data_as_of": "2026-10-02T15:00:01Z",
+ "rendered_at": "2026-10-02T15:00:01Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 132,
  "jobs": [
+  {
+   "id": "workday:pwc:/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD",
+   "company": "PricewaterhouseCoopers (PwC)",
+   "title": "Intern - Cyber Security (SOC)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Security",
+   "location": "Ho Chi Minh City",
+   "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD",
+   "posted_at": "2026-10-02T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-02T15:00:01Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Azure"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:Eurofins:744000153085752",
    "company": "Eurofins",
@@ -2493,31 +2516,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:thales:/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782",
-   "company": "Thales",
-   "title": "Software Engineer Intern - Middleware (IBS)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Singapore",
-   "url": "https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern---Middleware--IBS-_R0334782",
-   "posted_at": "2026-09-02T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-06T08:57:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "Swift",
-    "Kotlin"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
