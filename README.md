@@ -8,7 +8,7 @@
 
 ### 132 open roles (97 listed below) · 19 new this week
 
-4,401 employers tracked · data as of Oct 02, 2026 at 15:00 UTC
+4,401 employers tracked · data as of Oct 02, 2026 at 20:54 UTC
 
 _38 have a cycle the employer stated · 94 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -134,7 +134,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Merck | Intern- Quality Associate Lab and Data Analyst 🆕 | Data & ML/AI | SGP - Singapore - Singapore (50 Tuas We… | No skills listed | Oct 01, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Intern--Quality-Associate-Lab-and-Data-Analyst_R418775) |
 | Thales | Software Engineer Intern (C#) 🆕 | Software | SINGAPORE | C# | Oct 01, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/SINGAPORE/Software-Engineer-Intern--C--_R0324316) |
 | Thales | Software Engineer Intern (Python) 🆕 | Software | SINGAPORE | Python | Oct 01, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/SINGAPORE/Software-Engineer-Intern--Python-_R0342044) |
-| Deutsche Bank | AI Audit and Analytics Intern - YTP program 🆕 | Data & ML/AI | Singapore, One Raffles Quay | No skills listed | Sep 30, 2026 | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248) |
+| Deutsche Bank | AI Audit and Analytics Intern - YTP program | Data & ML/AI | Singapore, One Raffles Quay | No skills listed | Sep 30, 2026 | [Apply](https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248) |
 | Experian | AI Developer Intern | Data & ML/AI | Cyberjaya, Selangor, Malaysia (Hybrid) | Python, SQL, LLMs, Azure | Sep 29, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000152493589) |
 | Shopback 2 | Software Engineer Intern - Backend | Software | Ho Chi Minh, Vietnam | Python, Java, C++, C# | Sep 29, 2026 | [Apply](https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b) |
 | Bosch | [EAB] Embedded Software Engineer Intern (C/C++) | Software | Ho Chi Minh, BW, Vietnam | No skills listed | Sep 29, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152335630) |
@@ -203,7 +203,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,240 of 4,651 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 91% of the full registry) · completed in 1080.1s · 597 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,372 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 94% of the full registry) · completed in 879.3s · 643 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
