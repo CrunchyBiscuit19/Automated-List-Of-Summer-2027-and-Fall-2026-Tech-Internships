@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-02T20:54:37Z</updated>
+  <updated>2026-10-03T05:27:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:pwc:/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD</id>
@@ -712,14 +712,6 @@
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, Rust, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:towerresearchcapital:8138524</id>
-    <title>Tower Research Capital: Quantitative Developer Intern</title>
-    <link href="https://www.tower-research.com/open-positions/?gh_jid=8138524"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Singapore · Python, C++, Bash, Pandas · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:towerresearchcapital:8168750</id>
     <title>Tower Research Capital: Quantitative Researcher Intern, Bachelor's or Master's</title>
     <link href="https://www.tower-research.com/open-positions/?gh_jid=8168750"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>3 openings · Not stated · Data &amp; ML/AI · Singapore, , Singapore · Python, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145673389</id>
+    <title>Bosch: [BSV] Embedded Test Engineer Intern (Matlab/Simulink)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145673389"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, , Vietnam · MATLAB, Python, C++ · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
