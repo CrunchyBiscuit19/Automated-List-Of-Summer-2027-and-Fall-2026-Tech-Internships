@@ -8,7 +8,7 @@
 
 ### 129 open roles (96 listed below) · 19 new this week
 
-4,401 employers tracked · data as of Oct 04, 2026 at 14:11 UTC
+4,401 employers tracked · data as of Oct 04, 2026 at 19:48 UTC
 
 _38 have a cycle the employer stated · 91 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -127,7 +127,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| PricewaterhouseCoopers (PwC) | Intern - Cyber Security (SOC) 🆕 | Security | Ho Chi Minh City | Azure | Oct 02, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD) |
+| PricewaterhouseCoopers (PwC) | Intern - Cyber Security (SOC) | Security | Ho Chi Minh City | Azure | Oct 02, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD) |
 | Eurofins | Internship - IT (Software) | Software | Bukit Mertajam, Penang, Malaysia | SQL | Oct 02, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153085752) |
 | Accor | Internship – AI for Delivery | Data & ML/AI | Bangkok, Bangkok, Thailand (Hybrid) | Python, Java, C++, JavaScript | Oct 01, 2026 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000152894229) |
 | Bosch | [Bosch R&D – Internship] Software Testing Intern | Software | Ho Chi Minh City, , Vietnam | Azure | Oct 01, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152844185) |
@@ -202,7 +202,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,228 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 1075.9s · 566 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,327 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 928.1s · 609 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
