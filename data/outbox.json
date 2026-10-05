@@ -1,24 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365",
-      "workday:autodesk:/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362",
-      "workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer-Internship_R0142215",
-      "workday:tencent:/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219",
-      "workday:tencent:/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220",
-      "workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108218",
-      "workday:tencent:/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216"
-    ],
-    "telegram": [
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365",
-      "workday:autodesk:/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363",
-      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362",
-      "workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer-Internship_R0142215",
-      "workday:tencent:/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219",
-      "workday:tencent:/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220",
-      "workday:tencent:/job/Singapore-CapitaSky/Data-Engineer-Intern_R108218",
-      "workday:tencent:/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
