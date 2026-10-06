@@ -5,20 +5,20 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-05T17:19:56Z</updated>
+  <updated>2026-10-06T01:33:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365</id>
-    <title>Autodesk: Intern, Software Development Engineer [AEC-AutoCAD Backend]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365"/>
+    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363</id>
+    <title>Autodesk: Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, Node.js, Django · H-1B track record: ~343 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363</id>
-    <title>Autodesk: Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363"/>
+    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365</id>
+    <title>Autodesk: Intern, Software Development Engineer [AEC-AutoCAD Backend]</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, Node.js, Django · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -48,20 +48,20 @@
     <summary>Not stated · Software · Singapore-CapitaSky · Python, Java, C++, Go, Scala</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220</id>
-    <title>Tencent: Site Reliability Engineer Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220"/>
-    <updated>2026-10-05T17:19:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore-CapitaSky · Python, Bash, Kubernetes, Docker, Linux</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216</id>
     <title>Tencent: Data Science Intern (Data Analytics &amp; AI)</title>
     <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, SQL, LLMs, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220</id>
+    <title>Tencent: Site Reliability Engineer Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220"/>
+    <updated>2026-10-05T17:19:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore-CapitaSky · Python, Bash, Kubernetes, Docker, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:pwc:/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD</id>
