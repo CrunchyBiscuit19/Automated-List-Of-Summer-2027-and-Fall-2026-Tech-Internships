@@ -1,12 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:edbz.fa.us2.oraclecloud.com:25018492",
-      "smartrecruiters:BoschGroup:744000153647992"
-    ],
-    "telegram": [
-      "oracle:edbz.fa.us2.oraclecloud.com:25018492",
-      "smartrecruiters:BoschGroup:744000153647992"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
