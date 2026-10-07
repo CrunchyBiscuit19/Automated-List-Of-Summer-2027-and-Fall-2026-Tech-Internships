@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 143 open roles (97 listed below) · 21 new this week
+### 141 open roles (97 listed below) · 21 new this week
 
-4,401 employers tracked · data as of Oct 07, 2026 at 15:45 UTC
+4,401 employers tracked · data as of Oct 07, 2026 at 21:33 UTC
 
-_42 have a cycle the employer stated · 101 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_42 have a cycle the employer stated · 99 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -88,9 +88,9 @@ If it helps you, a star means a lot and tells me to keep going.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Autodesk | Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering] 🆕 | Software | Singapore, SGP | Python, Java, JavaScript, Node.js | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363) |
-| Autodesk | Intern, Software Development Engineer [AEC-AutoCAD Backend] 🆕 | Software | Singapore, SGP | Python, Java, JavaScript, Node.js | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365) |
-| Autodesk | Intern, Software Engineer in Test [AEC Autocad Engineering] 🆕 | Software | Singapore, SGP | Python, Java, C++, C# | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362) |
+| Autodesk | Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering] | Software | Singapore, SGP | Python, Java, JavaScript, Node.js | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363) |
+| Autodesk | Intern, Software Development Engineer [AEC-AutoCAD Backend] | Software | Singapore, SGP | Python, Java, JavaScript, Node.js | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365) |
+| Autodesk | Intern, Software Engineer in Test [AEC Autocad Engineering] | Software | Singapore, SGP | Python, Java, C++, C# | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362) |
 | Zebra Technologies | 2027 (6-months) Internship (Singapore) - Artificial Intelligence | Data & ML/AI | Singapore | No skills listed | Sep 28, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399) |
 | AppLovin | Full Stack Engineering Intern (2027 Summer Internship) | Software | Singapore | Python, Java, TypeScript, JavaScript | Sep 20, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006) |
 | AppLovin | Machine Learning Engineering Intern (2027 Summer Internship) | Data & ML/AI | Singapore | Python, PyTorch, TensorFlow | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) |
@@ -128,13 +128,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Bosch | Intern, Data Analyst 🆕 | Data & ML/AI | Singapore, , Singapore | No skills listed | Oct 07, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154012744) |
 | ASML | Strategic Sourcing & Procurement AI Intern (6 months) 🆕 | Data & ML/AI | Singapore, Singapore | Python, LLMs | Oct 07, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Singapore-Singapore/Strategic-Sourcing---Procurement-AI-Intern--6-months-_J-00354706) |
 | Autodesk | Intern, Software Engineer [PDMS-DPM-Engineering] 🆕 | Software | Singapore, SGP | Python, Java, C++, C# | Oct 07, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277) |
-| Bosch | Intern, Data Analyst 🆕 | Data & ML/AI | Singapore, , Singapore | No skills listed | Oct 07, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154012744) |
-| Hitachi Energy | Embedded Software Engineer Internship 🆕 | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | C++, Linux | Oct 05, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer-Internship_R0142215) |
-| Tencent | Backend Engineer Intern 🆕 | Software | Singapore-CapitaSky | Python, Java, C++, Go | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219) |
-| Tencent | Data Science Intern (Data Analytics & AI) 🆕 | Data & ML/AI | Singapore-CapitaSky | Python, SQL, LLMs, Tableau | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216) |
-| Tencent | Site Reliability Engineer Intern 🆕 | Software | Singapore-CapitaSky | Python, Bash, Kubernetes, Docker | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220) |
+| Hitachi Energy | Embedded Software Engineer Internship | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | C++, Linux | Oct 05, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer-Internship_R0142215) |
+| Tencent | Backend Engineer Intern | Software | Singapore-CapitaSky | Python, Java, C++, Go | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219) |
+| Tencent | Data Science Intern (Data Analytics & AI) | Data & ML/AI | Singapore-CapitaSky | Python, SQL, LLMs, Tableau | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216) |
+| Tencent | Site Reliability Engineer Intern | Software | Singapore-CapitaSky | Python, Bash, Kubernetes, Docker | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108220) |
 | PricewaterhouseCoopers (PwC) | Intern - Cyber Security (SOC) | Security | Ho Chi Minh City | Azure | Oct 02, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD) |
 | Eurofins | Internship - IT (Software) | Software | Bukit Mertajam, Penang, Malaysia | SQL | Oct 02, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000153085752) |
 | Accor | Internship – AI for Delivery | Data & ML/AI | Bangkok, Bangkok, Thailand (Hybrid) | Python, Java, C++, JavaScript | Oct 01, 2026 | [Apply](https://jobs.smartrecruiters.com/AccorCorpo/744000152894229) |
@@ -206,7 +206,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,289 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 873.7s · 614 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,254 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1119.2s · 595 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
