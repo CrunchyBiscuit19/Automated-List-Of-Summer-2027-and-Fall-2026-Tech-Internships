@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:asml:/job/Singapore-Singapore/Strategic-Sourcing---Procurement-AI-Intern--6-months-_J-00354706",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277",
+      "smartrecruiters:BoschGroup:744000154012744"
+    ],
+    "telegram": [
+      "workday:asml:/job/Singapore-Singapore/Strategic-Sourcing---Procurement-AI-Intern--6-months-_J-00354706",
+      "workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277",
+      "smartrecruiters:BoschGroup:744000154012744"
+    ]
   }
 }
