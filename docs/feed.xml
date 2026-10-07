@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-06T23:58:32Z</updated>
+  <updated>2026-10-07T06:08:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25018492</id>
@@ -320,14 +320,6 @@
     <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1</id>
-    <title>Hewlett Packard (HP): College Intern - Machine Learning and Artificial Intelligence</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Machine-Learning-and-Artificial-Intelligence_UNI4651-1"/>
-    <updated>2026-09-23T04:54:17Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Singapore, South West, Singapore · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:micron:/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586</id>
     <title>Micron Technology: Intern - Facilities Sustainability AI</title>
     <link href="https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586"/>
@@ -397,7 +389,7 @@
     <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD"/>
     <updated>2026-09-17T05:01:52Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore - Marina One · Java, C++, LLMs</summary>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Singapore - Marina One · Java, C++, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:goventi:52c162ad-20c4-4db0-ae4f-cc4d1218bc67</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf</id>
+    <title>Shopback 2: Software Engineer Intern (H1 2027)</title>
+    <link href="https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore, Singapore</summary>
   </entry>
 </feed>
