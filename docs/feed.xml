@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-08T06:11:12Z</updated>
+  <updated>2026-10-08T15:48:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154384809</id>
+    <title>Bosch: [EAA] Embedded Software Test Engineer Intern (C/C++)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154384809"/>
+    <updated>2026-10-08T15:48:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, , Vietnam · C++ · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979</id>
+    <title>Micron Technology: Intern - HVM PEE Photo (AI)</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979"/>
+    <updated>2026-10-08T15:48:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pwc:/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD</id>
+    <title>PricewaterhouseCoopers (PwC): Tax - Digital Tax (Infrastructure) Off-Cycle Internship (Jan - Jun 27)</title>
+    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD"/>
+    <updated>2026-10-08T15:48:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Python, Java, C#, SQL, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154236871</id>
     <title>Bosch: [BDO] Software Developer Intern (.NET &amp; Angular)</title>
@@ -664,36 +688,12 @@
     <summary>Not stated · Software · Malaysia, Kulim · Python, C++ · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:intel:/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934</id>
-    <title>Intel: DevOps and Software Engineering Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Kulim/DevOps-and-Software-Engineering-Intern_JR0286934"/>
-    <updated>2026-09-08T19:42:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Malaysia, Kulim · Python, Java, C#, JavaScript, AWS · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:amat:/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447</id>
     <title>Applied Materials: Customer Engineer - Data Science / ML DevOps Internship</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447"/>
     <updated>2026-09-08T13:06:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore,SGP · Python · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583</id>
-    <title>Hewlett Packard Enterprise: AI and Machine Learning Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583"/>
-    <updated>2026-09-08T13:06:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore, Central Singapore, Singapore · LLMs · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618</id>
-    <title>Hewlett Packard Enterprise: Embedded Software (Firmware) Internship</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Singapore-Central-Singapore-Singapore/Embedded-Software--Firmware--Internship_1213618"/>
-    <updated>2026-09-08T13:06:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Singapore, Central Singapore, Singapore · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318</id>

@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:BoschGroup:744000154384809",
+      "workday:micron:/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979",
+      "workday:pwc:/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD"
+    ],
+    "telegram": [
+      "smartrecruiters:BoschGroup:744000154384809",
+      "workday:micron:/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979",
+      "workday:pwc:/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD"
+    ]
   }
 }
