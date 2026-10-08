@@ -1,11 +1,39 @@
 {
- "generated_at": "2026-10-07T21:33:20Z",
- "data_as_of": "2026-10-07T21:33:20Z",
- "rendered_at": "2026-10-07T21:33:20Z",
+ "generated_at": "2026-10-08T06:11:12Z",
+ "data_as_of": "2026-10-08T06:11:12Z",
+ "rendered_at": "2026-10-08T06:11:13Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 141,
+ "count": 142,
  "jobs": [
+  {
+   "id": "smartrecruiters:BoschGroup:744000154236871",
+   "company": "Bosch",
+   "title": "[BDO] Software Developer Intern (.NET & Angular)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Ho Chi Minh, , Vietnam",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154236871",
+   "posted_at": "2026-10-08T01:39:54.164Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-08T06:11:12Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Angular",
+    "C#",
+    "TypeScript",
+    "SQL",
+    "HTML/CSS",
+    "Git"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:BoschGroup:744000154012744",
    "company": "Bosch",

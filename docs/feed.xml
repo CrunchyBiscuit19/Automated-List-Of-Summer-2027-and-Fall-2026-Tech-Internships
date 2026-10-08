@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-07T21:33:20Z</updated>
+  <updated>2026-10-08T06:11:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154236871</id>
+    <title>Bosch: [BDO] Software Developer Intern (.NET &amp; Angular)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154236871"/>
+    <updated>2026-10-08T06:11:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, , Vietnam · Angular, C#, TypeScript, SQL, HTML/CSS · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154012744</id>
     <title>Bosch: Intern, Data Analyst</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Quant · Singapore, Hong Kong, Shanghai, Sydney · Python, C++, Linux · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:virtu:5208637002</id>
-    <title>Virtu Financial: 2027 Internship - Quantitative Trading</title>
-    <link href="https://job-boards.greenhouse.io/virtu/jobs/5208637002"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, SQL</summary>
   </entry>
 </feed>
