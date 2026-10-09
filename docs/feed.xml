@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-08T21:34:56Z</updated>
+  <updated>2026-10-09T06:14:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154575475</id>
+    <title>Bosch: [EAB] Automation &amp; AI Tooling Intern (Python/ML/Simulink)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154575475"/>
+    <updated>2026-10-09T06:14:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ho Chi Minh, , Vietnam · Python, C++, MATLAB · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154384809</id>
     <title>Bosch: [EAA] Embedded Software Test Engineer Intern (C/C++)</title>
@@ -334,22 +342,6 @@
     <updated>2026-09-25T13:59:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore · LLMs, HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000151754639</id>
-    <title>Western Digital: Internship - Software Development (Embedded)</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000151754639"/>
-    <updated>2026-09-28T17:02:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, C++ · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ensigninfosecurity:/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647</id>
-    <title>Ensigninfosecurity: Intern, Cyber Threat Intel</title>
-    <link href="https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Cyber-Threat-Intel_JOBREQ-0003647"/>
-    <updated>2026-09-30T20:58:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Singapore · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305</id>
@@ -784,14 +776,6 @@
     <summary>Summer 2027 · Software · Singapore · Python, Java, Linux, Kafka, PostgreSQL · H-1B track record: ~40 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:jumptrading:8027938</id>
-    <title>Jump Trading: Campus AI/ML Researcher (Intern)</title>
-    <link href="https://www.jumptrading.com/hr/job?gh_jid=8027938"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Hong Kong; Shanghai; Singapore · Python, C++, PyTorch, TensorFlow · H-1B track record: ~57 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:squarepointcapital:6201998</id>
     <title>Squarepoint Capital: Intern Software Developer - Singapore - 2027</title>
     <link href="https://www.squarepoint-capital.com/open-opportunities?id=6201998&amp;gh_jid=6201998"/>
@@ -806,5 +790,21 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Quant · Singapore, Hong Kong, Shanghai, Sydney · Python, C++, Linux · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:virtu:5208637002</id>
+    <title>Virtu Financial: 2027 Internship - Quantitative Trading</title>
+    <link href="https://job-boards.greenhouse.io/virtu/jobs/5208637002"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:virtu:5513756002</id>
+    <title>Virtu Financial: 2027 Internship – Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/virtu/jobs/5513756002"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore · Python, Java, C++, JavaScript</summary>
   </entry>
 </feed>
