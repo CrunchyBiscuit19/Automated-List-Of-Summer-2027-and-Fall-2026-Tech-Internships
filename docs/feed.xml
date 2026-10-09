@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-09T06:14:17Z</updated>
+  <updated>2026-10-09T15:31:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Data-and-AI-Engineering-Intern_10080066-WD</id>
+    <title>Mufgub: Data and AI Engineering Intern</title>
+    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Data-and-AI-Engineering-Intern_10080066-WD"/>
+    <updated>2026-10-09T15:31:01Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Singapore Office OCC · Python, TypeScript, JavaScript, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:razer:/job/Singapore/Data-Science-Intern_JR2026007795</id>
+    <title>Razer: Data Science Intern</title>
+    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795"/>
+    <updated>2026-10-09T15:31:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, SQL, PyTorch, TensorFlow, scikit-learn</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154575475</id>
     <title>Bosch: [EAB] Automation &amp; AI Tooling Intern (Python/ML/Simulink)</title>
@@ -624,30 +640,6 @@
     <summary>Summer 2027 · Software · Singapore · TypeScript, LLMs, React</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Engineer-Intern_R0339658</id>
-    <title>Thales: Software Engineer Intern</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Engineer-Intern_R0339658"/>
-    <updated>2026-09-09T13:15:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Java, TypeScript, Angular, HTML/CSS, Spring</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trendmicro:/job/Manila/Cybersecurity-Intern_R0005760</id>
-    <title>Trend Micro: Cybersecurity Intern</title>
-    <link href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Cybersecurity-Intern_R0005760"/>
-    <updated>2026-09-09T13:15:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Manila · Python · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trendmicro:/job/Manila/Global-Infrastructure-Services-Intern_R0009489</id>
-    <title>Trend Micro: Global Infrastructure Services Intern</title>
-    <link href="https://trendmicro.wd3.myworkdayjobs.com/External/job/Manila/Global-Infrastructure-Services-Intern_R0009489"/>
-    <updated>2026-09-09T13:15:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Manila · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
     <title>Bosch: Internship in IT Solution Developer</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148364924"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf</id>
+    <title>Shopback 2: Software Engineer Intern (H1 2027)</title>
+    <link href="https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore, Singapore</summary>
   </entry>
 </feed>
