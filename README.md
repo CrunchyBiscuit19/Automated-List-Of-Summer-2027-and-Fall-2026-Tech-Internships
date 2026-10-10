@@ -8,7 +8,7 @@
 
 ### 136 open roles (87 listed below) · 20 new this week
 
-4,401 employers tracked · data as of Oct 10, 2026 at 14:42 UTC
+4,401 employers tracked · data as of Oct 10, 2026 at 20:13 UTC
 
 _42 have a cycle the employer stated · 94 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -130,9 +130,9 @@ These postings never name a cycle — not in the title, not in the posting text 
 |---|---|---|---|---|---|---|
 | Razer | Data Science Intern 🆕 | Data & ML/AI | Singapore | Python, SQL, PyTorch, TensorFlow | Oct 09, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795) |
 | Bosch | [EAB] Automation & AI Tooling Intern (Python/ML/Simulink) 🆕 | Data & ML/AI | Ho Chi Minh, , Vietnam | Python, C++, MATLAB | Oct 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154575475) |
-| Bosch | [EAA] Embedded Software Test Engineer Intern (C/C++) 🆕 | Software | Ho Chi Minh, , Vietnam | C++ | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154384809) |
-| Micron Technology | Intern - HVM PEE Photo (AI) 🆕 | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs | Oct 08, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979) |
-| PricewaterhouseCoopers (PwC) | Tax - Digital Tax (Infrastructure) Off-Cycle Internship (Jan - Jun 27) 🆕 | Software | Singapore | Python, Java, C#, SQL | Oct 08, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD) |
+| Bosch | [EAA] Embedded Software Test Engineer Intern (C/C++) | Software | Ho Chi Minh, , Vietnam | C++ | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154384809) |
+| Micron Technology | Intern - HVM PEE Photo (AI) | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs | Oct 08, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979) |
+| PricewaterhouseCoopers (PwC) | Tax - Digital Tax (Infrastructure) Off-Cycle Internship (Jan - Jun 27) | Software | Singapore | Python, Java, C#, SQL | Oct 08, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD) |
 | Bosch | [BDO] Software Developer Intern (.NET & Angular) | Software | Ho Chi Minh, , Vietnam | Angular, C#, TypeScript, SQL | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154236871) |
 | ASML | Strategic Sourcing & Procurement AI Intern (6 months) | Data & ML/AI | Singapore, Singapore | Python, LLMs | Oct 07, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Singapore-Singapore/Strategic-Sourcing---Procurement-AI-Intern--6-months-_J-00354706) |
 | Autodesk | Intern, Software Engineer [PDMS-DPM-Engineering] | Software | Singapore, SGP | Python, Java, C++, C# | Oct 07, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277) |
@@ -196,7 +196,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,204 of 4,651 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 998.4s · 555 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,322 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 758.5s · 611 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
