@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-10T05:57:50Z</updated>
+  <updated>2026-10-10T14:42:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Data-and-AI-Engineering-Intern_10080066-WD</id>
@@ -616,22 +616,6 @@
     <summary>Not stated · Software · Singapore · Python, TypeScript, JavaScript, React, Flask</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD</id>
-    <title>Mufgub: Cyber Security Architecture &amp; Engineering Intern</title>
-    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Architecture---Engineering-Intern_10079342-WD"/>
-    <updated>2026-09-10T13:09:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Singapore Office OCC · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD</id>
-    <title>Mufgub: Cyber Security Threat Detection &amp; Incident Response Intern</title>
-    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cyber-Security-Threat-Detection---Incident-Response-Intern_10079338-WD"/>
-    <updated>2026-09-10T13:09:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Singapore Office OCC · Python, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17</id>
     <title>Sierra: Software Engineer Intern, Agent (Summer 2027)</title>
     <link href="https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"/>
@@ -806,5 +790,21 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, Singapore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:b216d68c-48b0-4fa5-8f1e-9e0375b993e1</id>
+    <title>Shopback 2: Data Analyst (Internship) (H1 2027)</title>
+    <link href="https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore, Singapore · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000119536647</id>
+    <title>Bosch: Internship 2026, Data Analyst Engineer, Power Solutions (HmjP/TEF4)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000119536647"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand · Python, SQL, Tableau · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
