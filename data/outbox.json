@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "smartrecruiters:BoschGroup:744000154925330",
-      "smartrecruiters:BoschGroup:744000154951930",
-      "workday:msd:/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--Distribution--Logistics---Warehousing-Quality-Data-Analyst_R421490"
-    ],
-    "telegram": [
-      "smartrecruiters:BoschGroup:744000154925330",
-      "smartrecruiters:BoschGroup:744000154951930",
-      "workday:msd:/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--Distribution--Logistics---Warehousing-Quality-Data-Analyst_R421490"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
