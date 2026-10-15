@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-14T20:27:44Z</updated>
+  <updated>2026-10-15T04:44:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Continental:744000155656759</id>
+    <title>Continental: IT Internship - IT Infrastructure</title>
+    <link href="https://jobs.smartrecruiters.com/Continental/744000155656759"/>
+    <updated>2026-10-15T04:44:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia (Hybrid)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:grab:744000155475389</id>
     <title>Grab: Intern, Software Engineer</title>
@@ -122,7 +130,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277</id>
     <title>Autodesk: Intern, Software Engineer [PDMS-DPM-Engineering]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277"/>
     <updated>2026-10-07T15:45:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore, SGP · Python, Java, C++, C#, TypeScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -146,7 +154,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363</id>
     <title>Autodesk: Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, Node.js, Django · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -154,7 +162,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365</id>
     <title>Autodesk: Intern, Software Development Engineer [AEC-AutoCAD Backend]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, Node.js, Django · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -162,7 +170,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362</id>
     <title>Autodesk: Intern, Software Engineer in Test [AEC Autocad Engineering]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, C++, C#, Azure · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -514,7 +522,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET-Access-ENG]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Summer 2027"/>
     <summary>4 openings · Summer 2027 · Software · Singapore, SGP · Python, C++, Rust, Bash · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -522,7 +530,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET-Access-ENG]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Singapore, SGP · Python, Java, C++, C#, AWS · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -530,7 +538,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET-Connected Delivery]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, C++, React, Angular, Linux · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -538,7 +546,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET-Localization]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Summer 2027"/>
     <summary>2 openings · Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Ho Chi Minh, , Vietnam · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142038969</id>
-    <title>Bosch: [Internship Program Q4] DevOps Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142038969"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Ho Chi Minh, , Vietnam · Python, Git · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
