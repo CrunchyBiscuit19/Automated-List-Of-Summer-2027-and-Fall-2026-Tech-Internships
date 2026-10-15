@@ -1085,6 +1085,18 @@
     }
    }
   },
+  "grab": {
+   "name": "Grab",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "smartrecruiters:grab:744000155671079"
+     ],
+     "count": 1
+    }
+   }
+  },
   "grant thornton": {
    "name": "Grant Thornton",
    "cycles": {
@@ -2753,5 +2765,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T04:44:06Z"
+ "updated_at": "2026-10-15T13:37:49Z"
 }
