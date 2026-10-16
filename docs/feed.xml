@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-15T23:17:00Z</updated>
+  <updated>2026-10-16T04:39:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41087</id>
+    <title>Nokia: NPI Engineering Intern (AI-Assisted Operations)</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087"/>
+    <updated>2026-10-16T04:39:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Malaysia · Kubernetes, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-assisted-HARC-Intern_R0148176</id>
+    <title>Hitachi Energy: AI-assisted HARC Intern</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-assisted-HARC-Intern_R0148176"/>
+    <updated>2026-10-16T04:39:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:grab:744000155671079</id>
     <title>Grab: Intern, Software Engineer - Backend</title>
@@ -717,7 +733,7 @@
     <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916"/>
     <updated>2026-09-07T04:45:06Z</updated>
     <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam · Python, Java, C#, LLMs, React</summary>
+    <summary>3 openings · Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam · Python, Java, C#, LLMs, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Singapore, Singapore · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000119536647</id>
-    <title>Bosch: Internship 2026, Data Analyst Engineer, Power Solutions (HmjP/TEF4)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000119536647"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Hemaraj Eastern Seaboard Industrial Estate, RAYONG, Thailand · Python, SQL, Tableau · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142038898</id>
-    <title>Bosch: [Internship Program Q4] AI Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142038898"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Ho Chi Minh, , Vietnam · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
