@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41051",
+      "smartrecruiters:grab:744000155926216"
+    ],
+    "telegram": [
+      "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41051",
+      "smartrecruiters:grab:744000155926216"
+    ]
   }
 }

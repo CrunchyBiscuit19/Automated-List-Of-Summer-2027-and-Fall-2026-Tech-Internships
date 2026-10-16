@@ -1091,9 +1091,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-15",
      "role_ids": [
-      "smartrecruiters:grab:744000155671079"
+      "smartrecruiters:grab:744000155671079",
+      "smartrecruiters:grab:744000155926216"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2765,5 +2766,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T04:39:06Z"
+ "updated_at": "2026-10-16T13:28:50Z"
 }
