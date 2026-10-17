@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-16T23:03:39Z</updated>
+  <updated>2026-10-17T04:32:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41051</id>
@@ -392,14 +392,6 @@
     <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:zebra:/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399</id>
-    <title>Zebra Technologies: 2027 (6-months) Internship (Singapore) - Artificial Intelligence</title>
-    <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399"/>
-    <updated>2026-09-28T17:02:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Singapore · H-1B track record: ~126 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585</id>
     <title>Intel: IT Undergrad Technical Intern - AI and Data Analytics</title>
     <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585"/>
@@ -784,14 +776,6 @@
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, Rust, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:towerresearchcapital:8168750</id>
-    <title>Tower Research Capital: Quantitative Researcher Intern, Bachelor's or Master's</title>
-    <link href="https://www.tower-research.com/open-positions/?gh_jid=8168750"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Singapore, Hong Kong, Shanghai, Sydney · Python, C++, Linux · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:virtu:5208637002</id>
     <title>Virtu Financial: 2027 Internship - Quantitative Trading</title>
     <link href="https://job-boards.greenhouse.io/virtu/jobs/5208637002"/>
@@ -806,5 +790,21 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf</id>
+    <title>Shopback 2: Software Engineer Intern (H1 2027)</title>
+    <link href="https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Singapore, Singapore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:b216d68c-48b0-4fa5-8f1e-9e0375b993e1</id>
+    <title>Shopback 2: Data Analyst (Internship) (H1 2027)</title>
+    <link href="https://jobs.lever.co/shopback-2/b216d68c-48b0-4fa5-8f1e-9e0375b993e1"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore, Singapore · Python, SQL, LLMs</summary>
   </entry>
 </feed>
