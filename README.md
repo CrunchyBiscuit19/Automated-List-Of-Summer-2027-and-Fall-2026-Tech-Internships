@@ -8,7 +8,7 @@
 
 ### 131 open roles (89 listed below) · 16 new this week
 
-4,401 employers tracked · data as of Oct 18, 2026 at 04:38 UTC
+4,401 employers tracked · data as of Oct 18, 2026 at 12:53 UTC
 
 _40 have a cycle the employer stated · 91 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -128,8 +128,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Nokia | NPI Engineering Intern (AI-Assisted Operations) 🆕 | Data & ML/AI | Singapore | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41051) |
-| Nokia | NPI Engineering Intern (AI-Assisted Operations) 🆕 | Data & ML/AI | Malaysia | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087) |
-| Hitachi Energy | AI-assisted HARC Intern 🆕 | Data & ML/AI | Ho Chi Minh City, Ho Chi Minh, Vietnam | No skills listed | Oct 16, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-assisted-HARC-Intern_R0148176) |
+| Nokia | NPI Engineering Intern (AI-Assisted Operations) | Data & ML/AI | Malaysia | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087) |
+| Hitachi Energy | AI-assisted HARC Intern | Data & ML/AI | Ho Chi Minh City, Ho Chi Minh, Vietnam | No skills listed | Oct 16, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-assisted-HARC-Intern_R0148176) |
 | qode.world | Full Stack Engineering Intern | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Oct 15, 2026 | [Apply](https://apply.workable.com/qodeworld/j/E3CDB2C731/) |
 | Continental | IT Internship - IT Infrastructure | Software | Petaling Jaya +2 more | No skills listed | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/Continental/744000155656759) |
 | Marvell | AI Solutions Engineer Intern - Bachelor's/Master's Degree | Data & ML/AI | Singapore | Python, LLMs, AWS, Databricks | Oct 13, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441) |
@@ -211,7 +211,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,296 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1032.4s · 613 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,202 of 4,651 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 90% of the full registry) · completed in 1102.3s · 570 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
