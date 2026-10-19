@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-18T22:40:15Z</updated>
+  <updated>2026-10-19T04:48:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:citi:/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885</id>
+    <title>Citi: Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885"/>
+    <updated>2026-10-19T04:48:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Taguig  Philippines · Java, TypeScript, LLMs, React, Angular</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Penang-Malaysia/Software-Developer-Intern_R69694</id>
+    <title>Motorola: Software Developer Intern</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R69694"/>
+    <updated>2026-10-19T04:48:07Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Penang, Malaysia · Java, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:towerresearchcapital:8299894</id>
+    <title>Tower Research Capital: Software Engineer, C++ - 6 Month Internship Opportunity</title>
+    <link href="https://www.tower-research.com/open-positions/?gh_jid=8299894"/>
+    <updated>2026-10-19T04:48:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · C++, Python, Linux · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10507775</id>
     <title>Amazon: Data Center Infrastructure Engineering Intern, Colocation Regional Engineering</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, Rust, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:virtu:5208637002</id>
-    <title>Virtu Financial: 2027 Internship - Quantitative Trading</title>
-    <link href="https://job-boards.greenhouse.io/virtu/jobs/5208637002"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:virtu:5513756002</id>
-    <title>Virtu Financial: 2027 Internship – Software Engineer</title>
-    <link href="https://job-boards.greenhouse.io/virtu/jobs/5513756002"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Singapore · Python, Java, C++, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:shopback-2:1804a30e-2d2e-4631-9e85-614c91806ddf</id>
-    <title>Shopback 2: Software Engineer Intern (H1 2027)</title>
-    <link href="https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Singapore, Singapore</summary>
   </entry>
 </feed>

@@ -667,6 +667,18 @@
     }
    }
   },
+  "citi": {
+   "name": "Citi",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "workday:citi:/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885"
+     ],
+     "count": 1
+    }
+   }
+  },
   "clarios": {
    "name": "Clarios",
    "cycles": {
@@ -2766,5 +2778,5 @@
    }
   }
  },
- "updated_at": "2026-10-18T22:40:15Z"
+ "updated_at": "2026-10-19T04:48:07Z"
 }
