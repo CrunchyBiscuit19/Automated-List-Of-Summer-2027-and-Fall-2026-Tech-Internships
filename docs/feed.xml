@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-19T15:46:57Z</updated>
+  <updated>2026-10-19T21:17:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:recruitee:patsnap:2788328</id>
@@ -14,6 +14,14 @@
     <updated>2026-10-19T15:46:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore, Central Singapore, Singapore</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Experian:744000156347739</id>
+    <title>Experian: AI Developer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Experian/744000156347739"/>
+    <updated>2026-10-19T15:46:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cyberjaya, Selangor, Malaysia (Hybrid) · SQL, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:citi:/job/Taguig--Philippines/Technology--Cyber-Security--Summer-Analyst--Internship---Philippines-2027_261002901</id>
@@ -234,7 +242,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277</id>
     <title>Autodesk: Intern, Software Engineer [PDMS-DPM-Engineering]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277"/>
     <updated>2026-10-07T15:45:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore, SGP · Python, Java, C++, C#, TypeScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -258,7 +266,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363</id>
     <title>Autodesk: Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, Node.js, Django · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -266,7 +274,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365</id>
     <title>Autodesk: Intern, Software Development Engineer [AEC-AutoCAD Backend]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, Node.js, Django · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -274,7 +282,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362</id>
     <title>Autodesk: Intern, Software Engineer in Test [AEC Autocad Engineering]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362-1"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362"/>
     <updated>2026-10-05T17:19:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore, SGP · Python, Java, C++, C#, Azure · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -382,14 +390,6 @@
     <updated>2026-09-30T15:07:55Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore, One Raffles Quay</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Experian:744000152493589</id>
-    <title>Experian: AI Developer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Experian/744000152493589"/>
-    <updated>2026-09-29T18:24:54Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Data &amp; ML/AI · Cyberjaya, Selangor, Malaysia (Hybrid) · Python, SQL, LLMs, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b</id>
@@ -602,7 +602,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET-Access-ENG]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100985"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Summer 2027"/>
     <summary>4 openings · Summer 2027 · Software · Singapore, SGP · Python, C++, Rust, Bash · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -610,23 +610,15 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET-Access-ENG]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Singapore, SGP · Python, Java, C++, C#, AWS · H-1B track record: ~343 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995</id>
-    <title>Autodesk: Intern, Software Development Engineer [PSET-Connected Delivery]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Connected-Delivery-_26WD100995"/>
-    <updated>2026-09-15T13:40:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Singapore, SGP · Python, C++, React, Angular, Linux · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET-Localization]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997-2"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Localization-_26WD100997"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Summer 2027"/>
     <summary>2 openings · Summer 2027 · Software · Singapore, SGP · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -634,7 +626,7 @@
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984</id>
     <title>Autodesk: Intern, Software Development Engineer [PSET - Product Data -  Document Management]</title>
-    <link href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET---Product-Data----Document-Management-_26WD100984"/>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Product-Data-Files---Derivatives-_26WD100984"/>
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Singapore, SGP · Python, Java, SQL, GraphQL, AWS · H-1B track record: ~343 approvals (FY2022–2023)</summary>
@@ -806,5 +798,13 @@
     <updated>2026-09-07T04:45:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bpinternational:/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2</id>
+    <title>BP: Summer Internship-Technology-Data &amp; AI- Malaysia</title>
+    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2"/>
+    <updated>2026-09-06T18:31:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Malaysia - Kuala Lumpur · Python, Java, C#, SQL, Git</summary>
   </entry>
 </feed>
