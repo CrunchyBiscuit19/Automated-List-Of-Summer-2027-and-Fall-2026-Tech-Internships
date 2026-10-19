@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "recruitee:patsnap:2788328",
-      "workday:citi:/job/Taguig--Philippines/Technology--Cyber-Security--Summer-Analyst--Internship---Philippines-2027_261002901",
-      "smartrecruiters:Experian:744000156347739",
-      "workday:parexel:/job/Malaysia-Petaling-Jaya/Clinical-Data-Analyst-Intern-2027_R0000047177"
-    ],
-    "telegram": [
-      "recruitee:patsnap:2788328",
-      "workday:citi:/job/Taguig--Philippines/Technology--Cyber-Security--Summer-Analyst--Internship---Philippines-2027_261002901",
-      "smartrecruiters:Experian:744000156347739",
-      "workday:parexel:/job/Malaysia-Petaling-Jaya/Clinical-Data-Analyst-Intern-2027_R0000047177"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
