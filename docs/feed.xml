@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-20T04:57:15Z</updated>
+  <updated>2026-10-20T13:50:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:accenture:/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937</id>
+    <title>Avanade: Software Engineer Intern</title>
+    <link href="https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937"/>
+    <updated>2026-10-20T13:50:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Kuala Lumpur, Exchange 106 · Python, Java, C#, TypeScript, JavaScript · H-1B track record: ~103 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883</id>
+    <title>Motorola: Software Engineer Intern</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883"/>
+    <updated>2026-10-20T13:50:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, Vietnam</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160316</id>
     <title>Honeywell: Software &amp; Cloud Engineering Intern</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160316"/>
     <updated>2026-10-20T04:57:15Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore, Singapore, Singapore · Python, TypeScript, JavaScript, SQL, Django</summary>
+    <summary>2 openings · Not stated · Software · Singapore, Singapore, Singapore · Python, TypeScript, JavaScript, SQL, Django</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313</id>
@@ -262,22 +278,6 @@
     <updated>2026-10-07T15:45:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore, SGP · Python, Java, C++, C#, TypeScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25018492</id>
-    <title>Texas Instruments: 2026 Q4 - Artificial Intelligence Intern</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25018492"/>
-    <updated>2026-10-13T11:41:19Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Wilayah Persekutuan Kuala Lumpur, Malaysia · status: closed · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779</id>
-    <title>Micron Technology: Intern- PIE RAM (Agentic AI)</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779"/>
-    <updated>2026-10-06T11:27:26Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Data &amp; ML/AI · Fab 10N/X, Singapore · status: closed · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autodesk:/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363</id>

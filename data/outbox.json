@@ -1,6 +1,14 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:160317",
+      "workday:accenture:/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937",
+      "workday:motorolasolutions:/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883"
+    ],
+    "telegram": [
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:160317",
+      "workday:accenture:/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937",
+      "workday:motorolasolutions:/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883"
+    ]
   }
 }
