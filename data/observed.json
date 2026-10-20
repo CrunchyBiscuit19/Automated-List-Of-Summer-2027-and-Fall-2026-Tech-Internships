@@ -1630,10 +1630,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:mufgub:/job/Singapore-Office-Marina-One/IT-Cyber-Risk-Management-Intern_10079844-WD",
       "workday:mufgub:/job/Singapore-Office-OCC/AI-Intern_10078998-WD",
       "workday:mufgub:/job/Singapore-Office-OCC/Data-and-AI-Engineering-Intern_10080066-WD"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2791,5 +2792,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T13:50:35Z"
+ "updated_at": "2026-10-20T20:14:26Z"
 }

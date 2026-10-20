@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-20T13:50:35Z</updated>
+  <updated>2026-10-20T20:14:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-Marina-One/IT-Cyber-Risk-Management-Intern_10079844-WD</id>
+    <title>Mufgub: IT/Cyber Risk Management Intern</title>
+    <link href="https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-Marina-One/IT-Cyber-Risk-Management-Intern_10079844-WD"/>
+    <updated>2026-10-20T20:14:26Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Security · Singapore Office Marina One · status: closed</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:accenture:/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937</id>
     <title>Avanade: Software Engineer Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-07T14:31:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD</id>
-    <title>PricewaterhouseCoopers (PwC): Risk Services - AI Factory Data Scientist Off-Cycle Internship (Jan - Jun 27)</title>
-    <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD"/>
-    <updated>2026-09-07T14:31:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore - Marina One · Python, Java, C++, LLMs</summary>
   </entry>
 </feed>
