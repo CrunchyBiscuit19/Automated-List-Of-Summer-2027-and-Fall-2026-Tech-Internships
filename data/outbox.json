@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:160316",
+      "workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313"
+    ],
+    "telegram": [
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:160316",
+      "workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313"
+    ]
   }
 }

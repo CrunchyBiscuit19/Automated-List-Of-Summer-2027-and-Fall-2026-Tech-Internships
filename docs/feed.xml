@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-19T21:17:46Z</updated>
+  <updated>2026-10-20T04:57:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160316</id>
+    <title>Honeywell: Software &amp; Cloud Engineering Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160316"/>
+    <updated>2026-10-20T04:57:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore, Singapore, Singapore · Python, TypeScript, JavaScript, SQL, Django</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313</id>
+    <title>Intel: Intern Systems Software Development Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313"/>
+    <updated>2026-10-20T04:57:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Vietnam, Ho_Chi_Minh_City · Python, C++ · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:recruitee:patsnap:2788328</id>
     <title>PatSnap: Life Science data analyst intern</title>
@@ -696,6 +712,14 @@
     <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148655057</id>
+    <title>Bosch: [SX/BSV-VN] Embedded Test Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148655057"/>
+    <updated>2026-09-10T04:52:01Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17</id>
     <title>Sierra: Software Engineer Intern, Agent (Summer 2027)</title>
     <link href="https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"/>
@@ -768,43 +792,19 @@
     <summary>Not stated · Software · Singapore · Java, JavaScript, Scala, Ruby · H-1B track record: ~441 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955</id>
+    <title>Intel: Intern System Software Development Engineer</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955"/>
+    <updated>2026-09-07T14:31:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD</id>
     <title>PricewaterhouseCoopers (PwC): Risk Services - AI Factory Data Scientist Off-Cycle Internship (Jan - Jun 27)</title>
     <link href="https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741280WD"/>
     <updated>2026-09-07T14:31:03Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore - Marina One · Python, Java, C++, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000147750000</id>
-    <title>Bosch: [Bosch HcP - Internship] Industrial AI Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000147750000"/>
-    <updated>2026-09-07T04:45:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · An Phuoc Commune, Dong Nai, Vietnam · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916</id>
-    <title>Hitachi Energy: AI-Driven Full Stack Intern</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916"/>
-    <updated>2026-09-07T04:45:06Z</updated>
-    <category term="Not stated"/>
-    <summary>3 openings · Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam · Python, Java, C#, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821</id>
-    <title>Micron Technology: Intern - NAND Product Engineering - Probe AI/ML</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Product-Engineering---Probe-AI-ML_JR110821"/>
-    <updated>2026-09-07T04:45:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bpinternational:/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2</id>
-    <title>BP: Summer Internship-Technology-Data &amp; AI- Malaysia</title>
-    <link href="https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Summer-Internship-Technology-Data---AI--Malaysia_RQ115469-2"/>
-    <updated>2026-09-06T18:31:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Malaysia - Kuala Lumpur · Python, Java, C#, SQL, Git</summary>
   </entry>
 </feed>
