@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-21T20:22:28Z</updated>
+  <updated>2026-10-21T23:30:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763</id>
-    <title>Hitachi Energy: Cloud &amp; DevOps Intern</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763"/>
-    <updated>2026-10-21T20:22:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Da Nang, Đà Nẵng, Vietnam · Python, Java, C#, TypeScript, Bash</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657</id>
     <title>Hitachi Energy: AI-Driven Full Stack Intern</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-21T20:22:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Da Nang, Đà Nẵng, Vietnam · Python, Java, C#, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763</id>
+    <title>Hitachi Energy: Cloud &amp; DevOps Intern</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763"/>
+    <updated>2026-10-21T20:22:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Da Nang, Đà Nẵng, Vietnam · Python, Java, C#, TypeScript, Bash</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765</id>

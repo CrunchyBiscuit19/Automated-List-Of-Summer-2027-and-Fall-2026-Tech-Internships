@@ -8,7 +8,7 @@
 
 ### 132 open roles (97 listed below) · 29 new this week
 
-4,401 employers tracked · data as of Oct 21, 2026 at 20:22 UTC
+4,401 employers tracked · data as of Oct 21, 2026 at 23:30 UTC
 
 _31 have a cycle the employer stated · 101 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -126,8 +126,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Hitachi Energy | Cloud & DevOps Intern 🆕 | Software | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, TypeScript | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) |
 | Hitachi Energy | AI-Driven Full Stack Intern 🆕 | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, LLMs | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657) |
+| Hitachi Energy | Cloud & DevOps Intern 🆕 | Software | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, TypeScript | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) |
 | Hitachi Energy | Embedded/Edge AI Intern 🆕 | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | C++, LLMs, Computer Vision, Linux | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765) |
 | Johnson Controls | Intern, Data Analyst 🆕 _(2 openings)_ | Data & ML/AI | Singapore-Singapore-Singapore | Python, SQL, Snowflake | Oct 21, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075) [#2](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077) |
 | Thales | Software Development and Integration Engineer (Intern) 🆕 | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Oct 21, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159) |
@@ -229,7 +229,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,247 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1040.2s · 600 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,347 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 917.4s · 639 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
