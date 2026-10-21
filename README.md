@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 143 open roles (103 listed below) · 28 new this week
+### 132 open roles (97 listed below) · 29 new this week
 
-4,401 employers tracked · data as of Oct 21, 2026 at 14:01 UTC
+4,401 employers tracked · data as of Oct 21, 2026 at 20:22 UTC
 
-_42 have a cycle the employer stated · 101 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_31 have a cycle the employer stated · 101 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -84,18 +84,15 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (23 employer-stated)
+## Summer 2027  (20 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Citi | Technology- Cyber Security, Summer Analyst (Internship), Philippines 2027 🆕 | Security | Taguig  Philippines | Java, TypeScript, LLMs, React | Oct 19, 2026 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology--Cyber-Security--Summer-Analyst--Internship---Philippines-2027_261002901) |
-| Parexel | Clinical Data Analyst Intern 2027 🆕 | Data & ML/AI | Malaysia-Petaling Jaya | GCP | Oct 19, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Malaysia-Petaling-Jaya/Clinical-Data-Analyst-Intern-2027_R0000047177) |
+| Citi | Technology- Cyber Security, Summer Analyst (Internship), Philippines 2027 | Security | Taguig  Philippines | Java, TypeScript, LLMs, React | Oct 19, 2026 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology--Cyber-Security--Summer-Analyst--Internship---Philippines-2027_261002901) |
+| Parexel | Clinical Data Analyst Intern 2027 | Data & ML/AI | Malaysia-Petaling Jaya | GCP | Oct 19, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/parexel/Parexel_External_Careers/job/Malaysia-Petaling-Jaya/Clinical-Data-Analyst-Intern-2027_R0000047177) |
 | Citi | Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027 | Software | Taguig  Philippines | Java, TypeScript, LLMs, React | Oct 19, 2026 | [Apply](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885) |
 | Grab | Intern, Software Engineer | Software | Singapore, , Singapore | Python, Java, C++, JavaScript | Oct 16, 2026 | [Apply](https://jobs.smartrecruiters.com/grab/744000155926216) |
 | Grab | Intern, Software Engineer - Backend | Software | Singapore, , Singapore | Python, SQL, LLMs, AWS | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/grab/744000155671079) |
-| Autodesk | Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering] | Software | Singapore, SGP | Python, Java, JavaScript, Node.js | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363) |
-| Autodesk | Intern, Software Development Engineer [AEC-AutoCAD Backend] | Software | Singapore, SGP | Python, Java, JavaScript, Node.js | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365) |
-| Autodesk | Intern, Software Engineer in Test [AEC Autocad Engineering] | Software | Singapore, SGP | Python, Java, C++, C# | Oct 05, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362) |
 | Zebra Technologies | 2027 (6-months) Internship (Singapore) - Artificial Intelligence | Data & ML/AI | Singapore | No skills listed | Sep 28, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399) |
 | AppLovin | Full Stack Engineering Intern (2027 Summer Internship) | Software | Singapore | Python, Java, TypeScript, JavaScript | Sep 20, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006) |
 | AppLovin | Machine Learning Engineering Intern (2027 Summer Internship) | Data & ML/AI | Singapore | Python, PyTorch, TensorFlow | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) |
@@ -112,40 +109,39 @@ If it helps you, a star means a lot and tells me to keep going.
 | Virtu Financial | 2027 Internship – Software Engineer | Software | Singapore | Python, Java, C++, JavaScript | Aug 31, 2021 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/5513756002) |
 | Virtu Financial | 2027 Internship - Quantitative Trading | Quant | Singapore | Python, Java, C++, SQL | Apr 16, 2021 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/5208637002) |
 
-## Fall 2026  (7 employer-stated)
+## Fall 2026  (6 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | DXC Technology | Cybersecurity Intern | Security | MY012 - Petaling Jaya,Malaysia(MY012) | Linux | Sep 28, 2026 | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MY012---Petaling-JayaMalaysiaMY012/Cybersecurity-Intern_51590043) |
-| Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | Software | Singapore, SGP | Python, Java, C++, C# | Sep 15, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--PSET-Access-ENG-_26WD100987-1) |
 | Bosch | Internship in IT Solution Developer | Software | Batu Kawan, Penang, Malaysia | Python, JavaScript, SQL | Sep 09, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148364924) |
 | Cantina | Machine Learning Intern | Data & ML/AI | Singapore | Python, Computer Vision, AWS, GCP | Sep 07, 2026 | [Apply](https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01) |
 | Procter & Gamble (P&G) | Data Science Intern (Semester 2026) - P&G Management Internship Program - Bachelor's Degree or above | Data & ML/AI | SINGAPORE GENERAL OFFICE | Python | Aug 16, 2026 | [Apply](https://pg.wd5.myworkdayjobs.com/1000/job/SINGAPORE-GENERAL-OFFICE/Data-Science-Intern--Semester-2026----P-G-Management-Internship-Program---Bachelor-s-Degree-or-above_R000157419) |
 | Bosch | [Internship Program Q4] Embedded Software Intern (C/C++/Linux) _(3 openings)_ | Software | Ho Chi Minh, , Vietnam | C++, Python | Aug 13, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143206979) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000148366240) [#3](https://jobs.smartrecruiters.com/BoschGroup/744000149236759) |
 | Bosch | [Internship Program Q4] AI Engineer Intern | Data & ML/AI | Ho Chi Minh, , Vietnam | Python, C++, PyTorch, TensorFlow | Aug 07, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000142038898) |
 
-## Recently posted — cycle not stated  (63 roles)
+## Recently posted — cycle not stated  (61 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Hitachi Energy | Cloud & DevOps Intern 🆕 | Software | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, TypeScript | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) |
+| Hitachi Energy | AI-Driven Full Stack Intern 🆕 | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, LLMs | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657) |
 | Hitachi Energy | Embedded/Edge AI Intern 🆕 | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | C++, LLMs, Computer Vision, Linux | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765) |
 | Johnson Controls | Intern, Data Analyst 🆕 _(2 openings)_ | Data & ML/AI | Singapore-Singapore-Singapore | Python, SQL, Snowflake | Oct 21, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075) [#2](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077) |
 | Thales | Software Development and Integration Engineer (Intern) 🆕 | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Oct 21, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159) |
-| Western Digital | Internship - Software Development Engineering (Embedded) 🆕 | Software | Petaling Jaya, Selangor, Malaysia | Python, C++ | Oct 21, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000156706399) |
 | Ensigninfosecurity | Intern, AI Engineer (Full-Stack) 🆕 | Data & ML/AI | Singapore | Python, TypeScript, SQL, LLMs | Oct 21, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--AI-Engineer--Full-Stack-_JOBREQ-0003691) |
 | Motorola | Software Engineer Intern 🆕 | Software | Ho Chi Minh, Vietnam | No skills listed | Oct 20, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883) |
 | Honeywell | Software & Cloud Engineering Intern 🆕 _(2 openings)_ | Software | Singapore, Singapore, Singapore | Python, TypeScript, JavaScript, SQL | Oct 20, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160316) [#2](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160317) |
 | Intel | Intern Systems Software Development Engineer 🆕 | Software | Vietnam, Ho_Chi_Minh_City | Python, C++ | Oct 20, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313) |
-| PatSnap | Life Science data analyst intern 🆕 | Data & ML/AI | Singapore, Central Singapore, Singapore | No skills listed | Oct 19, 2026 | [Apply](https://careers.patsnap.com/o/life-science-data-analyst-intern) |
-| Experian | AI Developer Intern 🆕 | Data & ML/AI | Cyberjaya, Selangor, Malaysia (Hybrid) | SQL, LLMs | Oct 19, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000156347739) |
+| PatSnap | Life Science data analyst intern | Data & ML/AI | Singapore, Central Singapore, Singapore | No skills listed | Oct 19, 2026 | [Apply](https://careers.patsnap.com/o/life-science-data-analyst-intern) |
+| Experian | AI Developer Intern | Data & ML/AI | Cyberjaya, Selangor, Malaysia (Hybrid) | SQL, LLMs | Oct 19, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000156347739) |
 | Motorola | Software Developer Intern _(2 openings)_ | Software | Penang, Malaysia | Java, C++, C# | Oct 19, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R69694) [#2](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Developer-Intern_R69695) |
 | Tower Research Capital | Software Engineer, C++ - 6 Month Internship Opportunity | Software | Singapore | C++, Python, Linux | Oct 18, 2026 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8299894) |
 | Avanade | Software Engineer Intern 🆕 | Software | Kuala Lumpur, Exchange 106 | Python, Java, C#, TypeScript | Oct 16, 2026 | [Apply](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937) |
 | Nokia | NPI Engineering Intern (AI-Assisted Operations) | Data & ML/AI | Singapore | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41051) |
 | Nokia | NPI Engineering Intern (AI-Assisted Operations) | Data & ML/AI | Malaysia | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087) |
-| Hitachi Energy | AI-assisted HARC Intern | Data & ML/AI | Ho Chi Minh City, Ho Chi Minh, Vietnam | No skills listed | Oct 16, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-assisted-HARC-Intern_R0148176) |
 | qode.world | Full Stack Engineering Intern | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Oct 15, 2026 | [Apply](https://apply.workable.com/qodeworld/j/E3CDB2C731/) |
 | Continental | IT Internship - IT Infrastructure | Software | Petaling Jaya +2 more | No skills listed | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/Continental/744000155656759) |
 | Marvell | AI Solutions Engineer Intern - Bachelor's/Master's Degree | Data & ML/AI | Singapore | Python, LLMs, AWS, Databricks | Oct 13, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441) |
@@ -157,9 +153,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Micron Technology | Intern - HVM PEE Photo (AI) | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs | Oct 08, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979) |
 | PricewaterhouseCoopers (PwC) | Tax - Digital Tax (Infrastructure) Off-Cycle Internship (Jan - Jun 27) | Software | Singapore | Python, Java, C#, SQL | Oct 08, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore/Tax---Digital-Tax--Business-Data-Analytics--Off-Cycle-Internship--Jan---Jun-27-_743507WD) |
 | ASML | Strategic Sourcing & Procurement AI Intern (6 months) | Data & ML/AI | Singapore, Singapore | Python, LLMs | Oct 07, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Singapore-Singapore/Strategic-Sourcing---Procurement-AI-Intern--6-months-_J-00354706) |
-| Autodesk | Intern, Software Engineer [PDMS-DPM-Engineering] | Software | Singapore, SGP | Python, Java, C++, C# | Oct 07, 2026 | [Apply](https://autodesk.wd1.myworkdayjobs.com/uni/job/Singapore-SGP/Intern--Software-Engineer--PDMS-DPM-Engineering-_26WD101277) |
 | Amazon | Data Center Infrastructure Engineering Intern, Colocation Regional Engineering | Data & ML/AI | Singapore, International | AWS | Oct 06, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10507775/data-center-infrastructure-engineering-intern-colocation-regional-engineering) |
-| Hitachi Energy | Embedded Software Engineer Internship | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | C++, Linux | Oct 05, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer-Internship_R0142215) |
 | Tencent | Backend Engineer Intern | Software | Singapore-CapitaSky | Python, Java, C++, Go | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Backend-Engineer-Intern_R108219) |
 | Tencent | Data Engineer Intern | Data & ML/AI | Singapore-CapitaSky | Python, Java, C++, Kafka | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Engineer-Intern_R108218) |
 | Tencent | Data Science Intern (Data Analytics & AI) | Data & ML/AI | Singapore-CapitaSky | Python, SQL, LLMs, Tableau | Oct 05, 2026 | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Data-Science-Intern--Data-Analytics---AI-_R108216) |
@@ -195,12 +189,23 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Razer | Applied AI Intern (Voice) | Data & ML/AI | Singapore | Python, SQL, LLMs, Node.js | Aug 28, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) |
 
 <details>
-<summary><strong>Recently closed</strong> — 5 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 16 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Autodesk | Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [AEC-AutoCAD Backend] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | Fall 2026 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET-Localization] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET-Localization] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Development Engineer [PSET - Product Data -  Document Management] | Summer 2027 | 2026-10-21 | gone from feed |
+| Autodesk | Intern, Software Engineer in Test [AEC Autocad Engineering] | Summer 2027 | 2026-10-21 | gone from feed |
 | Autodesk | Intern, Software Development Engineer [PSET-Connected Delivery] | Summer 2027 | 2026-10-19 | gone from feed |
 | Texas Instruments | 2026 Q4 - Artificial Intelligence Intern | Fall 2026 | 2026-10-13 | out of scope |
 | AppLovin | Mobile Engineering Intern (2027 Summer Internship) | Summer 2027 | 2026-10-13 | gone from feed |
@@ -224,7 +229,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,266 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 1129.0s · 628 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,247 of 4,651 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 1040.2s · 600 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

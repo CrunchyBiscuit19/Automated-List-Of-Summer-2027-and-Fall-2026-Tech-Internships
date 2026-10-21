@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:hitachi:/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763",
+      "workday:hitachi:/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657"
+    ],
+    "telegram": [
+      "workday:hitachi:/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763",
+      "workday:hitachi:/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657"
+    ]
   }
 }
