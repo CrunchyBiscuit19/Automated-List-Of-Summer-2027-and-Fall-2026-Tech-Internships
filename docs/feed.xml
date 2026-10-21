@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-21T04:49:37Z</updated>
+  <updated>2026-10-21T14:01:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ensigninfosecurity:/job/Singapore/Intern--AI-Engineer--Full-Stack-_JOBREQ-0003691</id>
-    <title>Ensigninfosecurity: Intern, AI Engineer (Full-Stack)</title>
-    <link href="https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--AI-Engineer--Full-Stack-_JOBREQ-0003691"/>
-    <updated>2026-10-21T04:49:37Z</updated>
+    <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765</id>
+    <title>Hitachi Energy: Embedded/Edge AI Intern</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765"/>
+    <updated>2026-10-21T14:01:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, TypeScript, SQL, LLMs, React</summary>
+    <summary>Not stated · Data &amp; ML/AI · Da Nang, Đà Nẵng, Vietnam · C++, LLMs, Computer Vision, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jci:/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075</id>
+    <title>Johnson Controls: Intern, Data Analyst</title>
+    <link href="https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075"/>
+    <updated>2026-10-21T14:01:22Z</updated>
+    <category term="Not stated"/>
+    <summary>2 openings · Not stated · Data &amp; ML/AI · Singapore-Singapore-Singapore · Python, SQL, Snowflake · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thales:/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159</id>
+    <title>Thales: Software Development and Integration Engineer (Intern)</title>
+    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159"/>
+    <updated>2026-10-21T14:01:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Singapore · Java, TypeScript, Angular, HTML/CSS, Spring</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000156706399</id>
@@ -22,6 +38,14 @@
     <updated>2026-10-21T04:49:37Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ensigninfosecurity:/job/Singapore/Intern--AI-Engineer--Full-Stack-_JOBREQ-0003691</id>
+    <title>Ensigninfosecurity: Intern, AI Engineer (Full-Stack)</title>
+    <link href="https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--AI-Engineer--Full-Stack-_JOBREQ-0003691"/>
+    <updated>2026-10-21T04:49:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore · Python, TypeScript, SQL, LLMs, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:mufgub:/job/Singapore-Office-Marina-One/IT-Cyber-Risk-Management-Intern_10079844-WD</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-09T04:51:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Malaysia, Kulim · Python, C++ · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amat:/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447</id>
-    <title>Applied Materials: Customer Engineer - Data Science / ML DevOps Internship</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447"/>
-    <updated>2026-09-08T13:06:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore,SGP · Python · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318</id>
-    <title>Micron Technology: Intern - STPG PE Firmware</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318"/>
-    <updated>2026-09-08T13:06:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · MSB, Singapore · Python, C++, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01</id>
-    <title>Cantina: Machine Learning Intern</title>
-    <link href="https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01"/>
-    <updated>2026-09-07T14:31:03Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Singapore · Python, Computer Vision, AWS, GCP, Azure</summary>
   </entry>
 </feed>

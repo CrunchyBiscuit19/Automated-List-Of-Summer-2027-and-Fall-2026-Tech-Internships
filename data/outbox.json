@@ -1,6 +1,16 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "workday:hitachi:/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765",
+      "workday:jci:/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077",
+      "workday:jci:/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075",
+      "workday:thales:/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159"
+    ],
+    "telegram": [
+      "workday:hitachi:/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765",
+      "workday:jci:/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077",
+      "workday:jci:/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075",
+      "workday:thales:/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159"
+    ]
   }
 }
