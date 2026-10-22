@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-22T04:49:22Z</updated>
+  <updated>2026-10-22T14:00:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000157066549</id>
+    <title>Western Digital: Internship - Software Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000157066549"/>
+    <updated>2026-10-22T14:00:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Petaling Jaya, Selangor, Malaysia · Python, Go, SQL, Pandas, LLMs · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041948</id>
+    <title>Bertelsmann: AIP Intern - Software Quality Assurance Track</title>
+    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948"/>
+    <updated>2026-10-22T14:00:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Kuala Lumpur, , Malaysia · Java, LLMs, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041938</id>
+    <title>Bertelsmann: AIP Intern - Cybersecurity Track</title>
+    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938"/>
+    <updated>2026-10-22T14:00:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Kuala Lumpur, , Malaysia · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041838</id>
+    <title>Bertelsmann: AIP Intern - Network DevOps Track</title>
+    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041838"/>
+    <updated>2026-10-22T14:00:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Kuala Lumpur, , Malaysia · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dxctechnology:/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061</id>
+    <title>DXC Technology: ServiceNow Developer Intern</title>
+    <link href="https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061"/>
+    <updated>2026-10-22T14:00:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · SGP - SINGAPORE · JavaScript, HTML/CSS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:coinbase:8175873</id>
     <title>Coinbase: Software Engineer Intern</title>
@@ -766,45 +806,5 @@
     <updated>2026-09-09T04:51:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Malaysia, Kulim · Python, C++ · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amat:/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447</id>
-    <title>Applied Materials: Customer Engineer - Data Science / ML DevOps Internship</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/Customer-Engineer---Data-Science---ML-DevOps-Internship_R2626447"/>
-    <updated>2026-09-08T13:06:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore,SGP · Python · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318</id>
-    <title>Micron Technology: Intern - STPG PE Firmware</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---STPG-PE-FIrmware_JR111318"/>
-    <updated>2026-09-08T13:06:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · MSB, Singapore · Python, C++, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01</id>
-    <title>Cantina: Machine Learning Intern</title>
-    <link href="https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01"/>
-    <updated>2026-09-07T14:31:03Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Singapore · Python, Computer Vision, AWS, GCP, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stripe:8130883</id>
-    <title>Stripe: Software Engineer, Intern</title>
-    <link href="https://stripe.com/jobs/search?gh_jid=8130883"/>
-    <updated>2026-09-07T14:31:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Java, JavaScript, Scala, Ruby · H-1B track record: ~441 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955</id>
-    <title>Intel: Intern System Software Development Engineer</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/Intern-System-Software-Development-Engineer_JR0286955"/>
-    <updated>2026-09-07T14:31:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Malaysia, Penang · Python, C#, SQL, Angular, Kubernetes · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
 </feed>
