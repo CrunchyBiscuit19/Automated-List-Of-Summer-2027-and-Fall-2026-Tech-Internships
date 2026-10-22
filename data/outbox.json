@@ -1,16 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "smartrecruiters:Bertelsmann-Jobs:744000157041948",
-      "smartrecruiters:Bertelsmann-Jobs:744000157041938",
-      "smartrecruiters:Bertelsmann-Jobs:744000157041838",
-      "workday:dxctechnology:/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061"
-    ],
-    "telegram": [
-      "smartrecruiters:Bertelsmann-Jobs:744000157041948",
-      "smartrecruiters:Bertelsmann-Jobs:744000157041938",
-      "smartrecruiters:Bertelsmann-Jobs:744000157041838",
-      "workday:dxctechnology:/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
