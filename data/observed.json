@@ -705,6 +705,18 @@
     }
    }
   },
+  "coinbase": {
+   "name": "Coinbase",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "greenhouse:coinbase:8175873"
+     ],
+     "count": 1
+    }
+   }
+  },
   "conagra brands": {
    "name": "Conagra Brands",
    "cycles": {
@@ -2792,5 +2804,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T23:30:27Z"
+ "updated_at": "2026-10-22T04:49:22Z"
 }
