@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 137 open roles (102 listed below) · 31 new this week
+### 136 open roles (101 listed below) · 31 new this week
 
-4,401 employers tracked · data as of Oct 22, 2026 at 14:00 UTC
+4,401 employers tracked · data as of Oct 22, 2026 at 20:19 UTC
 
-_32 have a cycle the employer stated · 105 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_32 have a cycle the employer stated · 104 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -121,15 +121,15 @@ If it helps you, a star means a lot and tells me to keep going.
 | Bosch | [Internship Program Q4] Embedded Software Intern (C/C++/Linux) _(3 openings)_ | Software | Ho Chi Minh, , Vietnam | C++, Python | Aug 13, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143206979) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000148366240) [#3](https://jobs.smartrecruiters.com/BoschGroup/744000149236759) |
 | Bosch | [Internship Program Q4] AI Engineer Intern | Data & ML/AI | Ho Chi Minh, , Vietnam | Python, C++, PyTorch, TensorFlow | Aug 07, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000142038898) |
 
-## Recently posted — cycle not stated  (65 roles)
+## Recently posted — cycle not stated  (64 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
-| Bertelsmann | AIP Intern - Software Quality Assurance Track 🆕 | Software | Kuala Lumpur, , Malaysia | Java, LLMs, Azure, Git | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948) |
-| Bertelsmann | AIP Intern - Cybersecurity Track 🆕 | Security | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938) |
 | Bertelsmann | AIP Intern - Network DevOps Track 🆕 | Software | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041838) |
+| Bertelsmann | AIP Intern - Cybersecurity Track 🆕 | Security | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938) |
+| Bertelsmann | AIP Intern - Software Quality Assurance Track 🆕 | Software | Kuala Lumpur, , Malaysia | Java, LLMs, Azure, Git | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948) |
 | DXC Technology | ServiceNow Developer Intern 🆕 | Software | SGP - SINGAPORE | JavaScript, HTML/CSS | Oct 22, 2026 | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061) |
 | Hitachi Energy | AI-Driven Full Stack Intern 🆕 | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, LLMs | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657) |
 | Hitachi Energy | Cloud & DevOps Intern 🆕 | Software | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, TypeScript | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) |
@@ -147,7 +147,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Avanade | Software Engineer Intern | Software | Kuala Lumpur, Exchange 106 | Python, Java, C#, TypeScript | Oct 16, 2026 | [Apply](https://accenture.wd103.myworkdayjobs.com/AvanadeCareers/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937) |
 | Nokia | NPI Engineering Intern (AI-Assisted Operations) | Data & ML/AI | Singapore | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41051) |
 | Nokia | NPI Engineering Intern (AI-Assisted Operations) | Data & ML/AI | Malaysia | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087) |
-| qode.world | Full Stack Engineering Intern | Software | Ho Chi Minh City, Ho Chi Minh, Vietnam | TypeScript, JavaScript, SQL, Next.js | Oct 15, 2026 | [Apply](https://apply.workable.com/qodeworld/j/E3CDB2C731/) |
 | Continental | IT Internship - IT Infrastructure | Software | Petaling Jaya +2 more | No skills listed | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/Continental/744000155656759) |
 | Marvell | AI Solutions Engineer Intern - Bachelor's/Master's Degree | Data & ML/AI | Singapore | Python, LLMs, AWS, Databricks | Oct 13, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441) |
 | Bosch | [BD] DevOps Intern | Software | Ho Chi Minh, , Vietnam | Python, Bash, AWS, Azure | Oct 12, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154925330) |
@@ -234,7 +233,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,331 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 1027.5s · 642 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,340 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 1142.9s · 649 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

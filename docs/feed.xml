@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-22T14:00:36Z</updated>
+  <updated>2026-10-22T20:19:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000157066549</id>
-    <title>Western Digital: Internship - Software Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000157066549"/>
-    <updated>2026-10-22T14:00:36Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Software · Petaling Jaya, Selangor, Malaysia · Python, Go, SQL, Pandas, LLMs · status: closed</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041948</id>
-    <title>Bertelsmann: AIP Intern - Software Quality Assurance Track</title>
-    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948"/>
+    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041838</id>
+    <title>Bertelsmann: AIP Intern - Network DevOps Track</title>
+    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041838"/>
     <updated>2026-10-22T14:00:36Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Kuala Lumpur, , Malaysia · Java, LLMs, Azure, Git</summary>
+    <summary>Not stated · Software · Kuala Lumpur, , Malaysia · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041938</id>
@@ -32,12 +24,20 @@
     <summary>Not stated · Security · Kuala Lumpur, , Malaysia · LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041838</id>
-    <title>Bertelsmann: AIP Intern - Network DevOps Track</title>
-    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041838"/>
+    <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041948</id>
+    <title>Bertelsmann: AIP Intern - Software Quality Assurance Track</title>
+    <link href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948"/>
     <updated>2026-10-22T14:00:36Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Kuala Lumpur, , Malaysia · LLMs</summary>
+    <summary>Not stated · Software · Kuala Lumpur, , Malaysia · Java, LLMs, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000157066549</id>
+    <title>Western Digital: Internship - Software Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000157066549"/>
+    <updated>2026-10-22T14:00:36Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Petaling Jaya, Selangor, Malaysia · Python, Go, SQL, Pandas, LLMs · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:dxctechnology:/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061</id>
@@ -259,9 +259,9 @@
     <id>urn:intern-engine:workable:qodeworld:E3CDB2C731</id>
     <title>qode.world: Full Stack Engineering Intern</title>
     <link href="https://apply.workable.com/qodeworld/j/E3CDB2C731/"/>
-    <updated>2026-10-15T13:37:49Z</updated>
+    <updated>2026-10-22T20:19:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js</summary>
+    <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Continental:744000155656759</id>
