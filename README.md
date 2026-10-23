@@ -8,7 +8,7 @@
 
 ### 130 open roles (100 listed below) · 27 new this week
 
-4,401 employers tracked · data as of Oct 23, 2026 at 20:11 UTC
+4,401 employers tracked · data as of Oct 23, 2026 at 23:23 UTC
 
 _32 have a cycle the employer stated · 98 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -132,8 +132,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Bertelsmann | AIP Intern - Cybersecurity Track 🆕 | Security | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938) |
 | Bertelsmann | AIP Intern - Software Quality Assurance Track 🆕 | Software | Kuala Lumpur, , Malaysia | Java, LLMs, Azure, Git | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948) |
 | DXC Technology | ServiceNow Developer Intern 🆕 | Software | SGP - SINGAPORE | JavaScript, HTML/CSS | Oct 22, 2026 | [Apply](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061) |
-| Hitachi Energy | AI-Driven Full Stack Intern 🆕 | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, LLMs | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657) |
-| Hitachi Energy | Cloud & DevOps Intern 🆕 | Software | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, TypeScript | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) |
+| Hitachi Energy | AI-Driven Full Stack Intern | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, LLMs | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657) |
+| Hitachi Energy | Cloud & DevOps Intern | Software | Da Nang, Đà Nẵng, Vietnam | Python, Java, C#, TypeScript | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Cloud---DevOps-Intern_R0148763) |
 | Hitachi Energy | Embedded/Edge AI Intern | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | C++, LLMs, Computer Vision, Linux | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765) |
 | Johnson Controls | Intern, Data Analyst _(2 openings)_ | Data & ML/AI | Singapore-Singapore-Singapore | Python, SQL, Snowflake | Oct 21, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075) [#2](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077) |
 | Thales | Software Development and Integration Engineer (Intern) | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Oct 21, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159) |
@@ -232,7 +232,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,352 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 931.7s · 651 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,204 of 4,651 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 1096.2s · 568 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
