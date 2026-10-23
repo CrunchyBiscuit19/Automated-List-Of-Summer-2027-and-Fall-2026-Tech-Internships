@@ -1,11 +1,34 @@
 {
- "generated_at": "2026-10-23T13:39:12Z",
- "data_as_of": "2026-10-23T13:39:12Z",
- "rendered_at": "2026-10-23T13:39:12Z",
+ "generated_at": "2026-10-23T20:11:12Z",
+ "data_as_of": "2026-10-23T20:11:12Z",
+ "rendered_at": "2026-10-23T20:11:12Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 129,
+ "count": 130,
  "jobs": [
+  {
+   "id": "greenhouse:engineersgate:8317827",
+   "company": "Engineers Gate",
+   "title": "Quantitative Research Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Quant",
+   "location": "Singapore",
+   "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8317827",
+   "posted_at": "2026-10-23T12:00:01-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-23T20:11:12Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:Bertelsmann-Jobs:744000157041838",
    "company": "Bertelsmann",
