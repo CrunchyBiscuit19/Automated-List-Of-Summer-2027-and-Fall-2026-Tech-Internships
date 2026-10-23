@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-23T04:52:42Z</updated>
+  <updated>2026-10-23T13:39:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:amazon:amazon:10587269</id>
+    <title>Amazon: Infrastructure Partner Management Intern, AWS Infrastructure Services</title>
+    <link href="https://www.amazon.jobs/en/jobs/10587269/infrastructure-partner-management-intern-aws-infrastructure-services"/>
+    <updated>2026-10-23T13:39:12Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Software · Singapore, International · AWS · status: closed · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Bertelsmann-Jobs:744000157041838</id>
     <title>Bertelsmann: AIP Intern - Network DevOps Track</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-09T04:51:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Petaling Jaya, , Malaysia · Python, Java, C++, Swift, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1</id>
-    <title>Hewlett Packard (HP): College Intern - AI Transformation</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---AI-Transformation_UNI4908-1"/>
-    <updated>2026-09-09T04:51:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore, South West, Singapore</summary>
   </entry>
 </feed>
