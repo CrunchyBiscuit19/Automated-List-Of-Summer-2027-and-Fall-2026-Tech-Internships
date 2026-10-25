@@ -8,7 +8,7 @@
 
 ### 122 open roles (97 listed below) · 27 new this week
 
-4,401 employers tracked · data as of Oct 25, 2026 at 19:14 UTC
+4,401 employers tracked · data as of Oct 25, 2026 at 22:45 UTC
 
 _32 have a cycle the employer stated · 90 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -128,7 +128,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
 | Experian | Software Engineering Intern 🆕 | Software | Cyberjaya, Selangor, Malaysia | Python, Java, JavaScript, Node.js | Oct 25, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000157657879) |
-| Engineers Gate | Quantitative Research Intern 🆕 | Quant | Singapore | Python | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) |
+| Engineers Gate | Quantitative Research Intern | Quant | Singapore | Python | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) |
 | Bertelsmann | AIP Intern - Network DevOps Track | Software | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041838) |
 | Bertelsmann | AIP Intern - Cybersecurity Track | Security | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938) |
 | Bertelsmann | AIP Intern - Software Quality Assurance Track | Software | Kuala Lumpur, , Malaysia | Java, LLMs, Azure, Git | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041948) |
@@ -228,7 +228,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,299 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1043.0s · 608 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,342 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 880.9s · 635 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
