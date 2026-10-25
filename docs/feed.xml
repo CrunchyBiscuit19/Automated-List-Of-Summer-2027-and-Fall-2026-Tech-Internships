@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-24T22:42:32Z</updated>
+  <updated>2026-10-25T04:44:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Experian:744000157657879</id>
+    <title>Experian: Software Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Experian/744000157657879"/>
+    <updated>2026-10-25T04:44:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cyberjaya, Selangor, Malaysia · Python, Java, JavaScript, Node.js</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:engineersgate:8317827</id>
     <title>Engineers Gate: Quantitative Research Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-09T04:51:38Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Batu Kawan, Penang, Malaysia · Python, JavaScript, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:grab:744000148399141</id>
-    <title>Grab: Intern, Software Engineer Mobile</title>
-    <link href="https://jobs.smartrecruiters.com/grab/744000148399141"/>
-    <updated>2026-09-09T04:51:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Petaling Jaya, , Malaysia · Python, Java, C++, Swift, Kotlin</summary>
   </entry>
 </feed>
