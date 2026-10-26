@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 122 open roles (98 listed below) · 24 new this week
+### 124 open roles (97 listed below) · 26 new this week
 
-4,401 employers tracked · data as of Oct 26, 2026 at 04:49 UTC
+4,401 employers tracked · data as of Oct 26, 2026 at 15:27 UTC
 
-_32 have a cycle the employer stated · 90 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_32 have a cycle the employer stated · 92 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -127,6 +127,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Ensigninfosecurity | Intern, Software Engineer 🆕 | Software | Singapore | Python, TypeScript, Next.js, Django | Oct 26, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697) |
+| PricewaterhouseCoopers (PwC) | Intern, Cybersecurity (Penetration Testing) 🆕 | Security | Hanoi | Azure | Oct 26, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity--Penetration-Testing-_769919WD) |
 | Altera Corporation | Embedded Soft IP Intern 🆕 | Software | Penang 15, Penang, Malaysia | Python, Verilog | Oct 26, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Embedded-Soft-IP-Intern_R03357) |
 | Experian | Software Engineering Intern 🆕 | Software | Cyberjaya, Selangor, Malaysia | Python, Java, JavaScript, Node.js | Oct 25, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000157657879) |
 | Engineers Gate | Quantitative Research Intern | Quant | Singapore | Python | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) |
@@ -139,7 +141,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Hitachi Energy | Embedded/Edge AI Intern | Data & ML/AI | Da Nang, Đà Nẵng, Vietnam | C++, LLMs, Computer Vision, Linux | Oct 21, 2026 | [Apply](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/Embedded-Edge-AI-Intern_R0148765) |
 | Johnson Controls | Intern, Data Analyst _(2 openings)_ | Data & ML/AI | Singapore-Singapore-Singapore | Python, SQL, Snowflake | Oct 21, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283075) [#2](https://jci.wd5.myworkdayjobs.com/JCI/job/Singapore-Singapore-Singapore/Intern--Data-Analyst_WD30283077) |
 | Thales | Software Development and Integration Engineer (Intern) | Software | Singapore | Java, TypeScript, Angular, HTML/CSS | Oct 21, 2026 | [Apply](https://thales.wd3.myworkdayjobs.com/careers/job/Singapore/Software-Development-and-Integration-Engineer--Intern-_R0339159) |
-| Ensigninfosecurity | Intern, AI Engineer (Full-Stack) | Data & ML/AI | Singapore | Python, TypeScript, SQL, LLMs | Oct 21, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--AI-Engineer--Full-Stack-_JOBREQ-0003691) |
 | Motorola | Software Engineer Intern | Software | Ho Chi Minh, Vietnam | No skills listed | Oct 20, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883) |
 | Honeywell | Software & Cloud Engineering Intern _(2 openings)_ | Software | Singapore, Singapore, Singapore | Python, TypeScript, JavaScript, SQL | Oct 20, 2026 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160316) [#2](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160317) |
 | Intel | Intern Systems Software Development Engineer | Software | Vietnam, Ho_Chi_Minh_City | Python, C++ | Oct 20, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Vietnam-Ho_Chi_Minh_City/Intern-Systems-Software-Development-Engineer_JR0288313) |
@@ -184,7 +185,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Williams-Sonoma | Data Analyst (Finance) Intern (6 months) | Data & ML/AI | Singapore | Python, SQL | Sep 18, 2026 | [Apply](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20431) |
 | Micron Technology | Intern, Facilities AI Engineering | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs, Tableau | Sep 17, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern--Facilities-AI-Engineering_JR111170) |
 | Motorola | Software Engineer Intern _(4 openings)_ | Software | Penang, Malaysia | Java, C++, Kotlin | Sep 17, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68829) [#2](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68940) [#3](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68941) [#4](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69438) |
-| PricewaterhouseCoopers (PwC) | Risk Services - Program Management (AI Hub) Off-Cycle Internship (Jan - Jun 27) _(2 openings)_ | Data & ML/AI | Singapore - Marina One | Java, C++, LLMs | Sep 17, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD) [#2](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Singapore---Marina-One/Risk-Services---Program-Management--AI-Hub--Off-Cycle-Internship--Jan---Jun-27-_766566WD) |
 | Goventi | C++ Software Engineer Intern (Control) | Software | Singapore | C++, Linux | Sep 16, 2026 | [Apply](https://jobs.ashbyhq.com/goventi/52c162ad-20c4-4db0-ae4f-cc4d1218bc67) |
 | Mufgub | Cybersecurity Awareness & Training Intern | Security | Singapore Office OCC | No skills listed | Sep 01, 2026 | [Apply](https://mufgub.wd3.myworkdayjobs.com/MUFG-EarlyCareers/job/Singapore-Office-OCC/Cybersecurity-Awareness---Training-Intern_10078999-WD) |
 | Razer | Applied AI Intern (Voice) | Data & ML/AI | Singapore | Python, SQL, LLMs, Node.js | Aug 28, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) |
@@ -229,7 +229,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,346 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 796.3s · 636 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,288 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1196.8s · 640 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
