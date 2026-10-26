@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-26T15:27:28Z</updated>
+  <updated>2026-10-26T21:17:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:ensigninfosecurity:/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697</id>
@@ -648,14 +648,6 @@
     <summary>Not stated · Data &amp; ML/AI · MSB, Singapore · Python, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:applovin:4714443006</id>
-    <title>AppLovin: Full Stack Engineering Intern (2027 Summer Internship)</title>
-    <link href="https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006"/>
-    <updated>2026-09-21T05:03:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Singapore · Python, Java, TypeScript, JavaScript, React · H-1B track record: ~40 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:ehac.fa.us6.oraclecloud.com:20431</id>
     <title>Williams-Sonoma: Data Analyst (Finance) Intern (6 months)</title>
     <link href="https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20431"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-07T14:31:03Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Singapore · Python, Computer Vision, AWS, GCP, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:airwallex:6cdb0f39-234a-4234-b1f1-cb48a1fa2795</id>
+    <title>Airwallex: Software Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795"/>
+    <updated>2026-09-06T08:57:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · SG - Singapore · Kotlin, LLMs, React, Kubernetes, Kafka</summary>
   </entry>
 </feed>

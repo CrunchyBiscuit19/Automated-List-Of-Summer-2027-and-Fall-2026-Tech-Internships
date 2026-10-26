@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 124 open roles (97 listed below) · 26 new this week
+### 123 open roles (96 listed below) · 22 new this week
 
-4,401 employers tracked · data as of Oct 26, 2026 at 15:27 UTC
+4,401 employers tracked · data as of Oct 26, 2026 at 21:17 UTC
 
-_32 have a cycle the employer stated · 92 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_31 have a cycle the employer stated · 92 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -84,7 +84,7 @@ If it helps you, a star means a lot and tells me to keep going.
 
 ---
 
-## Summer 2027  (21 employer-stated)
+## Summer 2027  (20 employer-stated)
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -95,7 +95,6 @@ If it helps you, a star means a lot and tells me to keep going.
 | Grab | Intern, Software Engineer | Software | Singapore, , Singapore | Python, Java, C++, JavaScript | Oct 16, 2026 | [Apply](https://jobs.smartrecruiters.com/grab/744000155926216) |
 | Grab | Intern, Software Engineer - Backend | Software | Singapore, , Singapore | Python, SQL, LLMs, AWS | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/grab/744000155671079) |
 | Zebra Technologies | 2027 (6-months) Internship (Singapore) - Artificial Intelligence | Data & ML/AI | Singapore | No skills listed | Sep 28, 2026 | [Apply](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399) |
-| AppLovin | Full Stack Engineering Intern (2027 Summer Internship) | Software | Singapore | Python, Java, TypeScript, JavaScript | Sep 20, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006) |
 | AppLovin | Machine Learning Engineering Intern (2027 Summer Internship) | Data & ML/AI | Singapore | Python, PyTorch, TensorFlow | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006) |
 | JPMorganChase | 2027 Markets Quantitative Trading & Research Associate Program – Off-Cycle Internship - Singapore | Quant | Singapore | Python, Java, C++, C# | Sep 13, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784061) |
 | JPMorganChase | 2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore | Quant | Singapore | Python, Java, C++, C# | Sep 13, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784366) |
@@ -190,12 +189,13 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Razer | Applied AI Intern (Voice) | Data & ML/AI | Singapore | Python, SQL, LLMs, Node.js | Aug 28, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) |
 
 <details>
-<summary><strong>Recently closed</strong> — 15 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 16 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| AppLovin | Full Stack Engineering Intern (2027 Summer Internship) | Summer 2027 | 2026-10-26 | gone from feed |
 | Autodesk | Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering] | Summer 2027 | 2026-10-21 | gone from feed |
 | Autodesk | Intern, Software Development Engineer [AEC-AutoCAD Backend] | Summer 2027 | 2026-10-21 | gone from feed |
 | Autodesk | Intern, Software Development Engineer [PSET-Access-ENG] | Summer 2027 | 2026-10-21 | gone from feed |
@@ -229,7 +229,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,288 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1196.8s · 640 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,316 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1071.2s · 638 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
