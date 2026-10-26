@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-25T22:45:00Z</updated>
+  <updated>2026-10-26T04:49:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/Penang-15-Penang-Malaysia/Embedded-Soft-IP-Intern_R03357</id>
+    <title>Altera Corporation: Embedded Soft IP Intern</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Embedded-Soft-IP-Intern_R03357"/>
+    <updated>2026-10-26T04:49:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Penang 15, Penang, Malaysia · Python, Verilog</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Experian:744000157657879</id>
     <title>Experian: Software Engineering Intern</title>
@@ -302,6 +310,14 @@
     <updated>2026-10-16T19:44:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Singapore, , Singapore · Python, Java, C++, JavaScript, SQL · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000155409889</id>
+    <title>Bosch: [SX/BSV-VN] Embedded Test Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000155409889"/>
+    <updated>2026-10-14T05:01:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441</id>
@@ -752,14 +768,6 @@
     <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148655057</id>
-    <title>Bosch: [SX/BSV-VN] Embedded Test Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148655057"/>
-    <updated>2026-09-10T04:52:01Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17</id>
     <title>Sierra: Software Engineer Intern, Agent (Summer 2027)</title>
     <link href="https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"/>
@@ -798,13 +806,5 @@
     <updated>2026-09-06T08:57:42Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · Python, Java, C++, Rust, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:virtu:5208637002</id>
-    <title>Virtu Financial: 2027 Internship - Quantitative Trading</title>
-    <link href="https://job-boards.greenhouse.io/virtu/jobs/5208637002"/>
-    <updated>2026-09-06T08:57:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, SQL</summary>
   </entry>
 </feed>
