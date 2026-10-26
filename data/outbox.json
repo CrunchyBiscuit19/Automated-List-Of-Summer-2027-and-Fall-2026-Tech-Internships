@@ -1,14 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "workday:ensigninfosecurity:/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697",
-      "workday:pwc:/job/Hanoi/Intern--Cybersecurity--Penetration-Testing-_769919WD",
-      "workday:tencent:/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108288"
-    ],
-    "telegram": [
-      "workday:ensigninfosecurity:/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697",
-      "workday:pwc:/job/Hanoi/Intern--Cybersecurity--Penetration-Testing-_769919WD",
-      "workday:tencent:/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108288"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
