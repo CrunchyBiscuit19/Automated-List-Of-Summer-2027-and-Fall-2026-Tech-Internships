@@ -1,11 +1,36 @@
 {
- "generated_at": "2026-10-27T05:13:37Z",
- "data_as_of": "2026-10-27T05:13:37Z",
- "rendered_at": "2026-10-27T05:13:37Z",
+ "generated_at": "2026-10-27T14:39:13Z",
+ "data_as_of": "2026-10-27T14:39:13Z",
+ "rendered_at": "2026-10-27T14:39:13Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
  "count": 123,
  "jobs": [
+  {
+   "id": "smartrecruiters:BoschGroup:744000157957589",
+   "company": "Bosch",
+   "title": "[BD] JavaScript Developer Intern (6-month fulltime internship)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Ho Chi Minh, , Vietnam",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000157957589",
+   "posted_at": "2026-10-27T04:30:02.219Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-27T14:39:13Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "JavaScript",
+    "LLMs",
+    "HTML/CSS"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:ensigninfosecurity:/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697",
    "company": "Ensigninfosecurity",
@@ -104,32 +129,6 @@
     "Verilog"
    ],
    "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:Experian:744000157657879",
-   "company": "Experian",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Cyberjaya, Selangor, Malaysia",
-   "url": "https://jobs.smartrecruiters.com/Experian/744000157657879",
-   "posted_at": "2026-10-25T02:43:39.709Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-25T04:44:53Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "Node.js"
-   ],
-   "source": "smartrecruiters",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

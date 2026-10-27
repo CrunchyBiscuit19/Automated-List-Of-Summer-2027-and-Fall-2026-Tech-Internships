@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T05:13:37Z",
- "fetched_at": "2026-10-27T05:13:37Z",
- "duration_seconds": 1137.4,
+ "generated_at": "2026-10-27T14:39:13Z",
+ "fetched_at": "2026-10-27T14:39:13Z",
+ "duration_seconds": 1005.8,
  "companies_total": 4651,
  "companies_by_source": {
   "greenhouse": 1052,
@@ -17,28 +17,25 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 93,
- "fetched_ok": 4260,
- "fetch_errors": 298,
+ "quarantined": 299,
+ "fetched_ok": 4249,
+ "fetch_errors": 103,
  "errors_by_source": {
-  "greenhouse": 49,
-  "rippling": 1,
-  "workday": 163,
-  "lever": 35,
-  "ashby": 50
+  "workday": 98,
+  "workable": 5
  },
- "fetch_success_rate": 0.935,
- "fetch_success_rate_registry": 0.916,
- "snapshots_complete": 3666,
- "snapshots_partial": 594,
+ "fetch_success_rate": 0.976,
+ "fetch_success_rate_registry": 0.914,
+ "snapshots_complete": 3642,
+ "snapshots_partial": 607,
  "partial_by_reason": {
-  "result-cap": 587,
-  "malformed-response": 7
+  "result-cap": 512,
+  "malformed-response": 95
  },
- "degraded_fetches": 7,
- "roles_matched": 76,
- "dropped_no_year_in_title": 680,
- "dropped_offcycle_by_text": 180,
+ "degraded_fetches": 95,
+ "roles_matched": 79,
+ "dropped_no_year_in_title": 694,
+ "dropped_offcycle_by_text": 181,
  "roles_cycle_inferred": 92,
  "roles_by_source": {
   "amazon": 1,
@@ -57,8 +54,8 @@
  },
  "roles_by_region": {
   "Singapore": 67,
-  "Vietnam": 32,
-  "Malaysia": 20,
+  "Vietnam": 33,
+  "Malaysia": 19,
   "Thailand": 2,
   "Philippines": 2
  },
@@ -66,21 +63,21 @@
   "unknown": 123
  },
  "posted_date_coverage": 1.0,
- "enriched_this_run": 10,
- "enrichment_detail_fetches": 0,
+ "enriched_this_run": 11,
+ "enrichment_detail_fetches": 1,
  "purged_this_run": 0,
- "new_this_run": 0,
+ "new_this_run": 1,
  "open_total": 123,
  "detection_latency": {
-  "median_minutes": 293.5,
-  "p95_minutes": 465.4,
-  "sample_size": 8,
+  "median_minutes": 335.9,
+  "p95_minutes": 609.2,
+  "sample_size": 9,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 12.5,
-  "sample_size": 150
+  "median_days": 12,
+  "sample_size": 151
  },
- "rendered_at": "2026-10-27T05:13:37Z"
+ "rendered_at": "2026-10-27T14:39:13Z"
 }
