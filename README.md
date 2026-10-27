@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 123 open roles (96 listed below) · 22 new this week
+### 123 open roles (96 listed below) · 20 new this week
 
-4,401 employers tracked · data as of Oct 26, 2026 at 21:17 UTC
+4,401 employers tracked · data as of Oct 27, 2026 at 05:13 UTC
 
 _31 have a cycle the employer stated · 92 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -129,7 +129,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Ensigninfosecurity | Intern, Software Engineer 🆕 | Software | Singapore | Python, TypeScript, Next.js, Django | Oct 26, 2026 | [Apply](https://ensigninfosecurity.wd3.myworkdayjobs.com/Ensign_Careers/job/Singapore/Intern--Software-Engineer_JOBREQ-0003697) |
 | PricewaterhouseCoopers (PwC) | Intern, Cybersecurity (Penetration Testing) 🆕 | Security | Hanoi | Azure | Oct 26, 2026 | [Apply](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity--Penetration-Testing-_769919WD) |
 | Altera Corporation | Embedded Soft IP Intern 🆕 | Software | Penang 15, Penang, Malaysia | Python, Verilog | Oct 26, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Embedded-Soft-IP-Intern_R03357) |
-| Experian | Software Engineering Intern 🆕 | Software | Cyberjaya, Selangor, Malaysia | Python, Java, JavaScript, Node.js | Oct 25, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000157657879) |
+| Experian | Software Engineering Intern | Software | Cyberjaya, Selangor, Malaysia | Python, Java, JavaScript, Node.js | Oct 25, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000157657879) |
 | Engineers Gate | Quantitative Research Intern | Quant | Singapore | Python | Oct 23, 2026 | [Apply](https://job-boards.greenhouse.io/engineersgate/jobs/8317827) |
 | Bertelsmann | AIP Intern - Network DevOps Track | Software | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041838) |
 | Bertelsmann | AIP Intern - Cybersecurity Track | Security | Kuala Lumpur, , Malaysia | LLMs | Oct 22, 2026 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000157041938) |
@@ -189,7 +189,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Razer | Applied AI Intern (Voice) | Data & ML/AI | Singapore | Python, SQL, LLMs, Node.js | Aug 28, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) |
 
 <details>
-<summary><strong>Recently closed</strong> — 16 roles that left the list in the last 14 days</summary>
+<summary><strong>Recently closed</strong> — 14 roles that left the list in the last 14 days</summary>
 
 _Why each one left is in the last column, because the two reasons carry different evidence. **Gone from feed** = two consecutive complete reads of the employer's board no longer returned it (strong, but not the employer telling us directly). **Out of scope** = still posted, but it no longer passes our filters — our call, not theirs. **Not recorded** = closed before we started tracking the reason._
 
@@ -209,8 +209,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Autodesk | Intern, Software Engineer in Test [AEC Autocad Engineering] | Summer 2027 | 2026-10-21 | gone from feed |
 | Autodesk | Intern, Software Development Engineer [PSET-Connected Delivery] | Summer 2027 | 2026-10-19 | gone from feed |
 | Texas Instruments | 2026 Q4 - Artificial Intelligence Intern | Fall 2026 | 2026-10-13 | out of scope |
-| AppLovin | Mobile Engineering Intern (2027 Summer Internship) | Summer 2027 | 2026-10-13 | gone from feed |
-| AppLovin | Backend Engineering Intern (2027 Summer Internship) | Summer 2027 | 2026-10-13 | gone from feed |
 
 </details>
 
@@ -229,7 +227,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,316 of 4,651 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 1071.2s · 638 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,260 of 4,651 registered boards returned successfully across 12 ATS platforms (93% of boards attempted, 91% of the full registry) · completed in 1137.4s · 594 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 
