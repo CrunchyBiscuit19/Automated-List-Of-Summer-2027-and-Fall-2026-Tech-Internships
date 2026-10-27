@@ -1,11 +1,37 @@
 {
- "generated_at": "2026-10-27T14:39:13Z",
- "data_as_of": "2026-10-27T14:39:13Z",
- "rendered_at": "2026-10-27T14:39:13Z",
+ "generated_at": "2026-10-27T20:56:57Z",
+ "data_as_of": "2026-10-27T20:56:57Z",
+ "rendered_at": "2026-10-27T20:56:57Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 123,
+ "count": 124,
  "jobs": [
+  {
+   "id": "smartrecruiters:Experian:744000157956149",
+   "company": "Experian",
+   "title": "Software Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Cyberjaya, Selangor, Malaysia",
+   "url": "https://jobs.smartrecruiters.com/Experian/744000157956149",
+   "posted_at": "2026-10-27T03:56:40.939Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-27T20:56:57Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "Node.js"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:BoschGroup:744000157957589",
    "company": "Bosch",
