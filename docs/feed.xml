@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-28T05:47:13Z</updated>
+  <updated>2026-10-28T15:24:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1</id>
+    <title>Hewlett Packard (HP): College Intern - Firmware Engineering</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1"/>
+    <updated>2026-10-28T15:24:42Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Singapore, South West, Singapore · Python, Git · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1</id>
+    <title>Hewlett Packard (HP): College Intern - Agentic AI Engineering</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1"/>
+    <updated>2026-10-28T15:24:42Z</updated>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Data &amp; ML/AI · Singapore, South West, Singapore · status: closed</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158270689</id>
+    <title>Bosch: Intern, HVAC AI Research</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158270689"/>
+    <updated>2026-10-28T15:24:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore, Singapore, Singapore · Python, C++, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Taguig-City-National-Capital-Region-Manila-Philippines/AI-Capability-Hub-Intern_JR-202622956</id>
     <title>General Motors: AI Capability Hub Intern</title>
@@ -344,20 +368,12 @@
     <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia (Hybrid)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:grab:744000155475389</id>
-    <title>Grab: Intern, Software Engineer</title>
-    <link href="https://jobs.smartrecruiters.com/grab/744000155475389"/>
-    <updated>2026-10-16T19:44:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore, , Singapore · Python, Java, C++, JavaScript, SQL · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000155409889</id>
     <title>Bosch: [SX/BSV-VN] Embedded Test Engineer Intern</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000155409889"/>
     <updated>2026-10-14T05:01:39Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <summary>2 openings · Not stated · Software · Ha Noi, , Vietnam · Python, Linux · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marvell:/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441</id>
@@ -608,22 +624,6 @@
     <summary>2 openings · Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam · Python, Java, C#, LLMs, React</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Operations-Transformation-Intern_JR26091696</id>
-    <title>Manulife Financial: AI Operations Transformation Intern</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Operations-Transformation-Intern_JR26091696"/>
-    <updated>2026-09-28T17:02:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698</id>
-    <title>Manulife Financial: AI Risk Intelligence, Monitoring &amp; Governance Intern (Distribution Risk)</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698"/>
-    <updated>2026-09-28T17:02:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · HTML/CSS</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:zebra:/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399</id>
     <title>Zebra Technologies: 2027 (6-months) Internship (Singapore) - Artificial Intelligence</title>
     <link href="https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Singapore/XMLNAME-2026--6-months--Internship--Singapore----Artificial-Intelligence_JR103399"/>
@@ -638,14 +638,6 @@
     <updated>2026-09-28T05:33:59Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Malaysia, Penang · Python, SQL, Azure, Databricks · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:manulife:/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599</id>
-    <title>Manulife Financial: AI Transformation Intern (Distribution Transformation &amp; Supercharged AI Assistant)</title>
-    <link href="https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599"/>
-    <updated>2026-09-25T13:59:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore · LLMs, HTML/CSS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-09T22:47:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · TypeScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
+    <title>Bosch: Internship in IT Solution Developer</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148364924"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Batu Kawan, Penang, Malaysia · Python, JavaScript, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

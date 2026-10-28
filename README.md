@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fcrunchybiscuit19.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%2030%20min-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)
 
-### 128 open roles (99 listed below) · 22 new this week
+### 127 open roles (97 listed below) · 20 new this week
 
-4,401 employers tracked · data as of Oct 28, 2026 at 05:47 UTC
+4,401 employers tracked · data as of Oct 28, 2026 at 15:24 UTC
 
-_31 have a cycle the employer stated · 97 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_31 have a cycle the employer stated · 96 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/)** · **[📡 RSS](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml)** · **[⚙️ JSON API](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/api/jobs.json)** · **[✉️ Email alerts](https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#subscribe)**
 
@@ -120,12 +120,13 @@ If it helps you, a star means a lot and tells me to keep going.
 | Bosch | [Internship Program Q4] Embedded Software Intern (C/C++/Linux) _(3 openings)_ | Software | Ho Chi Minh, , Vietnam | C++, Python | Aug 13, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000143206979) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000148366240) [#3](https://jobs.smartrecruiters.com/BoschGroup/744000149236759) |
 | Bosch | [Internship Program Q4] AI Engineer Intern | Data & ML/AI | Ho Chi Minh, , Vietnam | Python, C++, PyTorch, TensorFlow | Aug 07, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000142038898) |
 
-## Recently posted — cycle not stated  (62 roles)
+## Recently posted — cycle not stated  (59 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Skills | Posted | Apply |
 |---|---|---|---|---|---|---|
+| Bosch | Intern, HVAC AI Research 🆕 | Data & ML/AI | Singapore, Singapore, Singapore | Python, C++, PyTorch, TensorFlow | Oct 28, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158270689) |
 | General Motors | AI Capability Hub Intern 🆕 | Data & ML/AI | Taguig City +2 more | Python, LLMs | Oct 28, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/AI-Capability-Hub-Intern_JR-202622956) |
 | Experian | Software Engineering Intern 🆕 | Software | Cyberjaya, Selangor, Malaysia | Python, Java, JavaScript, Node.js | Oct 27, 2026 | [Apply](https://jobs.smartrecruiters.com/Experian/744000157956149) |
 | Bosch | [BD] JavaScript Developer Intern (6-month fulltime internship) 🆕 | Software | Ho Chi Minh, , Vietnam | JavaScript, LLMs, HTML/CSS | Oct 27, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000157957589) |
@@ -153,9 +154,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Nokia | NPI Engineering Intern (AI-Assisted Operations) | Data & ML/AI | Singapore | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41051) |
 | Nokia | NPI Engineering Intern (AI-Assisted Operations) | Data & ML/AI | Malaysia | Kubernetes, Docker, Linux | Oct 16, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41087) |
 | Continental | IT Internship - IT Infrastructure | Software | Petaling Jaya +2 more | No skills listed | Oct 15, 2026 | [Apply](https://jobs.smartrecruiters.com/Continental/744000155656759) |
-| Bosch | [SX/BSV-VN] Embedded Test Engineer Intern | Software | Ha Noi, , Vietnam | Python, Linux | Oct 14, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155409889) |
+| Bosch | [SX/BSV-VN] Embedded Test Engineer Intern 🆕 _(2 openings)_ | Software | Ha Noi, , Vietnam | Python, Linux | Oct 14, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155409889) [#2](https://jobs.smartrecruiters.com/BoschGroup/744000158244934) |
 | Marvell | AI Solutions Engineer Intern - Bachelor's/Master's Degree | Data & ML/AI | Singapore | Python, LLMs, AWS, Databricks | Oct 13, 2026 | [Apply](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/AI-Solutions-Engineer-Intern---Bachelor-s-Master-s-Degree_2604441) |
-| Bosch | [BD] DevOps Intern | Software | Ho Chi Minh, , Vietnam | Python, Bash, AWS, Azure | Oct 12, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154925330) |
 | Merck | Intern- Distribution, Logistics & Warehousing Quality Data Analyst | Data & ML/AI | SGP - Singapore - Singapore (Boulevard… | No skills listed | Oct 12, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Intern--Distribution--Logistics---Warehousing-Quality-Data-Analyst_R421490) |
 | Razer | Data Science Intern | Data & ML/AI | Singapore | Python, SQL, PyTorch, TensorFlow | Oct 09, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795) |
 | Micron Technology | Intern - HVM PEE Photo (AI) | Data & ML/AI | Fab 10N/X, Singapore | Python, LLMs | Oct 08, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---HVM-PEE-Photo--AI-_JR112979) |
@@ -175,10 +175,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Shopback 2 | Software Engineer Intern - Backend | Software | Ho Chi Minh, Vietnam | Python, Java, C++, C# | Sep 29, 2026 | [Apply](https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b) |
 | Razer | Software Cloud Intern | Software | Singapore | Python, Node.js, Kubernetes, Docker | Sep 29, 2026 | [Apply](https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798) |
 | Shopback 2 | Software Engineer Intern - Mobile | Software | Ho Chi Minh, Vietnam | Java, Swift, Kotlin, React | Sep 28, 2026 | [Apply](https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56) |
-| Manulife Financial | AI Operations Transformation Intern | Data & ML/AI | Singapore | HTML/CSS | Sep 28, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Operations-Transformation-Intern_JR26091696) |
-| Manulife Financial | AI Risk Intelligence, Monitoring & Governance Intern (Distribution Risk) | Data & ML/AI | Singapore | HTML/CSS | Sep 28, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698) |
 | Intel | IT Undergrad Technical Intern - AI and Data Analytics | Data & ML/AI | Malaysia, Penang | Python, SQL, Azure, Databricks | Sep 28, 2026 | [Apply](https://intel.wd1.myworkdayjobs.com/external/job/Malaysia-Penang/IT-Undergrad-Technical-Intern---AI-and-Data-Analytics_JR0287585) |
-| Manulife Financial | AI Transformation Intern (Distribution Transformation & Supercharged AI Assistant) | Data & ML/AI | Singapore | LLMs, HTML/CSS | Sep 25, 2026 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_adminJobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599) |
 | Rockwell Automation | AI & Embedded Engineering Intern | Data & ML/AI | Singapore, Singapore | Python, C++ | Sep 25, 2026 | [Apply](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/AI---Embedded-Engineering-Intern_R26-6305) |
 | Stripe | Financial Data Analyst Intern, Technical Operations | Data & ML/AI | Singapore | Python, SQL, Ruby, Git | Sep 24, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) |
 | Micron Technology | Intern - Facilities Sustainability AI | Data & ML/AI | MSB, Singapore | Python, LLMs | Sep 22, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586) |
@@ -227,7 +224,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,227 of 4,651 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 90% of the full registry) · completed in 1047.1s · 575 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,294 of 4,651 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 1282.4s · 631 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

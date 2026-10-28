@@ -1,6 +1,12 @@
 {
   "pending": {
-    "discord": [],
-    "telegram": []
+    "discord": [
+      "smartrecruiters:BoschGroup:744000158270689",
+      "smartrecruiters:BoschGroup:744000158244934"
+    ],
+    "telegram": [
+      "smartrecruiters:BoschGroup:744000158270689",
+      "smartrecruiters:BoschGroup:744000158244934"
+    ]
   }
 }
