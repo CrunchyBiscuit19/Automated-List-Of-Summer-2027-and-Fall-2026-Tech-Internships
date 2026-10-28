@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-27T20:56:57Z</updated>
+  <updated>2026-10-28T05:47:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Taguig-City-National-Capital-Region-Manila-Philippines/AI-Capability-Hub-Intern_JR-202622956</id>
+    <title>General Motors: AI Capability Hub Intern</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/AI-Capability-Hub-Intern_JR-202622956"/>
+    <updated>2026-10-28T05:47:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Taguig City, National Capital Region (Manila), Philippines · Python, LLMs · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Experian:744000157956149</id>
     <title>Experian: Software Engineering Intern</title>
@@ -197,7 +205,7 @@
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883"/>
     <updated>2026-10-20T13:50:35Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Ho Chi Minh, Vietnam</summary>
+    <summary>2 openings · Not stated · Software · Ho Chi Minh, Vietnam</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:160316</id>
@@ -709,7 +717,7 @@
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R68829"/>
     <updated>2026-09-17T05:01:52Z</updated>
     <category term="Not stated"/>
-    <summary>4 openings · Not stated · Software · Penang, Malaysia · Java, C++, Kotlin</summary>
+    <summary>6 openings · Not stated · Software · Penang, Malaysia · Java, C++, Kotlin</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:pwc:/job/Singapore---Marina-One/Risk-Services---AI-Factory-Data-Scientist-Off-Cycle-Internship--Jan---Jun-27-_741281WD</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-09T22:47:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · TypeScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
-    <title>Bosch: Internship in IT Solution Developer</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148364924"/>
-    <updated>2026-09-09T04:51:38Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Batu Kawan, Penang, Malaysia · Python, JavaScript, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
