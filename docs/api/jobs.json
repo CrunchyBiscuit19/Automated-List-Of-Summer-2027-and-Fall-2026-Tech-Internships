@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-10-28T15:24:42Z",
- "data_as_of": "2026-10-28T15:24:42Z",
- "rendered_at": "2026-10-28T15:24:42Z",
+ "generated_at": "2026-10-28T21:17:40Z",
+ "data_as_of": "2026-10-28T21:17:40Z",
+ "rendered_at": "2026-10-28T21:17:40Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 127,
+ "count": 126,
  "jobs": [
+  {
+   "id": "smartrecruiters:BoschGroup:744000158244934",
+   "company": "Bosch",
+   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Ha Noi, , Vietnam",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158244934",
+   "posted_at": "2026-10-28T09:47:44.826Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-28T15:24:42Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:BoschGroup:744000158270689",
    "company": "Bosch",
@@ -29,30 +53,6 @@
     "scikit-learn",
     "Pandas",
     "LLMs"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:BoschGroup:744000158244934",
-   "company": "Bosch",
-   "title": "[SX/BSV-VN] Embedded Test Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Ha Noi, , Vietnam",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158244934",
-   "posted_at": "2026-10-28T09:47:44.826Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-28T15:24:42Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux"
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 188,
@@ -301,29 +301,6 @@
     "Verilog"
    ],
    "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:engineersgate:8317827",
-   "company": "Engineers Gate",
-   "title": "Quantitative Research Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Quant",
-   "location": "Singapore",
-   "url": "https://job-boards.greenhouse.io/engineersgate/jobs/8317827",
-   "posted_at": "2026-10-23T12:00:01-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-23T20:11:12Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

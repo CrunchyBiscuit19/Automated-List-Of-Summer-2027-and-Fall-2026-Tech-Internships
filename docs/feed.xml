@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-28T15:24:42Z</updated>
+  <updated>2026-10-28T21:17:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1</id>
-    <title>Hewlett Packard (HP): College Intern - Firmware Engineering</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1"/>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158270689</id>
+    <title>Bosch: Intern, HVAC AI Research</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158270689"/>
     <updated>2026-10-28T15:24:42Z</updated>
-    <category term="Winter 2027"/>
-    <summary>Winter 2027 · Hardware · Singapore, South West, Singapore · Python, Git · status: closed</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Singapore, Singapore, Singapore · Python, C++, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Agentic-AI-Engineering_UNI5129-1</id>
@@ -24,12 +24,12 @@
     <summary>Winter 2027 · Data &amp; ML/AI · Singapore, South West, Singapore · status: closed</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158270689</id>
-    <title>Bosch: Intern, HVAC AI Research</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158270689"/>
+    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1</id>
+    <title>Hewlett Packard (HP): College Intern - Firmware Engineering</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128-1"/>
     <updated>2026-10-28T15:24:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore, Singapore, Singapore · Python, C++, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+    <category term="Winter 2027"/>
+    <summary>Winter 2027 · Hardware · Singapore, South West, Singapore · Python, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Taguig-City-National-Capital-Region-Manila-Philippines/AI-Capability-Hub-Intern_JR-202622956</id>
@@ -91,9 +91,9 @@
     <id>urn:intern-engine:greenhouse:engineersgate:8317827</id>
     <title>Engineers Gate: Quantitative Research Intern</title>
     <link href="https://job-boards.greenhouse.io/engineersgate/jobs/8317827"/>
-    <updated>2026-10-23T20:11:12Z</updated>
+    <updated>2026-10-28T21:17:39Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Quant · Singapore · Python</summary>
+    <summary>Not stated · Quant · Singapore · Python · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10587269</id>
