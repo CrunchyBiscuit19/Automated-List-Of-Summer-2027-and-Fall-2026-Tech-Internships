@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-29T05:56:53Z</updated>
+  <updated>2026-10-29T15:28:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000158456500</id>
+    <title>Western Digital: Internship - Software Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000158456500"/>
+    <updated>2026-10-29T15:28:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, SQL, Pandas, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158429749</id>
     <title>Bosch: Intern, Software Development</title>
@@ -360,14 +368,6 @@
     <summary>Summer 2027 · Software · Singapore, , Singapore · Python, SQL, LLMs, AWS, GCP</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workable:qodeworld:E3CDB2C731</id>
-    <title>qode.world: Full Stack Engineering Intern</title>
-    <link href="https://apply.workable.com/qodeworld/j/E3CDB2C731/"/>
-    <updated>2026-10-22T20:19:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Ho Chi Minh City, Ho Chi Minh, Vietnam · TypeScript, JavaScript, SQL, Next.js, Node.js · status: closed</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:Continental:744000155656759</id>
     <title>Continental: IT Internship - IT Infrastructure</title>
     <link href="https://jobs.smartrecruiters.com/Continental/744000155656759"/>
@@ -608,14 +608,6 @@
     <summary>Fall 2026 · Security · MY012 - Petaling Jaya,Malaysia(MY012) · Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:razer:/job/Singapore/Software-Cloud-Intern_JR2026007798</id>
-    <title>Razer: Software Cloud Intern</title>
-    <link href="https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Cloud-Intern_JR2026007798"/>
-    <updated>2026-09-29T10:55:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Singapore · Python, Node.js, Kubernetes, Docker, Linux</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:shopback-2:f3876c50-8b06-4342-af17-7cf393176a56</id>
     <title>Shopback 2: Software Engineer Intern - Mobile</title>
     <link href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-09T22:47:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · TypeScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
+    <title>Bosch: Internship in IT Solution Developer</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148364924"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Batu Kawan, Penang, Malaysia · Python, JavaScript, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
