@@ -1,22 +1,6 @@
 {
   "pending": {
-    "discord": [
-      "oracle:edix.fa.us2.oraclecloud.com:8978",
-      "smartrecruiters:BoschGroup:744000158674821",
-      "smartrecruiters:BoschGroup:744000158674030",
-      "smartrecruiters:BoschGroup:744000158675019",
-      "smartrecruiters:BoschGroup:744000158674399",
-      "smartrecruiters:BoschGroup:744000158706539",
-      "smartrecruiters:WesternDigital:744000158684529"
-    ],
-    "telegram": [
-      "oracle:edix.fa.us2.oraclecloud.com:8978",
-      "smartrecruiters:BoschGroup:744000158674821",
-      "smartrecruiters:BoschGroup:744000158674030",
-      "smartrecruiters:BoschGroup:744000158675019",
-      "smartrecruiters:BoschGroup:744000158674399",
-      "smartrecruiters:BoschGroup:744000158706539",
-      "smartrecruiters:WesternDigital:744000158684529"
-    ]
+    "discord": [],
+    "telegram": []
   }
 }
