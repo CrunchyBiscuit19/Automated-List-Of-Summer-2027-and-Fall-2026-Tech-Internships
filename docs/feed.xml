@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-30T05:56:45Z</updated>
+  <updated>2026-10-30T15:17:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:edix.fa.us2.oraclecloud.com:8978</id>
+    <title>Corsair: Data Analyst Intern</title>
+    <link href="https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8978"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Viet Nam · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158674821</id>
+    <title>Bosch: [Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158674821"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158674030</id>
+    <title>Bosch: [Internship Program Q1 2027] AI Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158674030"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Ho Chi Minh, , Vietnam · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158675019</id>
+    <title>Bosch: [Internship Program Q1 2027] DevOps Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158675019"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · Python, Git · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158674399</id>
+    <title>Bosch: [Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158674399"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · Python, Java, Node.js, Django, JavaScript · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158706539</id>
+    <title>Bosch: [BD] Software Developer Intern (Backend/ JavaScript / APIs / CI/CD )</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158706539"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, , Vietnam · JavaScript · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000158684529</id>
+    <title>Western Digital: Internship - Software Development (Embedded)</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000158684529"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2</id>
     <title>Hewlett Packard (HP): College Intern - Data Science</title>
@@ -27,9 +83,9 @@
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000158456500</id>
     <title>Western Digital: Internship - Software Engineering</title>
     <link href="https://jobs.smartrecruiters.com/WesternDigital/744000158456500"/>
-    <updated>2026-10-29T15:28:20Z</updated>
+    <updated>2026-10-30T15:17:56Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, SQL, Pandas, Git</summary>
+    <summary>Not stated · Software · Petaling Jaya, Selangor, Malaysia · Python, SQL, Pandas, Git · status: closed</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158429749</id>
@@ -185,7 +241,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657</id>
-    <title>Hitachi Energy: AI-Driven Full Stack Intern</title>
+    <title>Hitachi Energy: AI-Driven Full Stack Intern (Java/C#/NodeJS)</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Da-Nang--Nng-Vietnam/AI-Driven-Full-Stack-Intern_R0148657"/>
     <updated>2026-10-21T20:22:28Z</updated>
     <category term="Not stated"/>
@@ -600,14 +656,6 @@
     <summary>Not stated · Software · SINGAPORE · Python</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:db:/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248</id>
-    <title>Deutsche Bank: AI Audit and Analytics Intern - YTP program</title>
-    <link href="https://db.wd3.myworkdayjobs.com/DBWebsite/job/Singapore-One-Raffles-Quay/AI-Audit-and-Analytics-Intern---YTP-program_R0453248"/>
-    <updated>2026-09-30T15:07:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore, One Raffles Quay</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:shopback-2:4b9f7dd7-1d57-484f-a01a-16a12c23d31b</id>
     <title>Shopback 2: Software Engineer Intern - Backend</title>
     <link href="https://jobs.lever.co/shopback-2/4b9f7dd7-1d57-484f-a01a-16a12c23d31b"/>
@@ -758,53 +806,5 @@
     <updated>2026-09-15T13:40:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:applovin:4713038006</id>
-    <title>AppLovin: Machine Learning Engineering Intern (2027 Summer Internship)</title>
-    <link href="https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006"/>
-    <updated>2026-09-15T05:03:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Singapore · Python, PyTorch, TensorFlow · H-1B track record: ~40 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/AI-Compute-Intern_R108149</id>
-    <title>Tencent: AI Compute Intern</title>
-    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/AI-Compute-Intern_R108149"/>
-    <updated>2026-09-14T15:16:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, Bash, LLMs, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784061</id>
-    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Associate Program – Off-Cycle Internship - Singapore</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784061"/>
-    <updated>2026-09-13T19:02:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784366</id>
-    <title>JPMorganChase: 2027 Markets Quantitative Trading &amp; Research Analyst Program – Off-Cycle Internship - Singapore</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210784366"/>
-    <updated>2026-09-13T19:02:52Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · Singapore · Python, Java, C++, C#, JavaScript · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17</id>
-    <title>Sierra: Software Engineer Intern, Agent (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"/>
-    <updated>2026-09-09T22:47:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Singapore · TypeScript, LLMs, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
-    <title>Bosch: Internship in IT Solution Developer</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148364924"/>
-    <updated>2026-09-09T04:51:38Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Batu Kawan, Penang, Malaysia · Python, JavaScript, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

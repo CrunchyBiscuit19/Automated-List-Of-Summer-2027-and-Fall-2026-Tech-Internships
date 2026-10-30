@@ -503,9 +503,13 @@
      "role_ids": [
       "smartrecruiters:BoschGroup:744000146546699",
       "smartrecruiters:BoschGroup:744000146546849",
-      "smartrecruiters:BoschGroup:744000146547599"
+      "smartrecruiters:BoschGroup:744000146547599",
+      "smartrecruiters:BoschGroup:744000158674030",
+      "smartrecruiters:BoschGroup:744000158674399",
+      "smartrecruiters:BoschGroup:744000158674821",
+      "smartrecruiters:BoschGroup:744000158675019"
      ],
-     "count": 3
+     "count": 7
     },
     "Fall 2026": {
      "first_posted": "2026-04-09",
@@ -2806,5 +2810,5 @@
    }
   }
  },
- "updated_at": "2026-10-30T05:56:45Z"
+ "updated_at": "2026-10-30T15:17:56Z"
 }
