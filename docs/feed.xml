@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-30T15:17:56Z</updated>
+  <updated>2026-10-30T21:01:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:edix.fa.us2.oraclecloud.com:8978</id>
@@ -16,14 +16,6 @@
     <summary>Not stated · Data &amp; ML/AI · Viet Nam · Python, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158674821</id>
-    <title>Bosch: [Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158674821"/>
-    <updated>2026-10-30T15:17:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158674030</id>
     <title>Bosch: [Internship Program Q1 2027] AI Engineer Intern</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158674030"/>
@@ -32,20 +24,28 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Ho Chi Minh, , Vietnam · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158675019</id>
-    <title>Bosch: [Internship Program Q1 2027] DevOps Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158675019"/>
-    <updated>2026-10-30T15:17:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · Python, Git · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158674399</id>
     <title>Bosch: [Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158674399"/>
     <updated>2026-10-30T15:17:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · Python, Java, Node.js, Django, JavaScript · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158674821</id>
+    <title>Bosch: [Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158674821"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · C++, Python · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158675019</id>
+    <title>Bosch: [Internship Program Q1 2027] DevOps Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000158675019"/>
+    <updated>2026-10-30T15:17:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Ho Chi Minh, , Vietnam · Python, Git · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000158706539</id>

@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-30T15:17:56Z",
- "data_as_of": "2026-10-30T15:17:56Z",
- "rendered_at": "2026-10-30T15:17:57Z",
+ "generated_at": "2026-10-30T21:01:56Z",
+ "data_as_of": "2026-10-30T21:01:56Z",
+ "rendered_at": "2026-10-30T21:01:56Z",
  "source": "https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
  "h1b_window": "FY2022–2023",
- "count": 129,
+ "count": 128,
  "jobs": [
   {
    "id": "oracle:edix.fa.us2.oraclecloud.com:8978",
@@ -28,30 +28,6 @@
    ],
    "source": "oracle",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:BoschGroup:744000158674821",
-   "company": "Bosch",
-   "title": "[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Ho Chi Minh, , Vietnam",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158674821",
-   "posted_at": "2026-10-30T07:26:32.346Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-30T15:17:56Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C++",
-    "Python"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 188,
    "program": "Internship",
    "remote": false
   },
@@ -83,30 +59,6 @@
    "remote": false
   },
   {
-   "id": "smartrecruiters:BoschGroup:744000158675019",
-   "company": "Bosch",
-   "title": "[Internship Program Q1 2027] DevOps Engineer Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Ho Chi Minh, , Vietnam",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158675019",
-   "posted_at": "2026-10-30T07:23:33.823Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-30T15:17:56Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Git"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 188,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "smartrecruiters:BoschGroup:744000158674399",
    "company": "Bosch",
    "title": "[Internship Program Q1 2027] Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.NET)",
@@ -129,6 +81,54 @@
     "JavaScript",
     "Angular",
     "HTML/CSS"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "smartrecruiters:BoschGroup:744000158674821",
+   "company": "Bosch",
+   "title": "[Internship Program Q1 2027] Embedded Software Engineer Intern (C/C++/Linux)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Ho Chi Minh, , Vietnam",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158674821",
+   "posted_at": "2026-10-30T07:26:32.346Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-30T15:17:56Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++",
+    "Python"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 188,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "smartrecruiters:BoschGroup:744000158675019",
+   "company": "Bosch",
+   "title": "[Internship Program Q1 2027] DevOps Engineer Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Ho Chi Minh, , Vietnam",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000158675019",
+   "posted_at": "2026-10-30T07:23:33.823Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-30T15:17:56Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Git"
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 188,
@@ -2824,36 +2824,6 @@
     "TypeScript",
     "LLMs",
     "React"
-   ],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:cantina:16c7915e-9fd7-413f-b7ee-590589fbdc01",
-   "company": "Cantina",
-   "title": "Machine Learning Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Singapore",
-   "url": "https://jobs.ashbyhq.com/cantina/16c7915e-9fd7-413f-b7ee-590589fbdc01",
-   "posted_at": "2026-09-07T07:22:53.368+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-07T14:31:03Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Computer Vision",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Kubernetes",
-    "Docker",
-    "Spark"
    ],
    "source": "ashby",
    "h1b_approvals": null,
