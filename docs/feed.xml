@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-29T21:17:26Z</updated>
+  <updated>2026-10-30T05:56:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2</id>
+    <title>Hewlett Packard (HP): College Intern - Data Science</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Data-Science_UNI4644-2"/>
+    <updated>2026-10-30T05:56:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore, South West, Singapore · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:engineersgate:8328653</id>
     <title>Engineers Gate: Quantitative Research Intern</title>
@@ -488,6 +496,14 @@
     <summary>Not stated · Data &amp; ML/AI · Singapore, Singapore · Python, LLMs</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000153647992</id>
+    <title>Bosch: [EAA] Embedded Test Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153647992"/>
+    <updated>2026-10-06T11:27:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ho Chi Minh, , Vietnam · C++ · H-1B track record: ~188 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer-Internship_R0142215</id>
     <title>Hitachi Energy: Embedded Software Engineer Internship</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Software-Engineer-Internship_R0142215"/>
@@ -752,36 +768,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Singapore · Python, PyTorch, TensorFlow · H-1B track record: ~40 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149241480</id>
-    <title>Bosch: [EAA] Embedded Test Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000149241480"/>
-    <updated>2026-09-14T15:16:51Z</updated>
-    <category term="Not stated"/>
-    <summary>2 openings · Not stated · Software · Ho Chi Minh, , Vietnam · C++ · H-1B track record: ~188 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Cloud--DevOps-Intern_R0144780</id>
-    <title>Hitachi Energy: AI-Driven Cloud/ DevOps Intern</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Cloud--DevOps-Intern_R0144780"/>
-    <updated>2026-09-14T15:16:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Ho Chi Minh City, Ho Chi Minh, Vietnam</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tencent:/job/Singapore-CapitaSky/AI-Compute-Intern_R108149</id>
     <title>Tencent: AI Compute Intern</title>
     <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/AI-Compute-Intern_R108149"/>
     <updated>2026-09-14T15:16:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Singapore-CapitaSky · Python, Bash, LLMs, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000149233579</id>
-    <title>Bosch: [BD] Software Test Engineer Intern (6-month Internship)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000149233579"/>
-    <updated>2026-09-14T05:05:09Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210784061</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-09T22:47:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Singapore · TypeScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000148364924</id>
+    <title>Bosch: Internship in IT Solution Developer</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000148364924"/>
+    <updated>2026-09-09T04:51:38Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Batu Kawan, Penang, Malaysia · Python, JavaScript, SQL · H-1B track record: ~188 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
