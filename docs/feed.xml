@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://crunchybiscuit19.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships"/>
-  <updated>2026-10-30T21:01:56Z</updated>
+  <updated>2026-10-31T05:44:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/CrunchyBiscuit19/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:edix.fa.us2.oraclecloud.com:8978</id>
@@ -800,11 +800,11 @@
     <summary>Not stated · Software · Singapore · C++, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:micron:/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107</id>
-    <title>Micron Technology: Intern - NAND Device Engineering AI</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107"/>
-    <updated>2026-09-15T13:40:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Fab 10N/X, Singapore · Python, PyTorch, TensorFlow, scikit-learn, Pandas · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:greenhouse:applovin:4713038006</id>
+    <title>AppLovin: Machine Learning Engineering Intern (2027 Summer Internship)</title>
+    <link href="https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006"/>
+    <updated>2026-09-15T05:03:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Singapore · Python, PyTorch, TensorFlow · H-1B track record: ~40 approvals (FY2022–2023)</summary>
   </entry>
 </feed>
